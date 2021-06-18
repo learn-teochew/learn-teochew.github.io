@@ -22,10 +22,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Southern Min subfamily. This site helps to explain the grammar and usage of
   the language to heritage speakers who would like to improve their
   understanding of Teochew.
-baseurl: "/learn-teochew" # the subpath of your site, e.g. /blog
-url: "https://kbseah.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: learn-teochew.github.io
+url: "https://learn-teochew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LearnTeochew
-github_username:  kbseah
+github_username:  learn-teochew
 
 encoding: utf-8
 
@@ -38,7 +39,7 @@ plugins:
 
 # just-the-docs specific
 heading_anchors: true
-footer_content: "Original content copyright (c) 2019 Brandon Seah, except where otherwise indicated"
+footer_content: "Original content copyright (c) 2019-2021 Brandon Seah, except where otherwise indicated"
 logo: "/assets/images/learn-teochew-logo-site-top.png"
 
 # Exclude from processing.
