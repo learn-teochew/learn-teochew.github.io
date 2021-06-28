@@ -2,7 +2,7 @@
 layout: default
 title: A Graduate Kneels Before a Magistrate
 parent: Texts
-nav_order: 1
+nav_order: 201
 ---
 
 A Graduate Kneels Before a Magistrate

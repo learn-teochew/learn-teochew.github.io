@@ -2,7 +2,7 @@
 layout: default
 title: Low Thia Khiang Speech
 parent: Texts
-nav_order: 6
+nav_order: 303
 ---
 
 Speech by Low Thia Khiang 劉程強

@@ -2,7 +2,7 @@
 layout: default
 title: The Moon Shines Brightly
 parent: Texts
-nav_order: 7
+nav_order: 401
 ---
 
 The Moon Shines Brightly (Nursery Rhyme)

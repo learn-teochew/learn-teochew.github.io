@@ -2,7 +2,7 @@
 layout: default
 title: The Christmas Story
 parent: Texts
-nav_order: 3
+nav_order: 103
 ---
 
 The Christmas Story in Teochew

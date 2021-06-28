@@ -2,7 +2,7 @@
 layout: default
 title: Lord’s Prayer
 parent: Texts
-nav_order: 2
+nav_order: 102
 ---
 
 The Lord’s Prayer (Gospel of Matthew)

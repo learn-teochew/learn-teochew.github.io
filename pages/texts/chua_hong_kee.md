@@ -2,7 +2,7 @@
 layout: default
 title: Chua Hong Kee Interview
 parent: Texts
-nav_order: 4
+nav_order: 301
 ---
 
 Interview with Chua Hong Kee 蔡奉岐 (extract)

@@ -41,6 +41,7 @@ Conversations, speeches:
  * [Wang Sa and Ye Fong]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
  * [Low Thia Khiang Speech]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
  * [Pear Stories]({{ site.baseurl }}{% link pages/texts/pear_story.md %})
+ * [Get Vaccinated]({{ site.baseurl }}{% link pages/texts/vaccination.md %})
 
 Rhymes, folksongs:
 

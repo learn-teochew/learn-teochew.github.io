@@ -2,7 +2,7 @@
 layout: default
 title: Pear Stories (Singapore)
 parent: Texts
-nav_order: 10
+nav_order: 304
 ---
 
 Pear Stories (Singapore Teochew, 2011)

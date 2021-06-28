@@ -2,7 +2,7 @@
 layout: default
 title: The Beatitudes
 parent: Texts
-nav_order: 2
+nav_order: 101
 ---
 
 The Beatitudes (Gospel of Luke)

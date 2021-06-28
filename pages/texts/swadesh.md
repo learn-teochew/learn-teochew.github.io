@@ -2,7 +2,7 @@
 layout: default
 title: Swadesh List
 parent: Texts
-nav_order: 10
+nav_order: 501
 ---
 
 Swadesh List
