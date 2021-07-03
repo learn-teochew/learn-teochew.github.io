@@ -17,9 +17,9 @@ Here is a selection of texts from different times and places, either from
 published sources or transcribed from videos or audio recordings, to show
 Teochew in use, beyond the short example sentences in the study guide.[^1]
 
-Each text is transcribed in “flattened” IPA and Guangdong Peng’im (see
-[Pronunciation and Orthography](../pronunciation.md)) as well as Chinese
-characters, along with a rough English translation.
+Each text is transcribed with Guangdong Peng’im (see [Pronunciation and
+Orthography](../pronunciation.md)) as well as Chinese characters and a rough
+English translation.
 
 If you would like to contribute interesting texts or transcriptions, please [get
 in touch!](https://forms.gle/igjwwiz2z2Dpr3SE6)
@@ -63,7 +63,6 @@ The Hong Kong Teochew Culture Association has a great website (in Chinese) with 
  * [Teochew art and culture](https://www.tc-culture.hk/art/index.html)
 
 Tung Tong-ho 董同龢 (1959) [「四個閩南方言」 Four Southern Min dialects](https://www2.ihp.sinica.edu.tw/file/4159uYkeDst.pdf): contains transcriptions of stories and folk songs from four different Southern Min varieties, including the Gêg’ion dialect of Teochew. These are transcribed with the International Phonetic Alphabet and include a vocabulary list.
-
 
 
 <hr />
