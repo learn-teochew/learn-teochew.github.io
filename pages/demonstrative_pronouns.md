@@ -123,11 +123,12 @@ something is done, or the manner in which it is done.
 
 The Hokkien equivalent of *ziê2sên1* is *án-ne* 按呢.
 
-Lim (1886) gives a somewhat different explanation for the hi / hio / hia series:
+Lim (1886) gives a somewhat different explanation for the hi2 / hiê2 / hia2
+series:
 
-> tsio / hio – equivalent to tsiko / heuko in the sense of “here” / “there”
+> ziê2 / hiê2 – equivalent to zi2go3 / he2go3 in the sense of “here” / “there”
 
-> tsia / hia – equivalent to tsikai / heukai in the sense of “this” / “that”
+> zia2 / hia2 – equivalent to zi2gai5 / he2gai5 in the sense of “this” / “that”
 
 
 
