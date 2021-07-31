@@ -23,6 +23,7 @@ Contents
 1. TOC
 {:toc}
 
+
 Coordination without a conjunction
 ----------------------------------
 
@@ -42,6 +43,7 @@ meaning can be conveyed by simple juxtaposition:
 > 伊 是 醫生，前 二年 在 香港 做工。
 >
 > She is doctor, previous two-years in Hong-Kong work.
+
 
 Conjunctive (“and”)
 -------------------
@@ -102,6 +104,7 @@ but in those cases is a preposition/coverb, not a conjunction:
 >
 > He has already booked the plane tickets for us.
 
+
 Disjunctive (“or”)
 ------------------
 
@@ -118,6 +121,7 @@ Disjunctive (“or”)
 > Do you want to drink coffee or tea?
 
 ### *hog4* • 或 • “or”
+
 
 Contrast and concession (“but”)
 -------------------------------
@@ -192,6 +196,7 @@ To contrast two alternative scenarios.
 > can’t be possible to put one in the other.
 >
 > (*Knowing one but not the other* 「只知其一，不知其二」 陳四文)
+
 
 Cause and effect (“because”, “thus”)
 ------------------------------------
@@ -328,6 +333,7 @@ too. The word *ru2* 愈 is also used in comparisons, typically in the word
 >
 > [*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %})
 
+
 Conditionals and conjecture (“if”, “maybe”)
 -------------------------------------------
 
@@ -452,6 +458,30 @@ ko’4 閣 - “again”, “still” (adv, adj)
 
 huar 還 - “still” (adv?)
 -->
+
+
+Time clauses
+------------
+
+See also “Time-related adverbs” under [“Aspect and Time”]({{ site.baseurl }}{% link pages/aspect.md %}).
+
+### tao5 X tao5 Y • 頭 X 頭 Y • “while X, at the same time Y”
+
+Two actions performed at the same time. *tao5* comes before the verb phrases.
+This is similar to the construction *yībiān... yībiān... 一邊* in Mandarin.
+
+> [i³³] **tʰau¹¹** tsiaʔ⁵ **tʰau¹¹** ka³³ ki¹¹ tã⁵² kʰik² ka³³ ki¹¹ tʰĩã³³
+>
+> [i1] **tao5(7)** ziah8 **tao5(7)** dan3(2) kig8(4) ga1gi7 tian1 [...]
+>
+> ［伊］ *頭* 食 *頭* 家己 呾 乞 家己 聽 ［⋯⋯ ］
+>
+> [She] **simultaneously** eat **simultaneously** speak to self hear
+>
+> She ate while saying to herself...
+>
+> [《作田儂瑣事》第三篇「返外家」](https://youtu.be/gcHjHHxdSSw?t=30)
+
 
 
 References and further reading

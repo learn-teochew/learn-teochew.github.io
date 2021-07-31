@@ -459,6 +459,8 @@ Modality can also be expressed through adverbs.
 >
 > *tĩã¹¹tieʔ⁵* • *dian7diêh8* • 定着 • “certainly”
 >
+> *ŋẽ¹¹hõũ⁵²* • ngên6(7)houn2 • 硬～ • “certainly”
+>
 > *bue¹¹si¹¹* • *bhuê7si7* • 未是 • “surely, could it be”
 
 
