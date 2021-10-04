@@ -165,6 +165,24 @@ Used similarly to *dang6(7)si6* above.
 >
 > He wants to return to Hong Kong, but can’t find a job there.
 
+
+### *si6(7)dan3* • 是呾 • “but”
+
+Similar to *dang6(7)si6*
+
+> bo⁵⁵ / i³³ bo¹¹ hĩã³³ bo¹¹ ti³⁵ / u¹¹ kai¹¹ a³³ mue²⁵ / **si¹¹ tã⁵²** bo¹¹ to¹¹ sũã³³ tʰau⁵⁵ ko²¹³
+>
+> bho5, i1 bho5(7)hian1 bho5(7)di6, u6(7)gai5(7) a1muê6, **si6(7)dan3(2)** bho5(7)do6(7) Suan1tao5-go3.
+>
+> 無，伊 無兄無弟，有個 阿妹，*是呾* 無在 汕頭 塊。
+> 
+> NEG, he NEG-older-brother NEG-younger-brother, have-CL younger-sister, **but** NEG-at Swatow.
+>
+> No, he doesn’t have any brothers; he has a younger sister but she does not live in Swatow.
+>
+> (Example 3:17 from Qiu 2002)
+
+
 ### *ding1do3* • 顛倒 • “on the contrary”
 
 > i³³ bo¹¹ sie³³hu³⁵ / **tiŋ³³to⁵³** kʰoiʔ² naŋ⁵³ zu³⁵ tsoi¹¹ mua¹¹hueŋ⁵⁵
