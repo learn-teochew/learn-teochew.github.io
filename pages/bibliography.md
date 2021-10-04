@@ -52,7 +52,12 @@ Lin Lunlun 林伦伦. (1991, 1992). Shàntóu fāngyán cíhuì 汕头方言词�
  * Vocabulary list organized thematically, including many vernacular words that lack standard characters, pronunciation written with IPA.
 
 Li Xinkui, Lin Lunlun 李新魁、林伦伦 (1992). *Cháoshàn fāngyáncí kǎoshì* 《潮汕方言词考释》 (Discussions on Chaoshan vernacular words). 广东：广东人民出版社
+
 Li Yongming 李永明. (1995). Cháozhōu fāngyán de díeyīncí 潮州方言的疊音詞 (Reduplicated words in Teochew). 《中國語文研究》11 : 205-210 [Chinese University of Hong Kong](http://www.cuhk.edu.hk/ics/clrc/scl_11/li_yong_ming.pdf)
+
+TCKnow LLC. (2021). WhatTCSay3. [Website](https://tcknow.com)
+
+ * Teochew-English/French dictionary app, available for Android and iOS platforms.
 
 
 Grammar
