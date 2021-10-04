@@ -43,9 +43,17 @@ Cài Jùnmíng 蔡俊明. (1991). *Cháozhōu fāngyán cíhuì* 《潮州方言
 
 Duffus, William. (1883). *English-Chinese vocabulary of the vernacular or spoken language of Swatow*. Swatow: English Presbyterian Mission Press. [Internet Archive](https://archive.org/details/englishchinesev00duffgoog)
 
+ * English-Teochew dictionary, organized by English headwords. For each word, Teochew glosses are given in romanization only.
+
 Fielde, A. M. (1883). *A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones*. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/pronouncingdefin00fielrich)
 
+ * Organized alphabetically with Fielde’s own romanization system, words and example phrases/sentences are found under the head character; Chinese characters only given for the head character of each entry, definitions in English. The book is currently being transcribed digitally on [Wikisource](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect).
+
 Goddard, Josiah. (1888). *A Chinese and English vocabulary in the Tie-Chiu dialect*, 2nd. ed. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/achineseandengl00goddgoog)
+
+Goh Eng Choon 吴英俊. (2020) *Xīnbiān Cháozhōu kǒuyǔ jíshì* 《新编潮州口语集释》 (Collection of Teochew vernacular language, new edition). Singapore: 艺品良印.
+
+ * Dictionary of Singapore Teochew, organized alphabetically by Pêng’im, definitions in Mandarin and English and example Teochew sentences in Chinese characters. The first edition was published in 2017. A primer derived from the entries in this dictionary was published in 2018.
 
 Lin Lunlun 林伦伦. (1991, 1992). Shàntóu fāngyán cíhuì 汕头方言词汇 (Vocabulary of Swatow dialect). 《方言》1991年2期153-160页、1991年3期232-240页、1991年4期310-314页、1992年1期78-80页. 
 
@@ -57,7 +65,7 @@ Li Yongming 李永明. (1995). Cháozhōu fāngyán de díeyīncí 潮州方言�
 
 TCKnow LLC. (2021). WhatTCSay3. [Website](https://tcknow.com)
 
- * Teochew-English/French dictionary app, available for Android and iOS platforms.
+ * Teochew-English/French dictionary app, available for Android and iOS platforms. Uses the Gaginang Peng’im system. Entries can be searched by Peng’im, character, or English/French translations, and many include sound recordings of their Teochew pronunciation.
 
 
 Grammar
