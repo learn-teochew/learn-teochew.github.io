@@ -356,10 +356,10 @@ how quickly it is pronounced and the use of tonal inflections for emphasis, the
 tone of this particle will vary with speaker and context. See “Interrogative
 particles” below.
 
-Yes-no questions – A-NOT-A pattern
+Yes-no questions – V-NOT-V pattern
 ----------------------------------
 
-Mandarin primarily uses the A-NOT-A construction for yes-no questions:
+Mandarin primarily uses the V-NOT-V construction for yes-no questions:
 
 > Zhè zhī shǒujī **shìbùshì** nǐde?
 >
@@ -381,7 +381,7 @@ Mandarin primarily uses the A-NOT-A construction for yes-no questions:
 
 Cantonese uses a similar pattern, e.g. *haih-m-haih* 係唔係 is-NOT-is.
 
-In Teochew, the A-NOT-A pattern is not as prevalent as in Mandarin. The first
+In Teochew, the V-NOT-V pattern is not as prevalent as in Mandarin. The first
 example above can be translated quite directly:
 
 > tsi⁵³ki³³ tsʰiu³⁵ki³³ **si¹¹m¹¹si¹¹** lɯ⁵³ kai⁵⁵
@@ -397,7 +397,7 @@ example above can be translated quite directly:
 The short answer to a yes-no question is either the verb or its negation. In
 the example above, this would be *si6* 是 if yes, and *m6(7)si6* 唔是 if not.
 
-The A-NOT-A pattern is more common in short questions, e.g.
+The V-NOT-V pattern is more common in short questions, e.g.
 
 > **tieʔ² m¹¹ tieʔ⁵**
 >
@@ -434,7 +434,7 @@ The A-NOT-A pattern is more common in short questions, e.g.
 > “No”: m¹¹sek² • m6(7)sêg4 • 唔識
 
 Words which take specific negative forms use those forms instead of the pattern
-A + *m6* 唔 + A (see [“Negatives”]({{ site.baseurl }}{% link pages/negatives.md %})):
+V + *m6* 唔 + V (see [“Negatives”]({{ site.baseurl }}{% link pages/negatives.md %})):
 
 > lɯ⁵³ **ai²¹³mai²¹³**
 >
@@ -464,6 +464,7 @@ to seek confirmation or approval of a suggestion.
 > We-incl. tomorrow go fishing, **should-shouldn’t**?
 >
 > How about we go fishing tomorrow?
+
 
 Yes-no questions – Clause-negative pattern
 ------------------------------------------
@@ -557,6 +558,7 @@ Usually paired with the verb *ai3* 愛 “want”.
 >
 > Do you want to eat yam paste?
 
+
 Yes/no questions – Interrogative particles
 ------------------------------------------
 
@@ -613,6 +615,55 @@ from context, and which can be confirmed by a simple yes-no answer:
 > This-CL handphone is you-GEN **SFP**?
 >
 > This is your handphone, right?
+
+
+Yes/No questions - *kah4* 豈 questions
+-------------------------------------
+
+Another way to phrase yes/no type questions is with the adverb *kah4* 豈 (also
+written 𠹛), which prefixes a verb: *kah4*+V. The verb involved is often the
+copula *si6* 是 “to be”.
+
+> i³³ **kʰaʔ⁸** si¹¹ nia³³ ti²⁵
+>
+> i1 **kah4(8)**si6(7) nia1-di6?
+>
+> 伊 *豈*是 ～弟？
+>
+> He **KAH**-is your younger-brother?
+>
+> Is he your younger brother?
+>
+> (Example 49 from Yue 2017)
+
+Unlike the other types of yes/no questions above, *kah4* questions usually do
+not include a negative.
+
+Other types or verbs or auxiliary verbs can also follow *kah4*:
+
+> tsʰĩã²⁵ muŋ¹¹ lɯ⁵² **kʰaʔ⁵** pak⁵ tsi⁵² kai¹¹ tiam²¹³ kai¹¹ tʰau¹¹ ke³³
+>
+> cian2(6)mung7 le2 **kah4(8)**bag4(8) zi2gai5(7) diam3 gai7 tao5(7)gê1?
+>
+> 請問 汝 *豈*捌 只間 店 個 頭家？
+>
+> Please-ask you **KAH**-know this-CL shop CL boss?
+>
+> May I ask if you know the proprietor of this shop?
+>
+> (Example 1:14 from Goh 2018)
+
+*kah4(8)oi6(7)bag4* 豈會捌 may be used in place of *kah4(8)bag4* in the example
+above, with the auxiliary verb *oi6* “able to” immediately after *kah4*.
+
+The question particle *mê* (also pronounced *mi*) may also be used at the end
+of a *kah4*+V question. This has been analyzed as a hybrid *kah*+V+NEG
+construction (Yue, 2017).
+
+Yue (1991) discusses how *kah*+V questions in Southern Min languages may have
+originated from similar constructions seen in Ming-era Southern Min play
+scripts.
+
 
 Interrogative particles – *nê5* 呢 questions
 ------------------------------------------
@@ -679,19 +730,15 @@ phrases used to express skepticism.
 >
 > Is this for real?
 
-<!--
-
-kah4 𠹛 as question particle e.g. kah4si6, kah4bag4, kah4oi6zai1, kah4ho2
-See let's speak teochew chapter 1
-
--->
 
 References and further reading
 ------------------------------
 
- * Yue, Anne O. (2003), Chinese dialects: Grammar
  * Chappell, Hilary (2017), A sketch of Southern Min grammar
  * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 10
+ * Yue, Anne O. (2003), Chinese dialects: Grammar
+ * Yue, Anne O. (2017), The Sinitic languages: Grammar
+ * Yue-Hashimoto, Anne O. (1991), Stratification in comparative dialectal grammar
 
 <hr />
 
