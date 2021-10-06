@@ -75,6 +75,10 @@ Chappell, Hilary. (2017). A sketch of Southern Min grammar. [Preprint online](ht
 
  * Short outline of Min-nan grammar, mostly based on Taiwanese Hokkien
 
+Childe, Nellie 蔡志純. (1971). A transformational-generative outline of Swatow grammar. (MA dissertation) University of Hong Kong. [doi:10.5353/th_b3194723](http://dx.doi.org/10.5353/th_b3194723)
+
+Cole, Peter & Lee Cher Leng. (1997). Locality constraints on yes/no questions in Singapore Teochew. *Journal of East Asian Linguistics* 6 : 189-211. [doi:10.1023/A:1008237705178](https://doi.org/10.1023/A:1008237705178)
+
 Matthews, Stephen; Xu Huiling; Virginia Yiop. (2005). Passive and unaccusative in the Jieyang dialect of Chaozhou. *Journal of East Asian Linguistics* 14 : 267-298. [doi:10.1007/s10831-005-3822-1](https://doi.org/10.1007/s10831-005-3822-1)
 
 Tan, Adeline. (2016). Les verbes de trajectoire deictique dans le dialecte de Chaozhou, Chine. Colloque international des Etudiants chercheurs en Didactique des langues et en Linguistique, Lidilem, Jun 2014, Grenoble, France. hal-01251727 (Conference paper). [HAL](https://hal.archives-ouvertes.fr/hal-01251727)
