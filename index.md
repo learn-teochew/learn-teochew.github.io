@@ -79,7 +79,7 @@ If you cannot see the following Chinese characters –
 > 𫢗
 
 then you should download a font that supports extended CJK characters, such as
-[Noto Sans CJK TC](https://www.google.com/get/noto/) (follow the installation
+[Babelstone Han](https://babelstone.co.uk/Fonts/Han.html) (follow the installation
 instructions for your operating system).
 
 These rare characters are only used in a few places in this guide, and the
