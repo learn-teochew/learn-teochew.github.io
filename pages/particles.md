@@ -99,10 +99,8 @@ skeptical that his conversation partner is able to say something in English.
 >
 > [*Wang Sa & Ye Fong – Comedy Sketch*]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
 
-Li (1959) writes this word with a character consisting of a mouth radical 口
-and the number two 二, because it is pronounced like 二 *no6*. However this
-character is not available in Unicode, so it is substituted here with the
-character 二.
+Li (1959) writes this word with a character 𰇇 consisting of a mouth radical 口
+and the number two 二, because it is pronounced like 二 *no6*. However, this character is not available in most fonts.
 
 ### ho2 • 好 • seeking confirmation
 
@@ -293,6 +291,36 @@ Interjections are “standalone” particles
 <!--
 See Knowing one but not the other for examples
 -->
+
+### han6 • ～ • disbelief, surprise
+
+Used to express disbelief at what someone else has just said, and also as a (somewhat rude) way to express that one could not hear what was just said (e.g. over the telephone).
+
+> (Fifth Lady has just learned that she has been betrothed to Lim Dua)
+> 
+> (Fifth-lady): bo²⁵ tsʰiŋ³³ / lim⁵⁵ ke³³ tsɯ²⁵ ti²⁵ / ui¹¹ naŋ⁵⁵ tsʰou³³ pʰi⁵³
+>
+> (Fifth-lady): bo2(6)cing1, Lim5-gê1 ze2(6)di6, ui5(7)nang5 cou1pi2
+>
+> 五娘：母親，林家 子弟，爲人 粗鄙
+> 
+> Fifth Lady: Mother, Lim-family sons-brothers, personality crude
+> 
+> Fifth Lady: Mother, the scions of the Lim family are crude and uncouth
+> 
+> \*\*\*
+>
+> (Father): **hã²⁵** / hu¹¹ sueʔ² / ua⁵² pʰeŋ¹¹ si⁵⁵ tsa²⁵ ĩẽ¹¹ ka⁵² tau¹¹ i³³ lɯ⁵²
+>
+> (Father): **han6**?! hu5(7)suêh4, ua2 pêng5(7)si5 za2(6)iên7 ga3(2)dao6(7) i1 le2?
+>
+> 員外：*～*？胡說，我 平時 怎樣 教導 於 汝？
+>
+> Father: **han**?! Nonsense, I usually how teach towards you?
+> 
+> Father: What?! Nonsense, how have I raised you to behave?
+> 
+> [*Dang-san Ngou-niê* (1961 film)](https://youtu.be/jkxdZsB5iBo) Scene 6, around 29:11
 
 References and further reading
 ------------------------------
