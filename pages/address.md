@@ -212,7 +212,7 @@ it was established in Singapore in 1830.
 | 劉        | lau⁵⁵         | Lau5    | Liú          | Lau                  |
 | 蔡        | tsʰua3        | Cua3    | Cài          | Chua                 |
 | 吳        | gou⁵⁵         | Ghou5   | Wú           | Goh                  |
-| 張        | tĩẽ³³         | Tiên1   | Zhāng        | Teo                  |
+| 張        | tĩẽ³³         | Diên1   | Zhāng        | Teo                  |
 | 楊        | ĩẽ³³          | Iên1    | Yáng         | Yeo                  |
 | 黃        | ŋ⁵⁵           | Ng5     | Húang        | Ng                   |
 | 沈        | sim⁵³         | Sim2    | Shěn         | Sim                  |
@@ -220,7 +220,7 @@ it was established in Singapore in 1830.
 | 鄭        | tẽ¹¹          | Dên7    | Zhèng        | Tay                  |
 | 許        | kʰou⁵³        | Kou2    | Xǔ           | Koh                  |
 | 謝        | tsia¹¹        | Zia7    | Xiè          | Chia, Seah           |
-| 莊        | tseŋ³³        | Zeng1   | Zhuāng       | Chng                 |
+| 莊        | tsɯŋ³³        | Zeng1   | Zhuāng       | Chng                 |
 | 方        | puŋ³³         | Bung1   | Fāng         | Png                  |
 | 周        | tsiu³³        | Ziu1    | Zhōu         | Chew                 |
 | 洪        | aŋ⁵⁵          | Ang5    | Hóng         | Ang                  |
