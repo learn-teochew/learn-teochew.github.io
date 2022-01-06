@@ -1,11 +1,28 @@
 # Scripts for parsing Teochew pronunciations in Wiktionary
 
-Download English Wiktionary database dump: https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-pages-articles.xml.bz2
+Download English Wiktionary database dump:
 
-Use the script `wiktionary_teochew_parse.py` to extract headwords with Teochew pronunciations (in Peng'im romanization) and export either into JSON format, and as preformatted files in Markdown format for the study guide.
+```
+wget https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-pages-articles.xml.bz2
+```
 
-Use the script `convert_pengim.py` to convert Peng'im to Flattened IPA or IPA phonetic spelling.
+Use the script `wiktionary_teochew_parse.py` to extract headwords with Teochew
+pronunciations (in Peng'im romanization) and export either into JSON format,
+and as preformatted files in Markdown format for the study guide.
 
-The file `pengim_utils.py` contains functions 
+```
+./wiktionary_teochew_parse.py --dump enwiktionary-latest-pages-articles.xml.bz2
+```
+
+Output are a JSON file with parsed Teochew pronunciation data
+(`teochew_scrap.json`) and markdown files with the index formatted as tables
+(`teochew_pron_index_*.md`). Inspect files to catch occasional Pêng'im errors
+in the original (e.g. `q` instead of `c`).
+
+Other files:
+
+ * `convert_pengim.py` - script to convert Peng'im to Flattened IPA or IPA
+   phonetic spelling.
+ * The file `pengim_utils.py` contains shared functions used by both scripts.
 
 To view help message, use the `--help` flag with the above scripts.
