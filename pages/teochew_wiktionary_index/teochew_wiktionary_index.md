@@ -26,7 +26,7 @@ character to view the Wiktionary entry.
 
 ## Source and copyright
 
-This index is based on the [2020-01-01 data dump of English
+This index is based on the [2022-01-01 data dump of English
 Wiktionary](https://dumps.wikimedia.org/enwiktionary/20220101/). The original
 entries are written by Wiktionary volunteer editors, and may contain errors, so
 I cannot vouch for their accuracy.
