@@ -25,7 +25,7 @@ if (args.scraped):
     fh_j.close()
 else:
     # Process de novo from Wiktionary dump file
-    outdict = pu.parse_wiktionary_dump(args.dump)
+    outdict = pu.parse_wiktionary_dump(args)
     fh_w = open(args.out,"w")
     json.dump(outdict,fh_w)
     fh_w.close()

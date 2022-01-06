@@ -4,6 +4,7 @@ from collections import OrderedDict
 from xml.etree import ElementTree as ET
 from collections import defaultdict
 import re
+import bz2
 
 def convert_fipa2pengim(text):
     fipa2pengim = OrderedDict ([('b', 'bh'), # Order of substitution is important
@@ -180,7 +181,7 @@ def convert_pengim_tonemarks(text):
     # Return string joined together again
     return(''.join(out))
 
-def parse_wiktionary_dump(dumppath):
+def parse_wiktionary_dump(args):
 # Parse wiktionary dump file and report Teochew pronunciations to dict
     # Counter for pages
     counter = 0 
@@ -188,7 +189,7 @@ def parse_wiktionary_dump(dumppath):
     outdict = defaultdict(lambda: defaultdict(dict))
     # Name of Wiktionary dump file
     # fh = bz2.BZ2File("enwiktionary-20200220-pages-articles.xml.bz2")
-    fh = bz2.BZ2File(dumppath)
+    fh = bz2.BZ2File(args.dump)
     # Holder for current title
     currtitle = ""
     # Holder for namespace
