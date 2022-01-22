@@ -24,11 +24,12 @@ can follow along and learn some Teochew!
 The Teochew video is presented by Ms Janet Chong (鍾年珠), a nurse at the
 Singapore General Hospital. Pronunciation of some words is influenced by
 Mandarin or Hokkien; the standard Teochew pronunciations are listed in brackets
-beside the the original.
+beside the the original. Many thanks to Justin Leung for helping to fill in
+many gaps in the first version!
 
 <hr />
 
-Dai5ge1 ho2, ua2 si6 Sing1gia1bo1 *Zhōngyāng Yīyùan*-gai5 hu3-si2.
+Dai7gê1 ho2, ua2 si6 Sing1gia1bo1 *Zhōngyāng Yīyùan*[dong1iang1 ui1in7]-gai5 *hùshì* [hu6(7)se7]
 
 大家 好， 我 是 新加坡 中央醫院 個 護士。
 
@@ -36,7 +37,7 @@ Hello everybody, I am a nurse at the Singapore General Hospital.
 
 <hr />
 
-Ua2-gai7 mia1 si6 *Janet Chong*.
+Ua2-gai7 mia5 si6 *Janet Chong*.
 
 我個 名 是 Janet Chong.
 
@@ -44,23 +45,23 @@ my name is Janet Chong.
 
 <hr />
 
-Ua2 in2-ging1 zu3sia7 -liao huang6-bên7 ig8miao5,
+Ua2 in2-ging1 zu3sia7 -liao guang1-bên7 ig8miao5,
 
-我 已經 注射 了 患病 疫苗，
+我 已經 注射 了 冠病 疫苗，
 
 I have been vaccinated against the [coronavirus] illness,
 
 <hr />
 
-ing1ui5 ua2 ai3 bo2hu6 ga1gi7 gah4 sing1bin1-gai7 nang5.
+ing1ui7 ua2 ai3 bo2hu6 ga1gi7 gah4 sing1bin1-gai7 nang5.
 
-因為 我 愛 保護 自己 佮 身邊個 儂。
+因為 我 愛 保護 家己 佮 身邊個 儂。
 
 because I want to protect myself and the people around me.
 
 <hr />
 
-zu3sia7 ig8miao5 ao6, ua2 gag4dêg4 sing1tin2 *giang6kong1* [giang6kang1],
+zu3sia7 ig8miao5 ao6, ua2 gag4dig4 sing1tin2 *giang6kong1* [giang6kang1],
 
 注射 疫苗 後， 我 覺得 身體 健康，
 
@@ -68,7 +69,7 @@ After receiving the vaccine, I felt healthy,
 
 <hr />
 
-bho5 si6mih4 hu3zag4êng7.
+bho5 si6mih4 hu3zo4êng7 [hu3zag4êng7]
 
 無 是乜 副作用。
 
@@ -76,15 +77,15 @@ and did not experience any side effects,
 
 <hr />
 
-gang2gag4 ang1cuang5 gah ang1sim1 zoi7 lou7.
+gang2gag4 bang3sing1 gah4 *ang1zuang5* [ang1cuang5] zoi7 lou7.
 
-感覺 安全 佮 安心 濟 𡀔。
+感覺 放心 佮 安全 濟 𡀔。
 
 and felt much safer and calmer.
 
 <hr />
 
-Miang2 zai3 dam1sim1 ziab4cug4diêh8 huang6bên7 bên7nang5,
+Miang2 zai3 dam1sim1 ziab4cug4dioh8 huang6bên7 bên7nang5,
 
 免 再 擔心 接觸着 患病 病儂，
 
@@ -92,7 +93,7 @@ I don’t have to be worried about coming into contact with patients,
 
 <hr />
 
-in2 gang2lang7[gam2riem2]-diêh8 bên7dag8.
+in2 *gánrǎn*[gam2riem2]-dioh8 bên7dag8.
 
 以 感染着 病毒。
 
@@ -116,7 +117,8 @@ after receiving it, your risk of infection will be very much reduced.
 
 <hr />
 
-Ru2 zoi7 nang5 ziab4zêng3 ig8miao5, bian7dag8 ziu7 ru2zian3 gang1kou2 cuang7bo5 [tuang5bua3].
+Ru2 zoi7 nang5 ziab4zêng3 ig8miao5, *bian7dag8* [bên7dag8] :w
+ziu7 ru2zian3 gang1kou2 *cuang7bo5* [tuang5bua3].
 
 愈 濟 儂 接種 疫苗，病毒 就 愈正 艱苦 傳播。
 
@@ -124,7 +126,7 @@ The more people receive the vaccine, the harder it will be for the virus to tran
 
 <hr />
 
-Sing1ga1bo1 ziu7 nang7 dag8dêg8 cuang5kung5 gai7 miang2êg8
+Sing1ga1bo1 [Sing1gia1bo1] ziu7 nang7 dag8dêg8 cuang5kung5 gai7 miang2êg8
 
 新加坡 就 （能） 達得 全群 個 免疫。
 
@@ -132,7 +134,7 @@ Singapore can then achieve herd immunity.
 
 <hr />
 
-Sing1ga1bo1 cong5 ging1ni5 kai1se2, koh8 long2zong2 muan2 lag8zab8-huê7 gai7 gog4nang5
+Sing1gia1bo1 cong5 ging1ni5 kai1se2, koh8 long2zong2 muan2 lag8zab8-huê7 gai7 gog4nang5
 
 新加坡 從 經年 開始，乞 攏總 滿 六十歲 個 國儂
 
@@ -140,31 +142,31 @@ This year, Singapore has started to offer every citizen aged 60 and above
 
 <hr />
 
-miang2hui3 ru-sêng ig8miao5.
+miang2hui3 zu3sia7 ig8miao5.
 
-免費 XX 疫苗。
+免費 注射 疫苗。
 
 free vaccination.
 
 <hr />
 
-De5hui1 le2 si6 *yùnfù* [rêng6hu6], u6 *niam6zong6* [ngiam6dong6] gai7 ming2gam2,
+Tu5hui1 [de5hui1] le2 si6 *yùnfù* [rêng6hu6], u6 *ngiam6zong6* [ngiam6dong6] gai7 ming2gam2,
 
-除非 汝 孕婦，有 嚴重 個 敏感，
+除非 汝 是 孕婦，有 嚴重 個 敏感，
 
 Unless you are pregnant, or have a serious allergy,
 
 <hr />
 
-han5si6 hing7zai6 hua3liou5 gah4 diang6liou5,
+han5si6 zing3zai6 hua3liao5 gah4 diang6liao5,
 
-還是 現在 化療 佮 電療，
+還是 正在 化療 佮 電療，
 
 or are currently receiving chemotherapy or radiotherapy
 
 <hr />
 
-dao6zih4 [dao6di3] miang6ig8li2 zing1zian3 gê6,
+dao2zih4 [dao6di3] *miǎnyìlì* [miang6ig8lag8] zing1zian3 gê6,
 
 導致 免疫力 真正 下，
 
@@ -180,11 +182,11 @@ If not [in those categories], you can receive the vaccine.
 
 <hr />
 
-Lao6nang5gê1 goh4 u6 iu-siang-kuang ho.
+Lao6nang5gê1 goh4 u6 iu1siang1kuang5 ho.
 
-老儂家 閣 有 XXX 好。
+老儂家 閣 有 優先權 好。
 
-Old people also have (?).
+Old people also have priority.
 
 <hr />
 
@@ -196,7 +198,7 @@ Many old people also have the three “highs”:
 
 <hr />
 
-huêh4-guin5, dang-gu-cung guin5, gah4 *din* [diam5]-rio7-bên7;
+huêh4-guin5, *dàn'gùchún* guin5, gah4 *din* [diam5]-rio7-bên7;
 
 血懸、膽固醇 懸、佮 甜尿病；
 
@@ -238,7 +240,7 @@ Don’t worry,
 
 <hr />
 
-do1su3 gai7 hog4zog4êng7 dou1u6 zing1zian2 kêng1ui5,
+do1su3 gai7 hog4zog4êng7 [hu3zag4êng7] dou1u6 zing1zian2 kêng1ui5,
 
 多數 個 副作用 都有 真正 輕微，
 
@@ -246,7 +248,7 @@ in most cases the side effects are very minor,
 
 <hr />
 
-bi2lu5: gug8tao5 sng1tian3, zing1zian2 /sien¹¹/, han5si6 huag4sio1.
+bi2lu5 [bi2ru5]: gug4tao5 sng1tian3, zing1zian2 /sien¹¹/, han5si6 huag4sio1.
 
 比如：骨頭 酸痛、真正 𤺪， 還是 發燒。
 
@@ -266,7 +268,7 @@ It will be a few days at the most before you are well again.
 
 I1sêng1 gah4 hu6se6 oi6 do6 hiang7dion5 guang1cag4 le2 sa1zab8 hung1zêng1.
 
-醫生 佮 護士 會 在 現場 關擦 汝 三十 分鐘。
+醫生 佮 護士 會 在 現場 觀察 汝 三十 分鐘。
 
 Doctors and nurses will be at the scene to monitor you for thirty minutes [after vaccination].
 
@@ -280,23 +282,23 @@ Even if rare problems do occur,
 
 <hr />
 
-ma-u i1liao2 nang5uang5 ma7siong6 bang1zo6 le2.
+ma-u *yīliáo* [i1liao5] nang5uang5 ma2siong6 bang1zo6 le2.
 
-X有 醫療 儂員 馬上 幫助 汝。
+嘛有 醫療 儂員 馬上 幫助 汝。
 
 there will be medical personnel who will immediately assist you.
 
 <hr />
 
-Zig8dang1 le2 siu1dioh8 zêng3hu2 gai7 tong1di1su1
+Zig8dang3 le2 siu1dioh8 zêng3hu2 gai7 *tong1di1su1* [tong1di1ze1]
 
-一旦 汝 受着 政府 個 （通知書？）
+一旦 汝 收着 政府 個 通知書
 
 The moment you receive the notification from the government
 
 <hr />
 
-lung2dioh8 le2 zu3sia7 ig8miao5
+lung5dioh8 le2 zu3sia7 ig8miao5
 
 輪着 汝 注射 疫苗
 
@@ -304,15 +306,15 @@ that it is your turn to be vaccinated
 
 <hr />
 
-le2 zu7 oi7sai2 ki2mong2 gao3 liang6loh8so2 yìyūe.
+le2 zu7 oi7sai2 ki2mong2 gao3 liang6loh8so2 yùyūe.
 
-汝 就 會使 XX 到 聯絡所 依約。
+汝 就 會使 XX 到 聯絡所 預約。
 
 you can go to the community centre to make an appointment.
 
 <hr />
 
-Ua2 i1ging5 zu3sia7 liao6 ig8miao5,
+Ua2 i2ging1 zu3sia7 liao2 ig8miao5,
 
 我 已經 注射 了 疫苗，
 
@@ -320,7 +322,7 @@ I have already been vaccinated,
 
 <hr />
 
-ê6 zig8-gai7 ziu7 lung2dioh8 le2 lou1!
+ê6 zig8-gai5 ziu7 lung2dioh8 le2 lou1!
 
 下一個 就 輪着 汝 𡀔！
 
