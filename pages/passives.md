@@ -22,11 +22,14 @@ Contents
 Passive
 -------
 
-The passive markers in Teochew are *koih4* (also pronounced *kêh4*) 乞 or
+The passive markers in Teochew are *koih4* (also pronounced *kêh4* or *kih4*) 乞 or
 *bung1* 分. The latter is characteristic of the dialect spoken in Swatow, but
 the two can be used interchangeably. The passive marker in Hokkien is *hōo/hǒ*
 予 (also written 與); here Teochew has more in common with Northern Min, which
 use cognates of *koih4* 乞.
+
+(The character 乞 is also pronounced *keg4*, *kêg4*, or *kig4* when used to
+mean “to beg” or “request”.)
 
 The basic construction is:
 
