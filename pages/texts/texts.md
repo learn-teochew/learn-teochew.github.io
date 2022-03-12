@@ -29,6 +29,7 @@ Bible excerpts:
  * [The Beatitudes]({{ site.baseurl }}{% link pages/texts/beatitudes.md %})
  * [Lord’s Prayer]({{ site.baseurl }}{% link pages/texts/lords_prayer.md %})
  * [The Christmas Story]({{ site.baseurl }}{% link pages/texts/christmas_story.md %})
+ * [List of digitized Teochew Bibles](https://github.com/learn-teochew/tc-bibles)
 
 Stories:
 
@@ -47,6 +48,10 @@ Rhymes, folksongs:
 
  * [The Moon Shines Brightly]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
  * [Rain is Falling]({{ site.baseurl }}{% link pages/texts/rain_falling.md %})
+
+Opera:
+
+ * See our companion website: [Learn Teochew with Teochew Opera](https://learn-teochew.github.io/tc-opera/)
 
 Other:
 
