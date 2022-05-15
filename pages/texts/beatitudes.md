@@ -50,7 +50,7 @@ from the English Revised Version.
 
 \[T\] Ǐasou kéumāk thóihtieu’ měungthu, sue’:
 
-\[T\] Ia7sou1 ge6mag8 toin6dieh4 meng7tu1, suêh4:
+\[T\] Ia5(7)sou1 ge2(6)mag8 toin2(6)dieh4 meng5(7)tu1, suêh4:
 
 \[M\] Yēsū jǔmù kànzhè méntú, shūo:
 
@@ -62,7 +62,7 @@ from the English Revised Version.
 
 Léumūng phǐngkhīong ti nāng ǔ-hok lǐou! Ing-ǔi Sīng ti kog sǐ léumūng ti.
 
-Le6mung5 ping7kiong5 di1 nang5 u7-hog4 liou7! Ing1ui7 Sing5 di1 gog4 si7 le6mung5 di1.
+Le2(6)mung5 ping5(7)kiong5 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) Sing5 di1 gog4 si6(7) le2(6)mung5 di1.
 
 Nǐmén pínqíong de rén yǒufú le! Yīnwèi Shén de guó shì nǐmén de.
 
@@ -78,7 +78,7 @@ Blessed are ye poor: for yours is the kingdom of God.
 
 Léumūng ki-gǒ ti nāng ǔ-hok lǐou! Ing-ǔi léumūng tsiang-ìeu pá-tsok.
 
-Le6mung5 gi1gho7 di1 nang5 u7-hog4 liou7! Ing1ui7 le6mung5 ziang1iêu2 ba6zog4.
+Le2(6)mung5 gi1gho7 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) le2(6)mung5 ziang1iêu3(2) ba2(6)zog4.
 
 Nǐmén jī’è de rén yǒufú le! Yīnwèi nǐmén jiāngyào bǎozú.
 
@@ -90,7 +90,7 @@ Nǐmén jī’è de rén yǒufú le! Yīnwèi nǐmén jiāngyào bǎozú.
 
 Léumūng ai-khok ti nāng ǔ-hok lǐou! Ing-ǔi léumūng tsiang-ìeu hí-tshǐe.
 
-Le6mung5 ai1kog4 di1 nang5 u7-hog4 liou7! Ing1ui7 le6mung5 ziang1iêu2 hi6ciê3.
+Le2(6)mung5 ai1kog4 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) le2(6)mung5 ziang1iêu3(2) hi2(6)ciê3.
 
 Nǐmén āikū de rén yǒufú le! Yīnwèi nǐmén jiāngyào xǐxiào.
 
@@ -103,8 +103,8 @@ Blessed are ye that weep now: for ye shall laugh.
 Nāng ūi zǐngtsèu hěung-ǔ léumūng, kěu-tsok lēumūng, zok-měr léumūng, khì-tǐeu
 léumūng ti mīar, í-úi sí ak, léumūng tsǐu ǔ-hok lǐou!
 
-Nang5 ui5 ring7ze2 heng7u3 le6mung5, ge7zog4 le5mung5, rog4mên7 le6mung5,
-ki2diêu7 le6mung5 di1 mian5, i6ui6 si6 ag4, le6mung5 ziu7 u7-hog4 liou7!
+Nang5 ui5 ring5(7)ze2 heng6(7)u3 le2(6)mung5, ge6(7)zoh8(4) le2(6)mung5, rog8(4)mên7 le2(6)mung5,
+ki3(2)diêu7 le2(6)mung5 di1 mian5, i2(6)ui5 si6(7) ag4, le2(6)mung5 ziu6(7) u6(7)-hog4 liou7!
 
 Rén wèi Rénzǐ hènwù nǐmén, jùjué nǐmén, rǔmà nǐmén, qìdiào nǐmén de míng, yǐwéi
 shì è, nǐmén jìu yǒufú le!
@@ -125,8 +125,8 @@ evil, for the Son of man's sake.
 Teung názīk, léumūng ìeu huar-hìh thìeu-iak, ing-ǔi léumūng tǒ thih-tsǐer ti
 síersěu sǐ tái-ti.
 
-Deng1 na6rig8, le6mung5 iêu2 huan1hin2 tiêu2iag4, ing1ui7 le6mung5 do7
-tin1tsiên7 di1 siên6se7 si7 dai6-di1.
+Deng1 na2(6)rig8, le2(6)mung5 iêu3(2) huan1hin2 tiêu3(2)iag4, ing1ui5(7) le2(6)mung5 do6(7)
+tin1tsiên6(7) di1 siên2(6)se7 si6(7) dai6-di1.
 
 Dāng nàrì, nǐmén yào huānxǐ tiàoyuè, yīnwèi nǐmén zài tiānshàng de shǎngcì shì
 dà de.
@@ -144,7 +144,7 @@ great in heaven:
 
 Léumung ti tsóutsong thǎi soih-tsai ǐasǐ tsé-ǐer.
 
-Le6mung1 di1 zou6zong1 tai7 soin1zai1 ia7si7 tsê6iên7.
+Le2(6)mung1 di1 zou2(6)zong1 tai6(7) soin1zai1 ia7si6(7) tsê2(6)iên7.
 
 Tāmén de zhǔzōng dài xiānzhī yěshì zhèyàng.
 
@@ -180,7 +180,7 @@ N.B. The parts in parentheses are indistinctly spoken in the video.
 
 \[T\] Heusim ti nāng ǔ-hok lǐou. Sǐangtǐ ti kog sǐ níng-kāi.
 
-\[T\] He1sim1 di1 nang5 u7hog4 liou7. Siang7di3 di1 gog4 si7 ning6-gai5.
+\[T\] He1sim1 di1 nang5 u6(7)hog4 liou7. Siang6(7)di3 di1 gog4 si6(7) ning2(6)-gai5.
 
 \[M\] Xūxīn de rén yǒufú le. Shàngdì de guó shì rèn ge.
 
@@ -193,7 +193,7 @@ N.B. The parts in parentheses are indistinctly spoken in the video.
 
 Kigǒ ti nāng ǔ-hok lǐou. Nìng pīktīk pátsok.
 
-Gi1gho7 di1 nang5 u7-hog4 liou7. Ning2 big8dig8 ba6zog4.
+Gi1gho7 di1 nang5 u6(7)-hog4 liou7. Ning2 big4(8)dig4(8) ba2(6)zog4.
 
 Jī’è de rén yǒufú le. Rèn bìděi bǎozú.
 
@@ -203,7 +203,7 @@ Jī’è de rén yǒufú le. Rèn bìděi bǎozú.
 
 Aikhok ti nāng ǔ-hok lǐou. Nìng tsiang-ìeu hí-tshǐe.
 
-Ai1kog4 di1 nang5 u7-hog4 liou7. Ning2 ziang1iêu2 hi6ciê3.
+Ai1kog4 di1 nang5 u6(7)-hog4 liou7. Ning2 ziang1iêu3(2) hi2(6)ciê3.
 
 Āikū de rén yǒufú le. Rèn jiāngyào xǐxiào.
 
@@ -214,8 +214,8 @@ Ai1kog4 di1 nang5 u7-hog4 liou7. Ning2 ziang1iêu2 hi6ciê3.
 Nāng zie’ ing ùa thsok-měr nǐng, pēkpek nǐng, kěu-tsok nǐng, (? ngīak tseu-áu
 kìe-ǔi) mó-sěu lǎi húihpáng nǐng, nìng tsǐu ǔ-hok lǐou.
 
-Nang5 riêh4 ing1 ua2 tsog4mên7 ning7, bêg8bêg4 ning7, ge7zog4 ning7, (? ngiag8
-ze1ao6 giê2ui7) mo6se7 lai7 huin6bang6 ning7, ning2 ziu7 u7-hog4 liou7.
+Nang5 riêh8(4) ing1 ua2 tsog8(4)mên7 ning2(7), bêg4(8)bêg4 ning2(7), ge6(7)zoh8(4) ning2(7), (? ngiag4(8)
+ze1ao6 giê3(2)ui7) mo2(6)se7 lai5(7) huin2(6)bang2(6) ning2(7), ning2 ziu6(7) u6(7)-hog4 liou7.
 
 Rén ruò yīn wǒ rùmà rèn, bīpò rèn, jùjué rèn, (? nuè zhīhòu jiàowéi) nāoshì lái
 huǐbàng rèn, rèn jìu yǒufú le.
@@ -231,7 +231,7 @@ huǐbàng rèn, rèn jìu yǒufú le.
 
 (? Tséhúe) tsìe-ser sěu hūek-ser sǐ-íau èngteung huarhìh khùailāk.
 
-(? Tsê6huê6) ziê2sên1 se7 huêg8sên1 si7iao6 êng2deng1 huan1hin2 kuai2lag8.
+(? Tsê2(6)huê6) ziê3(2)sên1 se7 huêg4(8)sên1 si6(7)iao2(6) êng3(2)deng1 huan1hin2 kuai3(2)lag8.
 
 (? Zhèhuí) zhàoshēng shì fāshēng shìyào yīngdāng huānxǐ kuàilè.
 
@@ -241,7 +241,7 @@ huǐbàng rèn, rèn jìu yǒufú le.
 
 Ing-ǔi nìng tǒ thih-tsǐer-kǎi síer-sěu sǐ tǔa-kǎi.
 
-Ing1ui7 ning2 do7 tin1tsiên7-gai7 siên6se7 si7 dua7-gai7.
+Ing1ui5(7) ning2 do6(7) tin1tsiên6(7)-gai5(7) siên2(6)se7 si6(7) dua7-gai7.
 
 Yīnwèi rèn zài tiānshàng ge shǎngsì shì dà ge.
 
@@ -254,7 +254,7 @@ Yīnwèi rèn zài tiānshàng ge shǎngsì shì dà ge.
 
 Tǒ nìng ǐh-tsōih-kǎi soih-tsai, nāng sǐ tsìe-ser pēkpek i-nàng.
 
-Do7 ning2 in7zoin5-gai7 soin1zai1, nang5 si7 ziê2sêr1 bêg8bêg4 i1nang2.
+Do6(7) ning2 in6(7)zoin5-gai5(7) soin1zai1, nang5 si6(7) ziê3(2)sên1 bêg4(8)bêg4 i1nang2.
 
 Zài rèn yǐqián ge xiānzhī, rén shì zhàoshēng bīpò yīrén.
 
@@ -277,15 +277,9 @@ detailed history and discussion).
 This text comes from the Presbyterian version of the four Gospels and Acts,
 published in 1892. A digitized version is available online.
 
-[no translator given] (1892) Kiù-tsú Iâ-sou ki-tok kâi Sin-ieh Tshuân-tsw
+[no translator given] (1892) Kiù-tsú Iâ-sou ki-tok kâi Sin-ieh Tshuân-tsṳ
 (Matthew to Acts: Swatow Dialect) Glasgow: British and Foreign Bible Society
 ([digitized version](http://bible.fhl.net/gbdoc/ob/nob.html?book=145))
-
-For convenience, the following substitutions are used for special typographical
-symbols in the original:
-
- * N - superscript n
- * w - u with two dots below
 
 A transcription of the original romanization is given in the first line,
 followed by modern Guangdong Pêng’im, then my own interpretation of the
@@ -295,63 +289,63 @@ pronounced /niŋ⁵²/ today. The Pêng’im version gives the modern pronunciat
 
 <hr />
 
-Iâ-sou kẃ-mȧk thóiN I tsùaN-kâi mn̂g-thû, chiũ tàN,
+Iâ-sou kṳ́-ma̍k thóiⁿ I tsùaⁿ-kâi mn̂g-thû, chiũ tàⁿ,
 
-Ia7sou1 ge2mag8 toin2 I1 zuan6gai7 mng5tu5, ziu6 dan3,
+Ia5(7)sou1 ge2(6)mag8 toin2(6) I1 zuan6(2)gai5(7) mng5(7)tu5, ziu6(7) dan3,
 
 耶穌 舉目 睇 伊 全個 門徒， 就呾，
 
 <hr />
 
-Nín phîn-khiông-nâng ũ hok, in-ũi Siãng-tì kok chiũ-sĩ sȯk nín.
+Nín phîn-khiông-nâng ũ hok, in-ũi Siãng-tì kok chiũ-sĩ so̍k nín.
 
-ning2 ping5kiong5nang5 u6 hog4, ing1ui6 Siang6di3 gog4 ziu6si6 sog8 ning2.
+ning2 ping5(7)kiong5(7)nang5 u6(7) hog4, ing1ui6(7) Siang6(7)di3 gog4 ziu6(7)si6(7) sog8(4) ning2.
 
 恁 貧窮儂 有福， 因為 上帝 國 就是 數 恁。
 
 <hr />
 
-Nín hīn-kim tóu khùn kâi nâng ũ hok: in-ũi nín chiang-àiN pá-tsok.
+Nín hīn-kim tóu khùn kâi nâng ũ hok: in-ũi nín chiang-àiⁿ pá-tsok.
 
-Ning2 hing5gim1 dou2kung3-gai5 nang5 u6 hog4: ing1ui6 ning2 ziang1ain3 ba2zog4.
+Ning2 hing5(7)gim1 dou2(6)kung3-gai5(7) nang5 u6(7) hog4: ing1ui6(7) ning2 ziang1ain3(2) ba2(6)zog4.
 
 恁 現今 肚困 個 儂 有福： 因為 恁 將愛 飽足。
 
 <hr />
 
-Nín hīn-kim ai-khàu kâi nâng ũ hok, in-ũi nín chiang-àiN hí-chhiè.
+Nín hīn-kim ai-khàu kâi nâng ũ hok, in-ũi nín chiang-àiⁿ hí-chhiè.
 
-Ning2 hing5gim1 ai1kao3 gai5 nang5 u6 hog4, ing1ui6 ning2 ziang1ain3 hi2ciê3.
+Ning2 hing5(7)gim1 ai1kao3 gai5(7) nang5 u6(7) hog4, ing1ui6(7) ning2 ziang1ain3(2) hi2(6)ciê3.
 
 恁 現今 哀哭 個 儂 有福， 因為 恁 將愛 嘻笑。
 
 <hr />
 
-Nâng ũi-tiėh Jîn-tsẃ kâi uân-kù lóu-h˜wn nín, k˜w-tsȯh nín, uàn-mẽ nín,
-khì-tiāu nín-kâi-miâN, chhin-chhiēN ak-miâN chėk-iēN, nín chiũ ũ hok.
+Nâng ũi-tie̍h Jîn-tsṳ́ kâi uân-kù lóu-hṳ̃n nín, kṳ̃-tso̍h nín, uàn-mẽ nín,
+khì-tiāu nín-kâi-miâⁿ, chhin-chhiēⁿ ak-miâⁿ che̍k-iēⁿ, nín chiũ ũ hok.
 
-Nang5 ui6diêh8 Rin5ze2-gai5 uang5gu3 lou2heng6 ning2, ge6zoh8 ning2, uang3mê3
-ning2, ki3diao7 ning2-gai5 mian5, cing1ciên7 ag4mian5 zêg8iên7, ning2 ziu6
-u6-hog4.
+Nang5 ui6-diêh8 Rin5(7)ze2-gai5(7) uang5(7)gu3(2) lou2(6)heng6(7) ning2, ge6(7)zoh8(4) ning2, uang3(2)mê6(7)
+ning2, ki3(2)diao7 ning2-gai5(7) mian5, cing1ciên7 ag4(8)mian5 zêg8(4)iên7, ning2 ziu6(7)
+u6(7)-hog4.
 
 儂 為着 人子 個 緣故 惱恨 恁， 拒絕 恁， 冤罵 恁， 棄掉 恁個名， 親像 惡名
 一樣， 恁 就 有福。
 
 <hr />
 
-Tng hẃ-jit tiėh huaN-hí, thiàu-bú: in-ũi tõ thiN nín tit siéN sĩ tũa;
+Tng hṳ́-jit tie̍h huaⁿ-hí, thiàu-bú: in-ũi tõ thiⁿ nín tit siéⁿ sĩ tũa;
 
-Deng1 he2rig4 diêh8 huan1hi2, tiao3bu2: ing1ui6 do6 tin1 ning2 dig4 siên2 si6
+Deng1 he2(6)rig4(8) diêh8 huan1hi2, tiao3(2)bhu2: ing1ui6(7) do6(7) tin1 ning2 dig4(8) siên2(6) si6(7)
 dua7;
 
 當 許日 着 歡喜， 跳舞： 因為 在 天 恁 得 賞 是 大；
 
 <hr />
 
-in-ũi in-kâi tsóu-pẽ khuán-thãi tsùaN-kâi ké soiN-tsai-nâng iā sī àn-chièN-seN.
+in-ũi in-kâi tsóu-pẽ khuán-thãi tsùaⁿ-kâi ké soiⁿ-tsai-nâng iā sī àn-chièⁿ-seⁿ.
 
-ing1ui6 ing1-gai5 zou2bê6 kuang3tai6 zuan3-gai5 gê3 soin1zai1nang5 ia7 si6
-an3ziên3sên1.
+ing1ui6(7) ing1-gai5(7) zou2(6)bê6 kuang3(2)tai6(7) zuan3-gai5(7) gê2(6) soin1zai1nang5 ia7 si6(7)
+ang3(2)ziên3(2)sên1.
 
 因為 【伊儂】個 祖父 款待 賤個 各 先知儂 也是 按照生。
 
