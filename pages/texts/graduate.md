@@ -14,9 +14,9 @@ Source: Lim Hiong Seng (1886) _Handbook of the Swatow vernacular_, pp. 166-167. 
 
 <hr />
 
-Tǒ Thěnghài ǔ tsek-kǎi sìutshāi, ǔ hùamtie’ lūk.
+to¹¹ tʰeŋ¹¹ hai⁵² u¹¹ tsek² kai¹¹ siu⁵² cai⁵⁵ / u¹¹ huam⁵² tieʔ² luk⁵
 
-Do7 Têng7hai2 u7 zêg4-gai7 siu2cai5, u7 huam2diêh4 lug8.
+Do6(7) Têng5(7)hai2 u6(7) zêg8(4)gai5(7) siu3(2)cai5, u6(7) huam3(2)diêh8(4) lug8.
 
 在 澄海 有 一個 秀才，有 犯着 律。
 
@@ -29,9 +29,9 @@ There was a graduate in Thenghai, who had broken the law.
 
 <hr />
 
-I tsǐu khèu pung kuar-hú sìm.
+i³³ tsiu¹¹ kʰɯ⁵² puŋ³³ kũã³³ hu²⁵ sim⁵²
 
-I1 ziu7 ke2 bung1 guan1hu6 sim2.
+I1 ziu6(7) ke3(2) bung1 guan1hu2(6) sim2.
 
 伊 就 去 分 官府 審。
 
@@ -39,9 +39,9 @@ He was then brought to be examined before the magistrate.
 
 <hr />
 
-Lǎutia tìtèng tsǐu tshuklǎi tsòtēung.
+lau¹¹ tia³³ ti⁵² teŋ⁵² tsiu¹¹ tsʰuk⁵ lai¹¹ tso¹¹ tɯŋ⁵⁵
 
-Lao7dia1 di2dêng2 ziu7 cug4lai7 zo2deng5.
+Lao6(7)dia1 di3(2)dêng2 ziu6(7) cug4(8)lai5(7) zo6(7)deng5.
 
 老爹 戴頂 就 出來 坐堂。
 
@@ -54,9 +54,9 @@ The magistrate put on his hat and in to hold court.
 
 <hr />
 
-Sìutshǎi tsǐu kǔih lo’khěu.
+siu⁵² tsʰai⁵⁵ tsiu¹¹ kũĩ¹¹ loʔ² kʰɯ²¹³
 
-Siu2cai7 ziu7 guin7 loh4ke3.
+Siu3(2)cai5 ziu6(7) guin6(7) loh8(4)ke3.
 
 秀才 就 跪 落去。
 
@@ -64,9 +64,9 @@ The graduate thereupon kneeled down.
 
 <hr />
 
-Lǎutia sím-kàu ho’-kù-lǒu, nāng zua’tsái, liaptèng tsǐu thūktǐou pàng-tǒ tshěungtèng.
+lau¹¹ tia³³ sim²⁵ kau⁵² hoʔ⁵ ku⁵² lou¹¹ / naŋ⁵⁵ zuaʔ² tsai²⁵ / liap² teŋ⁵² tsiu¹¹ tʰuk⁵ tiou¹¹ paŋ⁵² to¹¹ tsʰɯŋ¹¹ teŋ⁵²
 
-Lao7dia1 sim6-gau2 hoh4-gu2-lou7, nang5 ruah4zai6, liab4dêng2 ziu7 tug8diou7 bang2-do7 ceng7dêng2.
+Lao6(7)dia1 sim2(6) gau3(2) hoh4(8)gu2 lou7, nang5 ruah8(4)zai6, liab8(4)dêng2 ziu6(7) tug4(8)diou7 bang3(2) do6(7) ceng5(7)dêng2.
 
 老爹 審到 ho’2久𡀔，儂 熱在，粒頂 就 脫掉 放在 床頂。
 
@@ -79,9 +79,9 @@ The magistrate examined him for a long time, and feeling warm, took off his hat 
 
 <hr />
 
-Sìutshāi tǒ-kǔih sǔisī tsǐu khílāi.
+siu⁵² tsʰai⁵⁵ to¹¹ kũĩ¹¹ sui¹¹ si⁵⁵ tsiu¹¹ kʰi²⁵ lai¹¹
 
-Siu2cai5 do7-guin7 sui7si5 ziu7 ki6lai5.
+Siu3(2)cai5 do6(7) guin6(7) sui5(7)si5 ziu6(7) ki2(6)lai5(7).
 
 秀才 到跪 隨時 就 起來。
 
@@ -92,9 +92,9 @@ The graduate, who until now had been kneeling, immediately stood up.
 
 <hr />
 
-Lǎutia mǔng yi, tǎr, “lèu tsònǐ khìlǎi ne?”
+lau¹¹ tia³³ muŋ¹¹ i³³ / tã²¹³ / lɯ⁵² tso⁵² ni¹¹ kʰi²⁵ lai¹¹ ne
 
-Lao7dia1 mung7 yi1, dan3, “le2 zo2ni7 ki2lai7 nê?”
+Lao6(7)dia1 mung7 i1, dan3, “le2 zo3(2)ni5(7) ki2(6)lai(5)7 nê?”
 
 老爹 問 伊，呾：“汝 做呢 起來 ne？”
 
@@ -102,9 +102,9 @@ The magistrate asked him, “why did you stand up?”
 
 <hr />
 
-Sìutshāi tsìu tàrtǎr, “ùa sǐ kùi Hǔangtǐ, m7-sǐ kǔih lèu.”
+siu⁵² tsʰai⁵⁵ tsiu1 tã⁵² tã²¹³ / ua⁵² si¹¹ kui¹¹ huaŋ¹¹ ti²¹³ / m¹¹ si¹¹ kũĩ¹¹ lɯ⁵²
 
-Siu2cai5 ziu2 dan2dan3, “ua2 si7 gui2 Huang7di3, m7-si7 guin7 le2.”
+Siu3(2)cai5 ziu6(7) dan3(2)dan3, “ua2 si6(7) gui6(7) Huang7di3, m6(7)si6(7) guin6(7) le2.”
 
 秀才 就 呾呾：“我 是 跪 皇帝，唔是 跪 汝。”
 
@@ -115,9 +115,9 @@ The graduate replied, “I was kneeling to the emperor, not to you.”
 
 <hr />
 
-Sìutshāi tsǐu tshūkkhěu.
+siu⁵² tsʰai⁵⁵ tsiu¹¹ tsʰuk⁵ kʰɯ²¹³
 
-Siu2cai5 ziu7 cug8ke3.
+Siu3(2)cai5 ziu6(7) cug4(8)ke3.
 
 秀才 就 出去。
 
@@ -125,11 +125,9 @@ The graduate then walked out.
 
 <hr />
 
-Mer7khi2 i1-kai7 uar2 tsai2sim2.
+me¹¹ kʰi⁵² i³³ kai¹¹ ũã²¹³ tsai⁵² sim⁵²
 
-Měrkhì i-kǎi ùar tsàisìm.
-
-Mên7ki2 i1-gai7 uan2 zai2sim2.
+Mên5(7)ki2 i1-gai5(7) uan3 zai3(2)sim2.
 
 夜起 伊個 案 再審。
 
