@@ -160,7 +160,7 @@ in the original fable.
 
 <hr />
 
-pak33 huaŋ33 kaʔ3 zik2 tʰau55
+pak³³ huaŋ³³ kaʔ³ zik² tʰau⁵⁵
 
 Bag4(8)huang1 gah4(8) Rig8(4)tao5
 
@@ -170,7 +170,7 @@ The North Wind and the Sun
 
 <hr />
 
-u21 tsek2 tsua11 / pak3 huaŋ33 kaʔ3 zik2 tʰau55 lo33 a21 tã41 ti11 tiang12 kʰiang213
+u²¹ tsek² tsua¹¹ / pak³ huaŋ³³ kaʔ³ zik² tʰau⁵⁵ lo³³ a²¹ tã⁴¹ ti¹¹ tiang¹² kʰiang²¹³
 
 U6(7) zêg8(4) zua7, Bag4(8)huang1 gah4(8) Rig8(4)tao5 lo1 a7dan3(2) di7diang5(6) kiang3.
 
@@ -181,7 +181,7 @@ was stronger.
 
 <hr />
 
-pak3 huang33 tsiu21 tã213 / ua53 siaŋ21 kʰiaŋ213 / tʰoŋ33 tʰĩ33 kʰa33 e35 kai12 mueʔ2 kĩã35 bo13 tsia24 boi11 kĩã33 ua213 kai33
+pak³ huang³³ tsiu²¹ tã²¹³ / ua⁵³ siaŋ²¹ kʰiaŋ²¹³ / tʰoŋ³³ tʰĩ³³ kʰa³³ e³⁵ kai¹² mueʔ² kĩã³⁵ bo¹³ tsia²⁴ boi¹¹ kĩã³³ ua²¹³ kai³³
 
 Bag4(8)huang1 ziu6(7) dan3: “Ua2 siang6(7) kiang3. Tong1tin1 ka1-ê6 gai5(7) muêh8(4)gian6 bho5(7)
 zia2(6) bhoi6(7) gian1 ua2(3) gai1.”
@@ -193,7 +193,7 @@ that doesn’t fear me.”
 
 <hr />
 
-tsuŋ33 ŋo35 tieʔ2 ua35 tsu21 tieʔ2 põĩ53 / tsʰu213 tu53 tieʔ2 ua213 tsu21 tieʔ2 tʰap5 / tsʰiu11 tu53 tieʔ2 ua213 tsu21 tieʔ2 to53 / tsia24 ŋiou33 a / kau53 a / tsʰau53 a / i33 nang12 ŋo35 tieʔ2 ua213 hia53 tsu21 kĩã33 kau41 tu24 m21 tue213
+tsuŋ³³ ŋo³⁵ tieʔ2 ua³⁵ tsu²¹ tieʔ² põĩ⁵³ / tsʰu²¹³ tu⁵³ tieʔ² ua²¹³ tsu²¹ tieʔ² tʰap⁵ / tsʰiu¹¹ tu⁵³ tieʔ² ua²¹³ tsu²¹ tieʔ² to⁵³ / tsia²⁴ ŋiou³³ a / kau⁵³ a / tsʰau⁵³ a / i³³ nang¹² ŋo³⁵ tieʔ² ua²¹³ hia⁵³ tsu²¹ kĩã³³ kau⁴¹ tu²⁴ m²¹ tue²¹³
 
 “Zung1 ngo6-diêh4 ua2(6) zu6(7) diêh4 boin2, cu7 du2-diêh4 ua2(3) zu6(7) diêh4 tab8; ciu7
 du2-diêh4 ua2(3) zu6(7) diêh4 do2, zia2(6) ngiou1 a, gao2 a, cao2 a, i1nang5(7) ngo6-diêh4
@@ -208,7 +208,7 @@ fear when they meet me.”
 
 <hr />
 
-lɤ53 ia11 si21 zia24 ua24 sĩẽ33 kʰi213 / hɤŋ11 / ua53 kai13 lak5 tsĩã21 tua21 / ua53 oi21 tʰua53 kau21 ham11 tʰĩ33 tseŋ11 si21 ou33 huŋ55 / kaʔ3 lɤ35 ka11 miŋ11 tsia33 kau31 ne35 mi33 mi33 / mueʔ2 kau31 lɤ35 si21 miʔ3 kai13 lo33 tʰõĩ24 m11 kĩ213 /
+lɤ⁵³ ia¹¹ si²¹ zia²⁴ ua²⁴ sĩẽ³³ kʰi²¹³ / hɤŋ¹¹ / ua⁵³ kai¹³ lak5 tsĩã²¹ tua²¹ / ua⁵³ oi²¹ tʰua⁵³ kau²¹ ham¹¹ tʰĩ³³ tseŋ¹¹ si²¹ ou³³ huŋ⁵⁵ / kaʔ³ lɤ³⁵ ka¹¹ miŋ¹¹ tsia³³ kau³¹ ne³⁵ mi³³ mi³³ / mueʔ² kau³¹ lɤ³⁵ si²¹ miʔ³ kai¹³ lo³³ tʰõĩ²⁴ m¹¹ kĩ²¹³ /
 
 ”Le2 ia7-si6(7) ria2(6) ua2(6) siên1ki3, heng2! Ua2-gai5(6) lag8 zian2(7)-dua7, ua2 oi6(7)
 tau3(2)-gao3(7) ham5(7)tin1 zêng6(7) si6(7) ou1hung5, gah4(8) le2(6)-gai5(7) ming7 zia1-gao3(2)
@@ -223,7 +223,7 @@ until you cannot see a thing.”
 
 <hr />
 
-tʰoŋ33 tʰĩ33 kʰa33 e35 si21 ua24 siang21 tiŋ24 tua11 / lɤ53 tsai33 a33 m11 tsai33 
+tʰoŋ³³ tʰĩ³³ kʰa³³ e³⁵ si²¹ ua²⁴ siang²¹ tiŋ²⁴ tua¹¹ / lɤ⁵³ tsai³³ a³³ m¹¹ tsai³³ 
 
 “Tong1tin1 ka1ê6 si6(7) ua2(6) siang6(7) ding2(6)dua7, le2 zai1-a-m6(7)zai1.”
 
@@ -233,7 +233,7 @@ tʰoŋ33 tʰĩ33 kʰa33 e35 si21 ua24 siang21 tiŋ24 tua11 / lɤ53 tsai33 a33 m
 
 <hr />
 
-zik2 tʰau55 tã213 / hɤʔ5 hɤʔ5 / lɤ53 tsĩẽ hu13 tʰu55 / naŋ13 loŋ24 tsoŋ213 kie31 ua24 tso31 zik2 tʰau13 ia55 / tʰĩ33 e35 si1 ua24 siaŋ11 tiŋ24 tua11 / tso31 ni13 tã31 si11 lɤ53 nẽ11 /
+zik² tʰau⁵⁵ tã²¹³ / hɤʔ⁵ hɤʔ⁵ / lɤ⁵³ tsĩẽ hu¹³ tʰu⁵⁵ / naŋ¹³ loŋ²⁴ tsoŋ²¹³ kie³¹ ua²⁴ tso³¹ zik² tʰau¹³ ia⁵⁵ / tʰĩ³³ e³⁵ si1 ua²⁴ siaŋ¹¹ tiŋ²⁴ tua¹¹ / tso³¹ ni¹³ tã³¹ si¹¹ lɤ⁵³ nẽ¹¹ /
 
 Rig8(4)tao5 dan3, “heh8heh8! Le2 ziên2 hu2(6)tu5, nang5(7) long2(6)zong3 giê3(2) ua2(6) zo3(2)
 Rig8(4)tao5(7)-Ia5, tin1-ê6 si6(7) ua2(6) siang6(7) ding2(3)dua7; zo3(2)ni5(7) dan3(2) si6(7) le2 nên7?”
@@ -246,7 +246,7 @@ the greatest under heaven – why would you call yourself that?”
 
 <hr />
 
-lɤ21 si21 eŋ11 huŋ55 tsu21 oi21 tsia33 mi33 ua213 kai13 miŋ11 bue11 tsĩã13 
+lɤ²¹ si²¹ eŋ¹¹ huŋ⁵⁵ tsu²¹ oi²¹ tsia³³ mi³³ ua²¹³ kai¹³ miŋ¹¹ bue¹¹ tsĩã¹³ 
 
 “Le2 si6(7) êng7 hung5 zu6(7) oi6(7) zia1-mi1 ua2(7)-gai5(7) ming7 bhuê7 zian7?”
 
@@ -256,7 +256,7 @@ lɤ21 si21 eŋ11 huŋ55 tsu21 oi21 tsia33 mi33 ua213 kai13 miŋ11 bue11 tsĩã
 
 <hr />
 
-lɤ21 kʰaʔ3 kue31 m11 tsɤ11 liaŋ35 lo53 / lɤ53 tsai21 tik5 tso31 tik3 kau213
+lɤ²¹ kʰaʔ³ kue³¹ m¹¹ tsɤ¹¹ liaŋ³⁵ lo⁵³ / lɤ⁵³ tsai²¹ tik⁵ tso³¹ tik³ kau²¹³
 
 “Le2 kah8(4) guê3(2) m6(7) ze6(7)liang5(7) lo2! Le2 zai6(7) dig8 zo3(2) dig8(4) gao3.”
 
@@ -266,7 +266,7 @@ lɤ21 kʰaʔ3 kue31 m11 tsɤ11 liaŋ35 lo53 / lɤ53 tsai21 tik5 tso31 tik3 kau21
 
 <hr />
 
-pak3 huaŋ33 ŋa11 (a21) / lɤ53 keŋ33 lo33 huaʔ2 lɤ53 u21 si21 miʔ3 puŋ35 nĩã53 nẽ11
+pak³ huaŋ³³ ŋa¹¹ (a²¹) / lɤ⁵³ keŋ³³ lo³³ huaʔ² lɤ⁵³ u²¹ si²¹ miʔ³ puŋ³⁵ nĩã⁵³ nẽ¹¹
 
 “Bag4(8)huang1 a7! Le2 gêng1-lo1-huah4, le2 u6(7) si6(7)mih4 bung2(6)nian2 nên7?”
 
@@ -276,7 +276,7 @@ pak3 huaŋ33 ŋa11 (a21) / lɤ53 keŋ33 lo33 huaʔ2 lɤ53 u21 si21 miʔ3 puŋ35 
 
 <hr />
 
-pak3 huaŋ33 tã213 / hia53 lɤ53 ne11 / lɤ53 ka33 puŋ24 nia53 to21 ti21 ko213 / lɤ53 tã31 ua24 tʰĩã33
+pak³ huaŋ³³ tã²¹³ / hia⁵³ lɤ⁵³ ne¹¹ / lɤ⁵³ ka³³ puŋ²⁴ nia⁵³ to²¹ ti²¹ ko²¹³ / lɤ⁵³ tã³¹ ua²⁴ tʰĩã³³
 
 Bag4(8)huang1 dan3, “hia2 le2 nê7? Le2-gai5(7) bung2(6)nia2 do6(7) di7go3? Le2 dan3(2) ua2(6)
 tian1”
@@ -288,7 +288,7 @@ them.”
 
 <hr />
 
-zik2 tʰau55 tã213 / ua53 / ua53 li33 m11 ãĩ31 tsʰia33 tua11 pʰau213
+zik² tʰau⁵⁵ tã²¹³ / ua⁵³ / ua⁵³ li³³ m¹¹ ãĩ³¹ tsʰia³³ tua¹¹ pʰau²¹³
 
 Rig8(4)tao5 dan3, “ua2, ua2 li1 m6(7)-ain3(2) cia1-dua7pao3.”
 
@@ -298,7 +298,7 @@ The Sun said, “me? I, on the other hand, don’t like tooting my own horn.”
 
 <hr />
 
-pak5 huaŋ33 tã213 / tsiŋ33 sik5 / lɤ53 m11 ãĩ31 tsʰia33 tua11 pʰau213 bue11 tsĩã11 /
+pak⁵ huaŋ³³ tã²¹³ / tsiŋ³³ sik⁵ / lɤ⁵³ m¹¹ ãĩ³¹ tsʰia³³ tua¹¹ pʰau²¹³ bue¹¹ tsĩã¹¹ /
 
 Bag4(8)huang1 dan3, “zing1sig8? Le2 m6(7)-ain3(2) cia1-dua7pao3 bhuê7zian7?”
 
@@ -308,7 +308,7 @@ The North Wind said, “oh really? You don’t like tooting your own horn?”
 
 <hr />
 
-zik2 tʰau55 tã213 / hẽ / ua24 tsɤ11 lieu24 m11 pak3 tsʰia33 tua11 pʰau213 / ua53 li33 / ua53 
+zik² tʰau⁵⁵ tã²¹³ / hẽ / ua²⁴ tsɤ¹¹ lieu²⁴ m¹¹ pak³ tsʰia³³ tua¹¹ pʰau²¹³ / ua⁵³ li³³ / ua⁵³ 
 
 Rig8(4)tao5 dan3, “hên7, ua2 ze6(7)liêu2(6) m6(7)-bag8(4) cia1-dua7pao3. Ua2 li1... ua2....”
 
@@ -318,7 +318,7 @@ The Sun said, “well, I have never liked doing that. I ... I ...”
 
 <hr />
 
-zik2 tʰau55 sua213 loʔ2 kʰɤ53 tsu21 tã213 i33 kai12 puŋ24 nia33 
+zik² tʰau⁵⁵ sua²¹³ loʔ² kʰɤ⁵³ tsu²¹ tã²¹³ i³³ kai¹² puŋ²⁴ nia³³ 
 
 Rig8(4)tao5 sua3-loh8(4)ke3(2) zu6(7) dan3 i1-gai5(7) bung2(6)nia2.
 
@@ -328,7 +328,7 @@ The Sun then began to tell about his abilities.
 
 <hr />
 
-tsĩã31 lo33 tã213 / pak3 huaŋ33 iu21 lai13 huŋ35 i11 / i11 naŋ24 tsu21 lo33 a213
+tsĩã³¹ lo³³ tã²¹³ / pak³ huaŋ³³ iu²¹ lai¹³ huŋ³⁵ i¹¹ / i¹¹ naŋ²⁴ tsu²¹ lo³³ a²¹³
 
 Zian2 lo1 dan3, Bag4(8)huang1 iu5(7)lai5(7) hung6 i1(7), i1nang5(7) zu6(7) lo1 a3.
 
@@ -339,7 +339,7 @@ they started fighting.
 
 <hr />
 
-tsĩã31 lo11 a213 / lai13 lieu24 tsek2 kai13 kue31 lou11 naŋ55 / siŋ33 teŋ53 tsʰeŋ11 tsek2 kai13 kau21 mi13 hĩũ55 / tʰau55 ti31 tsek2 teŋ24 tsĩ33 bo11 / tsek2 pu11 tsek2 pu11 kʰũã33 kʰũã33 kĩã55 lai13
+tsĩã³¹ lo¹¹ a²¹³ / lai¹³ lieu²⁴ tsek² kai¹³ kue³¹ lou¹¹ naŋ⁵⁵ / siŋ³³ teŋ⁵³ tsʰeŋ¹¹ tsek² kai¹³ kau²¹ mi¹³ hĩũ⁵⁵ / tʰau⁵⁵ ti³¹ tsek² teŋ²⁴ tsĩ³³ bo¹¹ / tsek² pu¹¹ tsek² pu¹¹ kʰũã³³ kʰũã³³ kĩã⁵⁵ lai¹³
 
 Zian2 lo1 a3, lai5(7)-liêu7 zêg8(4)-gai5(7) guê3(2)lou7-nang5, sing1dêng2 cêng7 zêg8(4)-gai5(7)
 gao6(7) mi5(7)hiun5, tao5 di3(2) zêg8(4)-dêng2(6) zin1bho7, zêg8(4)-bu7 zêg8(4)-bu7 kuan1kuan1
@@ -353,7 +353,7 @@ with a fur hat on his head, walking along step by step.
 
 <hr />
 
-zik2 tʰau55 tã213 / ho53 / naŋ53 tsu11 tsĩẽ31 sĩẽ33 / lɤ53 bo12 tʰõĩ13 kĩ31 hɤ24 kai13 kue41 lou11 naŋ55 bue11 tsĩã11
+zik² tʰau⁵⁵ tã²¹³ / ho⁵³ / naŋ⁵³ tsu¹¹ tsĩẽ³¹ sĩẽ³³ / lɤ⁵³ bo¹² tʰõĩ¹³ kĩ³¹ hɤ²⁴ kai¹³ kue⁴¹ lou¹¹ naŋ⁵⁵ bue¹¹ tsĩã¹¹
 
 Rig8(4)tao5 dan3, “ho2, nang2 zu6(7) ziên3(2)sên1, le2 bho5(7) toin2(6)gin3 he2(6)gai5(7)
 guê3(2)lou7-nang5 bhuê7 zian7?”
@@ -364,7 +364,7 @@ The Sun said, “well, why don’t we do this: See that traveler over there?”
 
 <hr />
 
-tʰõĩ24 tiaŋ12 oi21 pak3 tieu21 i33 kai13 bo11 kaʔ5 tʰɤŋ21 tieu11 i33 kai13 mi13 hĩũ55 tsu21 sɤŋ31 tiaŋ13 kʰiaŋ213
+tʰõĩ²⁴ tiaŋ¹² oi²¹ pak³ tieu²¹ i³³ kai¹³ bo¹¹ kaʔ⁵ tʰɤŋ²¹ tieu¹¹ i³³ kai¹³ mi¹³ hĩũ⁵⁵ tsu²¹ sɤŋ³¹ tiaŋ¹³ kʰiaŋ²¹³
 
 “Toi2(6) diang5(7) oi6(7) bag4-diêu3 i1-gai5(7) bho7 gah4(8) teng3(2)-diêu7 i1-gai5(7) mi5(7)hiun5 zu6(7)
 seng3(2) diang5(7)-kiang3.”
@@ -376,7 +376,7 @@ the stronger of us.”
 
 <hr />
 
-lɤ53 tʰõĩ24 miʔ2 sẽ33 ĩã11 
+lɤ⁵³ tʰõĩ²⁴ miʔ2 sẽ³³ ĩã¹¹ 
 
 “Le2 toi2(6) mih4-sên1ian7?”
 
@@ -386,7 +386,7 @@ lɤ53 tʰõĩ24 miʔ2 sẽ33 ĩã11
 
 <hr />
 
-pak3 huaŋ33 tã213 / haʔ5 haʔ5 / tsia53 miŋ33 koi11 / miŋ24 tã213 tsu21 ua213 ĩã11
+pak³ huaŋ³³ tã²¹³ / haʔ⁵ haʔ⁵ / tsia⁵³ miŋ³³ koi¹¹ / miŋ²⁴ tã²¹³ tsu²¹ ua²¹³ ĩã¹¹
 
 Bag4(8)huang1 dan3, “hah8hah8! Zia2 ming1 goi7! Ming2(6) dan3 zu6(7) ua2(7) ian7.”
 
@@ -397,7 +397,7 @@ I will win.”
 
 <hr />
 
-zik2 tʰau55 tã213 / hia53 tiaŋ13 sõĩ33 ia11 si21 lɤ53 sõĩ11 li33 kʰɤk2 lɤ24 kʰaʔ3 koi11 / ia11 si21 ua53 sõĩ11 / taŋ53 tseʔ2 e11 lɤ53 su33 lieu213 li11 ãĩ53 lai213 a213
+zik² tʰau⁵⁵ tã²¹³ / hia⁵³ tiaŋ¹³ sõĩ³³ ia¹¹ si²¹ lɤ⁵³ sõĩ¹¹ li³³ kʰɤk² lɤ²⁴ kʰaʔ³ koi¹¹ / ia¹¹ si²¹ ua⁵³ sõĩ¹¹ / taŋ⁵³ tseʔ² e¹¹ lɤ⁵³ su³³ lieu²¹³ li¹¹ ãĩ⁵³ lai²¹³ a²¹³
 
 Rig8(4)tao5 dan3, “hia2 diang5(7) soin1? Ia7si6(7) le2 soin1 li1 keg8(4) le2(6) kah4 goi7;
 ia7si6(7) ua2 soin1(7), dang2 zêg8(4)-ê6(7) le2 su1-liêu3 li1 ain3(2) lai5(7) a3.”
@@ -410,7 +410,7 @@ it too easy for you. If I went first, you’d kick up a fuss were I to win.”
 
 <hr />
 
-pak3 huaŋ33 tã213 / hɤŋ11 / lɤ53 tsĩã53 ŋa213 / tsia24 kai55 u21 miʔ3 siaŋ33 kaŋ33 ne11 / naŋ53 no21 naŋ55 tso53 bu12 lai55 mo33 tsu21 ho53
+pak³ huaŋ³³ tã²¹³ / hɤŋ¹¹ / lɤ⁵³ tsĩã⁵³ ŋa²¹³ / tsia²⁴ kai⁵⁵ u²¹ miʔ³ siaŋ³³ kaŋ³³ ne¹¹ / naŋ⁵³ no²¹ naŋ⁵⁵ tso⁵³ bu¹² lai⁵⁵ mo³³ tsu²¹ ho⁵³
 
 Bag4(8)huang1 dan3, “heng7, le2 zian2 nga3, zia2(6)-gai5 u6(7)mih4 siang1gang1 nê7?
 Nang2 no6(7)-nang5(7) zo3(2)bhu7 lai5 mo1 zu6(7) ho2?”
@@ -422,7 +422,7 @@ anything? Let’s just do it together.”
 
 <hr />
 
-zik3 tʰau55 tã213 / ho53 / hia53 tsu21 tsĩẽ53 sĩẽ33
+zik³ tʰau⁵⁵ tã²¹³ / ho⁵³ / hia⁵³ tsu²¹ tsĩẽ⁵³ sĩẽ³³
 
 Rig8(4)tao5 dan3, “ho2! Hia2 zu7 ziên3(2)sên1.”
 
@@ -432,7 +432,7 @@ The Sun said, “very well, let’s do that then.”
 
 <hr />
 
-pak3 huaŋ33 tã213 / sɤ21 li35 ho33 lieu213 / ua35 taŋ lɤ213 mai31 ke33 tseʔ2 e11 su33 ua213 tã21 ua24 bo12 taŋ53 lɤ213 / ho53 a33 bue11
+pak³ huaŋ³³ tã²¹³ / sɤ²¹ li³⁵ ho³³ lieu²¹³ / ua³⁵ taŋ lɤ²¹³ mai³¹ ke³³ tseʔ² e¹¹ su³³ ua²¹³ tã²¹ ua²⁴ bo¹² taŋ⁵³ lɤ²¹³ / ho⁵³ a³³ bue¹¹
 
 Bag4(8)huang1 dan3, “se7li2(6) ho1 liêu3, ua2(6) dang1 le2(3), mai3(2) gê1 zêg8(4)ê6(7) su1 ua2(3) dan3
 ua2(6) bho5(7) dang2 le2(7). Ho2 a1-bhuê7?”
@@ -445,7 +445,7 @@ waiting for you when you lose later. Are you done?”
 
 <hr />
 
-zik2 tʰau55 tã213 / tʰai35 tseʔ2 e11 / taŋ24 ua24 ieu33 sie33 tseʔ2 e11
+zik² tʰau⁵⁵ tã²¹³ / tʰai³⁵ tseʔ² e¹¹ / taŋ²⁴ ua²⁴ ieu³³ sie³³ tseʔ² e¹¹
 
 Rig8(4)tao5 dan3, “tai6 zêh8(4)ê7, dang2(6) ua2(6) iêu1siê1 zêg8(4)ê7.”
 
@@ -455,7 +455,7 @@ The Sun said, “wait a moment. Let me warm up a bit.”
 
 <hr />
 
-pak3 huaŋ33 tã213 / me53 tseʔ21 (tsek2 e11) a33 / hũã24 taŋ24 miʔ5 kai55 ne11 / tã33 ho53 a33 bue11 
+pak³ huaŋ³³ tã²¹³ / me⁵³ tseʔ²¹ (tsek² e¹¹) a³³ / hũã²⁴ taŋ²⁴ miʔ⁵ kai⁵⁵ ne¹¹ / tã³³ ho⁵³ a³³ bue¹¹ 
 
 Bag4(8)huang1 dan3, “mê2 zêg8(4) a1! Huan6 dang2(6) mih4(8)gai5 nê7? Dan1 ho2 a1-bhuê7?”
 
@@ -465,7 +465,7 @@ The North Wind said, hurry up! What are you waiting for? Are you ready?”
 
 <hr />
 
-zik2 tʰau55 tã213 / ho53 lou53 / tã33 lɤ53 ho213 a11 bue21 
+zik² tʰau⁵⁵ tã²¹³ / ho⁵³ lou⁵³ / tã³³ lɤ⁵³ ho²¹³ a¹¹ bue²¹ 
 
 Rig8(4)tao5 dan3, “ho2 lou2, dan1 le2 ho2 a7-bhuê7?”
 
@@ -475,7 +475,7 @@ The Sun said, “yes, and are you ready?”
 
 <hr />
 
-pak3 huaŋ33 tã213 / ua53 taŋ11 tsa53 ho213 lou
+pak³ huaŋ³³ tã²¹³ / ua⁵³ taŋ¹¹ tsa⁵³ ho²¹³ lou
 
 Bag4(8)huang1 dan3, “ua2 dang5(7)za2 ho2(3) lou.”
 
@@ -485,7 +485,7 @@ The North Wind said, “I was already just now.”
 
 <hr />
 
-ho53 / lai55
+ho⁵³ / lai⁵⁵
 
 “Ho2, lai5!”
 
@@ -495,7 +495,7 @@ ho53 / lai55
 
 <hr />
 
-i33 naŋ11 tsu21 tsek1 kai12 pʰak55 / tsek2 kai12 tʰau213
+i³³ naŋ¹¹ tsu²¹ tsek¹ kai¹² pʰak⁵⁵ / tsek² kai¹² tʰau²¹³
 
 I1nang5(7) zu6(7) zêg8(4)-gai5(7) pag8, zêg8(4)-gai5(7) tao3.
 
@@ -505,7 +505,7 @@ They therefore started, one shining and the other blowing.
 
 <hr />
 
-pak3 huaŋ33 eŋ11 i33 ko31 oi21 tʰau213 kai13 puŋ35 nĩã33 / tsek2 e11 tʰau213 / tʰau31 kau31 zik2 tʰau55 puŋ33 ou33 huŋ55 tsiŋ33 tsia33 mĩ33 / tʰau31 ke33 tseʔ2 e21 / hɤ24 kai12 haŋ55 teŋ24 bo11 tsu21 ka33 lauk5 
+pak³ huaŋ³³ eŋ¹¹ i³³ ko³¹ oi²¹ tʰau²¹³ kai¹³ puŋ³⁵ nĩã³³ / tsek² e¹¹ tʰau²¹³ / tʰau³¹ kau³¹ zik² tʰau⁵⁵ puŋ³³ ou³³ huŋ⁵⁵ tsiŋ³³ tsia³³ mĩ³³ / tʰau³¹ ke³³ tseʔ² e²¹ / hɤ²⁴ kai¹² haŋ⁵⁵ teŋ²⁴ bo¹¹ tsu²¹ ka³³ lauk⁵ 
 
 Bag4(8)huang1 êng7 i1 ko3(2) oi6(7)-tao3(7)-gai5(7) bung2(6)nian2, zêg8(4)ê6(7) tao3, tao3(2)-gao3(2)
 Rig8(4)tao5 bung1 ou1hung5 zing1 zia1min1, tao3(2) gê1 zêg8(4)ê7, he2(6)gai5(7) nang5
@@ -520,7 +520,7 @@ the man’s hat to drop off.
 
 <hr />
 
-hɤ24 kai13 naŋ55 tsĩã31 ku31 tieʔ2 lo33 toʔ2 bo11 / pak3 huaŋ33 tsai31 tʰau31 ke33 tseʔ2 e11 / i33 kai13 mi12 hĩũ55 kai12 niu53 iu21 kʰɤk3 i33 tʰau31 kʰui33 kʰɤ21
+hɤ²⁴ kai¹³ naŋ⁵⁵ tsĩã³¹ ku³¹ tieʔ² lo³³ toʔ² bo¹¹ / pak³ huaŋ³³ tsai³¹ tʰau³¹ ke³³ tseʔ² e¹¹ / i³³ kai¹³ mi¹² hĩũ⁵⁵ kai¹² niu⁵³ iu²¹ kʰɤk³ i³³ tʰau³¹ kʰui³³ kʰɤ²¹
 
 He2(6)gai5(7)-nang5 zian2 gu3(2)-diêh4 lo1 doh8(4) bho7, Bag4(8)huang1 zai3(2) tao3(2) gê1 zêg8(4)ê7,
 i1-gai5(7) mi5(7)hiun5 gai5(7) niu2 iu6(7) keg8(4) i1 tao3(2)-kui1-ke3.
@@ -533,7 +533,7 @@ again, and caused the buttons on his coat to become undone.
 
 <hr />
 
-pak3 huaŋ33 tʰõĩ35 tieʔ5 hũã33 hi35 si
+pak³ huaŋ³³ tʰõĩ³⁵ tieʔ⁵ hũã³³ hi³⁵ si
 
 Bag4(8)huang1 toin2(6)-diêh8 huan1hin2(6)-si1.
 
@@ -543,7 +543,7 @@ The North Wind saw this and was very happy.
 
 <hr />
 
-i11 tã53 / ho53 / ua53 ĩã55 lieu213 / lɤ53 tã33 hũã24 u11 miʔ3 ue11 ho24 tã213 / ua53 taŋ11 tsa53 tsu21 tsai11 ua213 ĩã11 liou213
+i¹¹ tã⁵³ / ho⁵³ / ua⁵³ ĩã⁵⁵ lieu²¹³ / lɤ⁵³ tã³³ hũã²⁴ u¹¹ miʔ³ ue¹¹ ho²⁴ tã²¹³ / ua⁵³ taŋ¹¹ tsa⁵³ tsu²¹ tsai¹¹ ua²¹³ ĩã¹¹ liou²¹³
 
 I1 dan3(2), “ho2, ua2 ian5 liêu3! Le2 dan1 huan6 u6(7)-mih4 uê7 ho2(6) dan3? Ua2
 dang6(7)za2 zu6(7) zai5(7) ua2(7) ian5(7) liou3.”
@@ -555,7 +555,7 @@ I would win.”
 
 <hr />
 
-zik2 tʰau55 tʰĩã tieʔ5 tsiŋ33 ho24 tsʰie213 / i33 sim33 lai35 sĩẽ35 / i33 kai55 ti11 ko53 oi12 ĩã55 ua213 / i33 kai55 muŋ33 si21 eŋ11 huŋ55 tui31 hɤ24 kai12 naŋ55 kai12 i33 tsiŋ33 tsia33 mĩ33 / tsu21 sɤŋ53 ĩã55 no / ieu33 u11 tsia24 sɤ11
+zik2 tʰau⁵⁵ tʰĩã tieʔ⁵ tsiŋ³³ ho²⁴ tsʰie²¹³ / i³³ sim³³ lai³⁵ sĩẽ³⁵ / i³³ kai⁵⁵ ti¹¹ ko⁵³ oi¹² ĩã⁵⁵ ua²¹³ / i³³ kai⁵⁵ muŋ³³ si²¹ eŋ¹¹ huŋ⁵⁵ tui³¹ hɤ²⁴ kai¹² naŋ⁵⁵ kai¹² i³³ tsiŋ³³ tsia³³ mĩ³³ / tsu²¹ sɤŋ⁵³ ĩã⁵⁵ no / ieu³³ u¹¹ tsia²⁴ sɤ¹¹
 
 Rig8(4)tao5 tian1-diêh8 zing1 ho2(6)ciê3, i1 sim1lai6 siên6, “i1-gai5 di7go3(2) oi6(7) ian5
 ua2(3)? I1-gai5 mung1 si6(7) êng7 hung5 dui3(2) he2(6)gai5(7)-nang5-gai5(7) i1 zing1zia1 min1, zu6(7)
@@ -570,7 +570,7 @@ declared that he has won? What is this?”
 
 <hr />
 
-i33 tsu21 tua11 sĩã33 tsĩẽ31 sĩẽ33 tã213 / ei53 / lɤ53 tã53 miʔ5 kai55 / lɤ53 tã21 lɤ35 ĩã55 hẽ35 / lɤ53 ĩã55 a33 bue11 / lɤ53 ĩã55 lou53 / ua53 tso31 tʰõĩ24 m11 tieʔ5 / bo13 tʰõĩ53 tieʔ2 tsu21 m11 sɤŋ31 siou213
+i³³ tsu²¹ tua¹¹ sĩã³³ tsĩẽ³¹ sĩẽ³³ tã²¹³ / ei⁵³ / lɤ⁵³ tã⁵³ miʔ⁵ kai⁵⁵ / lɤ⁵³ tã²¹ lɤ³⁵ ĩã⁵⁵ hẽ³⁵ / lɤ⁵³ ĩã⁵⁵ a³³ bue¹¹ / lɤ⁵³ ĩã⁵⁵ lou⁵³ / ua⁵³ tso³¹ tʰõĩ²⁴ m¹¹ tieʔ⁵ / bo¹³ tʰõĩ⁵³ tieʔ² tsu²¹ m¹¹ sɤŋ³¹ siou²¹³
 
 I1 zu6(7) dua7sian1 ziên3(2)sên1 dan3, “êi2! le2 dan3(2) mih4(8)gai5? Le2 dan3(7) le2(6) ian5
 hên6? Le2 ian5 a1-bhue7? Le2 ian5 lou2, ua2 zo3(2) toi2(6)-m6(7)-diêh8? Bho5(7) toin2 diêh4
@@ -585,7 +585,7 @@ anything? If I can’t see what has happened, it doesn’t count.”
 
 <hr />
 
-tsia21 lo33 a213 / hɤ24 kai12 naŋ55 teŋ24 bo11 iu35 ti31 lo12 tʰau11 ko21 / iu11 tsaŋ33 mi12 hĩũ55 kai12 niu53 ka:i213 niu35 ho33 
+tsia²¹ lo³³ a²¹³ / hɤ²⁴ kai¹² naŋ⁵⁵ teŋ²⁴ bo¹¹ iu³⁵ ti³¹ lo¹² tʰau¹¹ ko²¹ / iu¹¹ tsaŋ³³ mi¹² hĩũ⁵⁵ kai¹² niu⁵³ ka:i²¹³ niu³⁵ ho³³ 
 
 Zia2 lo1 a3, he2(6)gai5(7)-nang5 dêng2(6)bho7 iu6 di3(2) lo2(6) tao5(7) go7, iu6(7) zang1
 mi5(7)hiun5-gai5(7) niu2 ga1-i1 niu2(6)-ho1.
@@ -597,7 +597,7 @@ buttoned up his coat once again.
 
 <hr />
 
-pak3 huaŋ33 tʰõĩ35 tieʔ5 tsiŋ33 bo12 mo11 / i3 tsu21 zu35 keŋ31 tsʰuk5 lak5 tʰau213 
+pak³ huaŋ³³ tʰõĩ³⁵ tieʔ⁵ tsiŋ³³ bo¹² mo¹¹ / i³³ tsu²¹ zu³⁵ keŋ³¹ tsʰuk⁵ lak⁵ tʰau²¹³ 
 
 Bag4(8)huang1 toi2(6)-diêh8 zing1 bho5(7)mo7, i1 zu6(7) ru2(6)gêng2 cug4(8)lag8 tao3.
 
@@ -608,7 +608,7 @@ gust.
 
 <hr />
 
-tso31 tsai33 i33 tʰau31 zu24 li11 hai11 / hɤ35 kai12 naŋ55 kai13 mi13 hĩũ55 mau33 zu35 kiŋ / bo11 tui35 zu24 ke35 / kau31 kũã35 au35 / tʰĩ33 teŋ53 kai12 huŋ55 ia12 puŋ11 i33 tʰau31 kʰui33 / zik31 tʰau55 ia13 tsʰuk2 lai13 / hɤ24 ai13 (hɤ13 kai13) naŋ55 hueŋ24 si21 hĩẽ:33 (hĩẽ21 sĩẽ33)
+tso³¹ tsai³³ i³³ tʰau³¹ zu²⁴ li¹¹ hai¹¹ / hɤ³⁵ kai¹² naŋ⁵⁵ kai¹³ mi¹³ hĩũ⁵⁵ mau³³ zu³⁵ kiŋ / bo¹¹ tui³⁵ zu²⁴ ke³⁵ / kau³¹ kũã³⁵ au³⁵ / tʰĩ³³ teŋ⁵³ kai¹² huŋ⁵⁵ ia¹² puŋ¹¹ i³³ tʰau³¹ kʰui³³ / zik³¹ tʰau⁵⁵ ia¹³ tsʰuk² lai¹³ / hɤ²⁴ ai¹³ (hɤ¹³ kai¹³) naŋ⁵⁵ hueŋ²⁴ si²¹ hĩẽ:³³ (hĩẽ²¹ sĩẽ³³)
 
 Zo3(2) zai1 i1 tao3(2) ru2(6) li6(7)hai7, he2(6)gai5(7)-nang5-gai5(7) mi5(7)hiun5 mao1 ru2(6)-ging1, bho5(7)
 dui2(6) ru2(6)-gê6, gao3(2) duan2(6) ao6, tin1dêng2-gai5(7) hung5 ia7 bung1 i1 tao3(2)kui1,
@@ -624,7 +624,7 @@ the man was still as he had been before.
 
 <hr />
 
-zik2 tʰau55 tʰõĩ35 lieu tsu21 tã213 / tsi24 ai12 (kai1) naŋ55 kai12 mi12 hĩũ55 kaʔ3 bo11 lo33 bo13 pak2 loʔ2 lai13 li33 / lɤ53 tʰõĩ35 i33 kai12 bo11 kaʔ3 mi12 hĩũ55 hueŋ13 m11 mi11 (m11 si21) ti213 to21 ko31 kaʔ3 tsʰeŋ11 to21 ko31 / tsia13 kai55 tso31 ho24 sɤŋ31 lɤ35 ĩã55 / ua35 kai12 lɤ24 tã213 / tʰau213 bo12 eŋ11 / hueŋ12 si21 pʰak5 ho213
+zik² tʰau⁵⁵ tʰõĩ³⁵ lieu tsu²¹ tã²¹³ / tsi²⁴ ai¹² (kai1) naŋ⁵⁵ kai¹² mi¹² hĩũ⁵⁵ kaʔ³ bo¹¹ lo³³ bo¹³ pak² loʔ² lai¹³ li³³ / lɤ⁵³ tʰõĩ³⁵ i³³ kai¹² bo¹¹ kaʔ³ mi¹² hĩũ⁵⁵ hueŋ¹³ m¹¹ mi¹¹ (m¹¹ si²¹) ti²¹³ to²¹ ko³¹ kaʔ³ tsʰeŋ¹¹ to²¹ ko³¹ / tsia¹³ kai⁵⁵ tso³¹ ho²⁴ sɤŋ³¹ lɤ³⁵ ĩã⁵⁵ / ua³⁵ kai¹² lɤ²⁴ tã²¹³ / tʰau²¹³ bo¹² eŋ¹¹ / hueŋ¹² si²¹ pʰak⁵ ho²¹³
 
 Rig8(4)tao5 toin2(6)-liêu1 zu6(7) dan3, “zi2(6)gai5(7)-nang5-gai5(7) mi5(7)hiun5 gah4 bho7 lo1 bho5(7)
 bag8(4) loh8(4)lai5(7) li1! Le2 toi2(6) i1-gai5(7) bho7 gah4 mi5(6)hiun5 huêng2(6) m6(7)-si6(7) di3
@@ -641,7 +641,7 @@ his head. Let me tell you, blowing is no use, shining is better.”
 
 <hr />
 
-tã53 ueŋ55 i33 stu21 li24 li24 lo33 pʰak5
+tã⁵³ ueŋ⁵⁵ i³³ stu²¹ li²⁴ li²⁴ lo³³ pʰak⁵
 
 Dan3(2)-uêng5 i1 zu6(7) li2(6)li2(6)-lo1 pag8.
 
@@ -651,7 +651,7 @@ Having spoken, he shone brightly.
 
 <hr />
 
-hɤ24 ai12 (kai12) naŋ55 sim33 lai35 tsĩẽ:33 (tsĩẽ41 sẽ33) sĩẽ35 / huaŋ55 iu21 tʰau213 / zik3 tʰau55 iu21 pʰak5 
+hɤ²⁴ ai¹² (kai¹²) naŋ⁵⁵ sim³³ lai³⁵ tsĩẽ:³³ (tsĩẽ41 sẽ³³) sĩẽ³⁵ / huaŋ⁵⁵ iu²¹ tʰau²¹³ / zik³ tʰau⁵⁵ iu²¹ pʰak⁵ 
 
 He2(6)gai5(7)-nang5 sim1lai6 ziên3(2)sên1 siên6, huang5 iu6(7) tao3, Rig8(4)tao5 iu6(7) pag8.
 
@@ -662,7 +662,7 @@ hot.”
 
 <hr />
 
-tʰau213 ki213 lai13 li33 ŋaŋ12 si53 / pʰak5 ki213 lai12 li33 zuaʔ2 si53 / tsĩẽ:33 kai12 tʰĩ33 si55 tsiŋ33 kã24 ũĩ213 / ai11 / hoʔ5 zuaʔ5 a33 
+tʰau²¹³ ki²¹³ lai¹³ li³³ ŋaŋ¹² si⁵³ / pʰak⁵ ki²¹³ lai¹² li³³ zuaʔ² si⁵³ / tsĩẽ:³³ kai¹² tʰĩ³³ si⁵⁵ tsiŋ³³ kã²⁴ ũĩ²¹³ / ai¹¹ / hoʔ⁵ zuaʔ⁵ a³³ 
 
 “Tao3-ki3(2)lai5(7) li1 ngang5(7)si2, pag8 ki3(2)lai5(7) li1 ruah8(4)si2, ziên3(2)sên1-gai5(7) tin1si5
 zing1 gan2(6)uin3. Ai7! hoh4(8)-ruah8 a1!”
@@ -674,7 +674,7 @@ I’ll die of heat. This day has been so fearsome. Oh how warm it is!”
 
 <hr />
 
-ua53 tsa24 zik5 kĩã13 ŋou21 pʰou31 lou33 / kim33 zik5 kĩã13 sã33 pʰou31 
+ua⁵³ tsa²⁴ zik⁵ kĩã¹³ ŋou²¹ pʰou³¹ lou³³ / kim³³ zik⁵ kĩã¹³ sã³³ pʰou³¹ 
 
 “Ua2 za2(6)rig8 gian5(7) ngou6(7)-pou2 lou7, gim1rig8 gian5(7) san1-pou2.”
 
@@ -688,7 +688,7 @@ today.”
 
 <hr />
 
-ŋou21 pʰou213 ke33 sã33 pʰou213 tsu21 si21 poiʔ3 pʰou213 / hia53 li33 kĩã24 zik5 hũã33 tieʔ2 kĩã13 ke33 no21 pʰou213 / tsĩẽ21 zuaʔ5 m11 tʰɤŋ31 tieu11 sã33 kou213 tso31 oi21 kĩã213 lou33 / si21 tã31 ũã213 tse:11 kũã55 tieʔ3 ne11 
+ŋou²¹ pʰou²¹³ ke³³ sã³³ pʰou²¹³ tsu²¹ si²¹ poiʔ³ pʰou²¹³ / hia⁵³ li³³ kĩã²⁴ zik⁵ hũã³³ tieʔ² kĩã¹³ ke³³ no²¹ pʰou²¹³ / tsĩẽ²¹ zuaʔ⁵ m¹¹ tʰɤŋ³¹ tieu¹¹ sã³³ kou²¹³ tso³¹ oi²¹ kĩã²¹³ lou³³ / si²¹ tã³¹ ũã²¹³ tse:¹¹ kũã⁵⁵ tieʔ³ ne¹¹ 
 
 “Ngou6(7)-pou3 gê1 san1-pou3 zu6(7) si6(7) boih4-pou3, hia2 li1 gian2(6)rig8 huan1-diêh4
 gian5(7) gê1 no6(7)-pou3, ziên2(7) ruah8 m6(7)-teng3(2)-diêu7 san1kou7 zo3(2) oi6(7) gian5(7)lou1; si6(7)dan3(2) uan3zê7 guan5-diêh4 nê7?
@@ -702,7 +702,7 @@ what if it gets cold again?”
 
 <hr />
 
-mui213 (m11 ui213) / ua53 hɤ35 toi tsʰuŋ13 lo33 tsʰeŋ11 hoʔ3 tsoi213 kĩã35 / pau33 nĩã24 boi11 kũã55 tieʔ2 / tʰɤŋ213 a21
+mui²¹³ (m¹¹ ui²¹³) / ua⁵³ hɤ³⁵ toi tsʰuŋ¹³ lo³³ tsʰeŋ¹¹ hoʔ³ tsoi²¹³ kĩã³⁵ / pau³³ nĩã²⁴ boi¹¹ kũã⁵⁵ tieʔ² / tʰɤŋ²¹³ a²¹
 
 “Mui3, ua2 he2(6)doin1 cung5(7) lo1 cêng7 hoh8(4)-zoi7 gian6, bao1 nian2(6) bho5(7)
 guan5-diêh4. Teng3 a7!”
@@ -714,7 +714,7 @@ cold. Let’s take it off!”
 
 <hr />
 
-zik2 tʰau55 tʰõĩ35 tieʔ5 hu̃ã33 hi35 si 
+zik² tʰau⁵⁵ tʰõĩ³⁵ tieʔ⁵ hu̃ã³³ hi³⁵ si 
 
 Rig8(4)tao5 toin2(6)diêh4(8) huan1hi2(6)-si.
 
@@ -724,7 +724,7 @@ The Sun was delighted when he saw this.
 
 <hr />
 
-i33 tã213 / lɤ53 tʰõĩ53 tsʰuŋ12 lo33 si21 ua24 kai12 puŋ35 nĩã tua11 /
+i³³ tã²¹³ / lɤ⁵³ tʰõĩ⁵³ tsʰuŋ¹² lo³³ si²¹ ua²⁴ kai¹² puŋ³⁵ nĩã tua¹¹ /
 
 I1 dan3, “le2 toin2! Cung7 lo1 si6(7) ua2(6)gai5(7) bung2(6)nian dua7.”
 
@@ -734,7 +734,7 @@ He said, “look! It is my abilities that are superior, after all.”
 
 <hr />
 
-tsi24 tsua11 mueʔ5 kã24 si21 lɤ53 ĩã12 a33 si21 ua53 ĩã12 
+tsi²⁴ tsua¹¹ mueʔ⁵ kã²⁴ si²¹ lɤ⁵³ ĩã¹² a³³ si²¹ ua⁵³ ĩã¹² 
 
 “Zi2(6)-zua7-muêh8 gan2(6) si6(7) le2 ian5(7) a1si6(7) ua2 ian7?”
 
@@ -744,7 +744,7 @@ tsi24 tsua11 mueʔ5 kã24 si21 lɤ53 ĩã12 a33 si21 ua53 ĩã12
 
 <hr />
 
-pak3 huaŋ33 tsĩã31 kʰi31 kau31 ãĩ53 si / bo12 ho24 tsʰuk3 kʰui213 / ho24 si35 tʰõĩ24 kĩ53 hɤ24 kai12 naŋ55 na11 paŋ31 ie33 tou53 kʰieʔ2 tsʰuk3 ki33 sĩ213 lai11 tsia33 zik2 tʰau55 
+pak³ huaŋ³³ tsĩã³¹ kʰi³¹ kau³¹ ãĩ⁵³ si / bo¹² ho²⁴ tsʰuk3 kʰui²¹³ / ho²⁴ si³⁵ tʰõĩ²⁴ kĩ⁵³ hɤ²⁴ kai¹² naŋ⁵⁵ na¹¹ paŋ³¹ ie³³ tou⁵³ kʰieʔ² tsʰuk³ ki³³ sĩ²¹³ lai¹¹ tsia³³ zik² tʰau⁵⁵ 
 
 Bag4(8)huang1 zian2 ki3(2)-gao3(2) ain3(2)-si1, bho5(7)ho2(6) cug8(4)kui3, ho2(6)si6 toi2(6)gin3(2)
 he2(6)gai5(7)-nang5 na7 bang3(2) iê1dou2 kiêh8(4)cug4 gi1 sin7 lai5(7) zia1 Rig8(4)tao5.
@@ -758,7 +758,7 @@ to shade himself from the Sun.
 
 <hr />
 
-i33 tsu21 tã213 / zik2 tʰau55 lɤ53 ãĩ31 sie24 sim33 
+i³³ tsu²¹ tã²¹³ / zik² tʰau⁵⁵ lɤ⁵³ ãĩ³¹ sie²⁴ sim³³ 
 
 I1 zu6(7) dan3, “Rig8(4)tao5 le2 ain3(2) siê2(6)sim1.”
 
@@ -768,7 +768,7 @@ He then said, “Sun, you should be careful.”
 
 <hr />
 
-ua53 e21 hue55 tsʰuŋ12 lo33 u21 pʰaʔ3 pai11 lɤ24 kai12 ki33 hue35 / tsi35 tsua55 puŋ24 lai55 si21 ua35 ĩã55 / muŋ33 si21 puŋ33 ua24 bo13 sĩẽ35 / e21 tsua11 ia11 si21 ũã11 tso31 pak2 miʔ5 kai55 lai11 sie33 tau31 / ua53 pau33 nia24 oi21 ĩã55 lɤ213 / hũã24 ãĩ53 lai55 a33 mai213
+ua⁵³ e²¹ hue⁵⁵ tsʰuŋ¹² lo³³ u²¹ pʰaʔ³ pai¹¹ lɤ²⁴ kai¹² ki³³ hue³⁵ / tsi³⁵ tsua⁵⁵ puŋ²⁴ lai⁵⁵ si²¹ ua³⁵ ĩã⁵⁵ / muŋ³³ si²¹ puŋ³³ ua²⁴ bo¹³ sĩẽ³⁵ / e²¹ tsua¹¹ ia¹¹ si²¹ ũã¹¹ tso³¹ pak² miʔ⁵ kai⁵⁵ lai¹¹ sie³³ tau³¹ / ua⁵³ pau³³ nia²⁴ oi²¹ ĩã⁵⁵ lɤ²¹³ / hũã²⁴ ãĩ⁵³ lai⁵⁵ a³³ mai²¹³
 
 “Ua2 ê6(7)-huê5 cung5(7) lo1 u6(7) pah4(8)bai7 le2(6)-gai5(7) gi1huê6, zi2(6)-zua5 bung2(6)lai5 si6(7) ua2(6)
 ian5, mung1 si6(7) bung1 ua2(6) bho5(7) siên6, ê6(7)zua7 ia7si6(7) uan7 zo3(2) bag8(4)mih8-gai5 lai5(7)
