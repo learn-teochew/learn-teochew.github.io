@@ -31,9 +31,9 @@ The English translation is from the English Revised Version.
 
 This version was originally published in Chinese characters, Peng'im phonetic transcription has been added (modern pronunciation).
 
-<sup>9</sup> … to7thih1 uang2kai7 A1-Pe6 ia1, ngiang7 Leu6kai7 miar5 tsung1 siar3.
+<sup>9</sup> … to¹¹ tĩ³³ uaŋ⁵³ kai¹¹ a³³ pe²⁵ ia³³ / ŋiaŋ¹¹ lɯ³⁵ kai¹¹ mĩã⁵⁵ tsuŋ³³ sĩã²¹³
 
-<sup>9</sup> … do6tin1 uang2gai5 A1-Bê6 ia1, ngiang6 Le2-gai5 mian5 zung1 sian3.
+<sup>9</sup> … do6(7)tin1 uang2-gai5(7) A1Bê6 ia1, ngiang6(7) Le2(6) gai5(7) mian5 zung1 sian3.
 
 <sup>9</sup> ⋯⋯ 在天 阮個 阿父 呀， 願 汝個 名 尊 做 聖。
 
@@ -41,9 +41,9 @@ This version was originally published in Chinese characters, Peng'im phonetic tr
 
 <hr />
 
-<sup>10</sup> Leu6-kai7 kok4 lai5tau3. Leu6kai7 tsi6-i3 tek4seng5, to7 to3 zu5 to7 thih1 tsek4ier7.
+<sup>10</sup> lɯ²⁵ kai¹¹ kok² lai¹¹ tau²¹³ / lɯ²⁵ kai¹¹ tsi²⁵ i²¹³ tek2 seŋ⁵⁵ / to¹¹ ti²¹³ zu⁵⁵ to¹¹ tĩ³³ tsek² ĩẽ¹¹
 
-<sup>10</sup> Le2-gai5 gog4 lai5dao3. Le2-gai5 zi3-i3 dêg4sêng5, do6 di3 ru5 do6 tin1 zêg8iên7.
+<sup>10</sup> Le2(6) gai5(7) gog4 lai5(7)dao3. Le2(6) gai5(7) zi3(2)i3 dêg8(4)sêng5, do6(7) di3 ru5 do6(7) tin1 zêg8(4)iên7.
 
 <sup>10</sup> 汝個 國 來到。 汝個 旨意 得成、 在地 如 在天 一樣。
 
@@ -51,9 +51,9 @@ This version was originally published in Chinese characters, Peng'im phonetic tr
 
 <hr />
 
-<sup>11</sup> Zik4eng7-kai7 nier7tsia’8, king1zik8 se2pung1 uang2.
+<sup>11</sup> zik² eŋ¹¹ kai¹¹ nĩẽ¹¹ tsiaʔ⁵ / kiŋ³³ zik5 se⁵² puŋ³³ uaŋ⁵³
 
-<sup>11</sup> Rig8êng7-gai5 niên5ziah8, ging1rig8 sê3bung1 uang2.
+<sup>11</sup> Rig8(4)êng7-gai5(7) niên5(7)ziah8, ging1rig8 sê3(2)bung1 uang2.
 
 <sup>11</sup> 日用個 糧食、 今日 賜分 阮。
 
@@ -61,9 +61,9 @@ This version was originally published in Chinese characters, Peng'im phonetic tr
 
 <hr />
 
-<sup>12</sup> Sia6meng2 uang2-kai7 hu7khiam3, zu5 uang2 ia7 u7 sia6meng2 hu7khiam3 uang2kai5.
+<sup>12</sup> sia²⁵ meŋ⁵² uaŋ⁵² kai¹¹ hu¹¹ kʰiam²¹³ / zu¹¹ uaŋ⁵² ia¹¹ u¹¹ sia²⁵ meŋ⁵³ hu¹¹ kʰiam²¹³ uaŋ⁵³ kai¹¹
 
-<sup>12</sup> Sia3mêng2 uang2-gai5 hu6kiam3, ru5 uang2 ia7 u6 sia3mêng2 hu6kiam3 uang2gai5.
+<sup>12</sup> Sia2(6)mêng2 uang2-gai5(7) hu6(7)kiam3, ru5(7) uang2 ia7 u6(7) sia2(6)mêng2 hu6(7)kiam3 uang2 gai5(7).
 
 <sup>12</sup> 赦免 阮個 負欠、 如 阮 亦 有 赦免 負欠 阮個。
 
@@ -71,9 +71,9 @@ This version was originally published in Chinese characters, Peng'im phonetic tr
 
 <hr />
 
-<sup>13</sup> Mai3 di6 uang2 zip8to7 iu6hok8, zui7si7 kiu6 uang2 thuk8tshuk8 ak8tsia2.
+<sup>13</sup> mai⁵² di⁵² uaŋ⁵³ zip5 to¹¹ iu²⁵ hok⁵ / zui¹¹ si¹¹ kiu⁵² uaŋ⁵² tʰuk⁵ tsʰuk⁵ ak⁵ tsia⁵²
 
-<sup>13</sup> Mai3 di3 uang2 rib4do6 iu2hog8, rui5si6 giu3 uang2 tug4cug4 ag4zia2.
+<sup>13</sup> Mai3(2) di3(2) uang2 rib4(8)do6(7) iu2(6)hog8, rui5(7)si6(7) giu3(2) uang2 tug4(8)cug4(8) ag4(8)zia2.
 
 <sup>13</sup> 勿 致 阮 入在 誘惑、 惟是 救 阮 脫出 惡者。
 
@@ -83,41 +83,41 @@ This version was originally published in Chinese characters, Peng'im phonetic tr
 
 ### Revised Teochew version with more vernacular language (Wong, 2015)
 
-<sup>9</sup> … uang2 to7thih1-kai7 A1-Pe6: mo7 zing7zing5 tou1 tsung1 Leu6kai7 miar5 tso2 siar3.
+<sup>9</sup> … uaŋ⁵³ to¹¹ tĩ³³ kai¹¹ a³³ pe²⁵ / mo¹¹ ziŋ¹¹ ziŋ⁵⁵ tou³³ tsuŋ³³ lɯ²⁵ kai¹¹ mĩã⁵⁵ tso⁵³ sĩã²¹³
 
-<sup>9</sup> … uang2 do6tin1-gai5 A1-Bê6: mo7 ring5ring5 dou1 zung1 Le2-gai5 mian5 zo3 sian3.
+<sup>9</sup> … uang2 do6(7)tin1-gai5(7) A1-Bê6: mo7 ring5(7)ring5 dou1 zung1 Le2(6) gai5(7) mian5 zo3(2) sian3.
 
 <sup>9</sup> ⋯⋯ 阮 在天 個 阿父： 望 人人 都 尊 汝個 名 做 聖。
 
 <hr />
 
-<sup>10</sup> Mo7 Leu6kai7 kok4 lai5tau3. Mo7 Leu6kai7 tsi6-i3 tso2siar5 to7 to6tsier7, zu7 to7 thih1tsier7 tsek4ier7.
+<sup>10</sup> mo¹¹ lɯ²⁵ kai¹¹ kok² lai⁵⁵ tau²¹³ / mo¹¹ lɯ²⁵ kai¹¹ tsi²⁵ tsi²⁵ i²¹³ tso⁵² sĩã¹¹ do¹¹ di¹¹ tsĩẽ¹¹ / zu¹¹ to¹¹ tĩ³³ tsĩẽ¹¹ tsek1 ĩẽ¹¹
 
-<sup>10</sup> Mo7 Le2-gai5 gog4 lai5dao3. Mo7 Le2-gai5 zi3-i3 zo3sian3 do6 di7ziên7, ru5 do6 tin1ziên7 zêg8iên7.
+<sup>10</sup> Mo7 Le2(6) gai5 gog4 lai5 dao3. Mo7 Le2(6) gai5(7) zi2(6)i3 zo3(2)sian5(7) do6(7) di7ziên7, ru5(7) do6(7) tin1ziên7 zêg8(4)iên7.
 
 <sup>10</sup> 望 汝個 國 來到。 望 汝個 旨意 做成 在 地上， 如 在 天上 一樣。
 
 <hr />
 
-<sup>11</sup> Uang2 zik4tshiang5-kai7 tsia’4eng7, mo7 Leu2 king1zik8 se2pung1 uang2.
+<sup>11</sup> uaŋ⁵² zik2 tsʰiaŋ⁵⁵ kai¹¹ tsiaʔ² eŋ¹¹ / mo¹¹ lɯ⁵² kiŋ³³ zik5 se⁵² puŋ³³ uaŋ⁵²
 
-<sup>11</sup> Uang2 rig8ciang5-gai5 ziah8êng7, mo7 Le2 ging1rig8 sê3bung1 uang2.
+<sup>11</sup> Uang2 rig8(4)ciang5 gai5(7) ziah8(4)êng7, mo7 Le2 ging1rig8 sê3(2)bung1 uang2.
 
 <sup>11</sup> 阮 日常個 食用， 望 汝 今日 賜分 阮。
 
 <hr />
 
-<sup>12</sup> Meng6kheu3 uang2-kai7 hu7khiam3, zu7 uang2 meng6kheu3 uang2-kai7.
+<sup>12</sup> meŋ²⁵ kʰɯ⁵² uaŋ⁵² kai¹¹ hu¹¹ kʰiam²¹³ / zu¹¹ uaŋ⁵² meŋ²⁵ kʰɯ⁵² uaŋ⁵² kai¹¹
 
-<sup>12</sup> Mêng2ke3 uang2-gai5 hu6kiam3, ru5 uang2 mêng2ke3 uang2-gai5.
+<sup>12</sup> Mêng2(6)ke3(2) uang2-gai5(7) hu6(7)kiam3, ru5(7) uang2 mêng2(6)ke3(2) uang2-gai5(7).
 
 <sup>12</sup> 免去 阮個 負欠， 如 阮 免去 負欠 阮個。
 
 <hr />
 
-<sup>13</sup> Mai3 sai2 uang2 zip8to7 iu6hok8, kiu6 uang2 thuk4li5 heu2kai7 ak8nang5. Ing1ui5 kok4, khuang7leng5, iong7keung5, tou1 si7 Leu6kai5. Tsi2kau3 si2si3. A1-meng6!
+<sup>13</sup> mai⁵² sai⁵² uaŋ⁵² zip⁵ to¹¹ iu²⁵ hok⁵ / kiu⁵² uaŋ⁵² tʰuk⁵ li¹¹ hɯ²⁵ kai¹¹ ak⁵ naŋ⁵⁵ / iŋg³³ ui¹¹ kok² / kʰuaŋ¹¹ leŋ⁵⁵ / ioŋ¹¹ kɯŋ⁵⁵ / tou³³ si¹¹ lɯ²⁵ kai⁵⁵ / tsi⁵² kau⁵² si²⁵ si²¹³ / a³³ meŋ²⁵
 
-<sup>13</sup> Mai3 sai3 uang2 rib4do6 iu2hog8, giu3 uang2 tug4li5 he2-gai5 ag4nang5. Ing1ui5 gog4, kuang5lêng5, iong5geng5, dou1 si6 Le2-gai5. Zi3gao3 si3si3. A1-meng6!
+<sup>13</sup> Mai3(2) sai3(2) uang2 rib4(8)do6(7) iu2(6)hog8, giu3(2) uang2 tug4(8)li5(7) he2(6) gai5(7) ag4(8)nang5. Ing1ui5(7) gog4, kuang5(7)lêng5, iong5(7)geng5, dou1 si6(7) Le2(6) gai5. Zi3(2)gao3(2) si3(2)si3. A1-meng6!
 
 <sup>13</sup> 勿 使 阮 入在 誘惑， 救 阮 脫離 許個 惡人。 因為 國、 權能、 榮光， 都是 汝個。 至到 世世。 亞孟！
 
