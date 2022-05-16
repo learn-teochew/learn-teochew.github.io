@@ -48,7 +48,7 @@ from the English Revised Version.
 
 <hr />
 
-\[T\] Ǐasou kéumāk thóihtieu’ měungthu, sue’:
+\[T\] ia¹¹ sou³³ kɯ²⁵ mak⁵ tʰõĩ²⁵ tieʔ² mɯŋ¹¹ tʰu³³ / sueʔ²
 
 \[T\] Ia5(7)sou1 ge2(6)mag8 toin2(6)dieh4 meng5(7)tu1, suêh4:
 
@@ -60,7 +60,7 @@ from the English Revised Version.
 
 <hr />
 
-Léumūng phǐngkhīong ti nāng ǔ-hok lǐou! Ing-ǔi Sīng ti kog sǐ léumūng ti.
+lɯ²⁵ muŋ⁵⁵ pʰiŋ¹¹ kʰioŋ⁵⁵ ti³³ naŋ⁵⁵ u¹¹ hok² liou¹¹ / iŋ³³ ui¹¹ siŋ⁵⁵ ti³³ kok² si¹¹ lɯ²⁵ muŋ⁵⁵ ti³³
 
 Le2(6)mung5 ping5(7)kiong5 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) Sing5 di1 gog4 si6(7) le2(6)mung5 di1.
 
@@ -76,7 +76,7 @@ Blessed are ye poor: for yours is the kingdom of God.
 
 <hr />
 
-Léumūng ki-gǒ ti nāng ǔ-hok lǐou! Ing-ǔi léumūng tsiang-ìeu pá-tsok.
+lɯ²⁵ muŋ⁵⁵ ki³³ go¹¹ ti¹¹ naŋ⁵⁵ u¹¹ hok² liou¹¹ / iŋ³³ ui¹¹ lɯ²⁵ muŋ⁵⁵ tsiaŋ³³ ieu⁵² pa²⁵ tsok²
 
 Le2(6)mung5 gi1gho7 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) le2(6)mung5 ziang1iêu3(2) ba2(6)zog4.
 
@@ -88,7 +88,7 @@ Nǐmén jī’è de rén yǒufú le! Yīnwèi nǐmén jiāngyào bǎozú.
 
 <hr />
 
-Léumūng ai-khok ti nāng ǔ-hok lǐou! Ing-ǔi léumūng tsiang-ìeu hí-tshǐe.
+lɯ²⁵ muŋ⁵⁵ ai³³ kʰok² ti³³ naŋ⁵⁵ u¹¹ hok² liou¹¹ / iŋ³³ ui¹¹ lɯ²⁵ muŋ⁵⁵ tsiaŋ³³ ieu⁵² hi²⁵ tsʰie²¹³
 
 Le2(6)mung5 ai1kog4 di1 nang5 u6(7)-hog4 liou7! Ing1ui5(7) le2(6)mung5 ziang1iêu3(2) hi2(6)ciê3.
 
@@ -100,8 +100,7 @@ Blessed are ye that weep now: for ye shall laugh.
 
 <hr />
 
-Nāng ūi zǐngtsèu hěung-ǔ léumūng, kěu-tsok lēumūng, zok-měr léumūng, khì-tǐeu
-léumūng ti mīar, í-úi sí ak, léumūng tsǐu ǔ-hok lǐou!
+naŋ⁵⁵ ui¹¹ ziŋ¹¹ tsɯ⁵² hɯŋ¹¹ u²¹³ lɯ²⁵ muŋ⁵⁵ / kɯ¹¹ tsoʔ² lɯ²⁵ muŋ⁵⁵ / zok² me¹¹ lɯ²⁵ muŋ⁵⁵ / kʰi²⁵ ui⁵⁵ si¹¹ ak² / lɯ²⁵ muŋ⁵⁵ tsiu¹¹ u¹¹ hok² liou¹¹
 
 Nang5 ui5 ring5(7)ze2 heng6(7)u3 le2(6)mung5, ge6(7)zoh8(4) le2(6)mung5, rog8(4)mên7 le2(6)mung5,
 ki3(2)diêu7 le2(6)mung5 di1 mian5, i2(6)ui5 si6(7) ag4, le2(6)mung5 ziu6(7) u6(7)-hog4 liou7!
@@ -122,8 +121,7 @@ evil, for the Son of man's sake.
 
 <hr />
 
-Teung názīk, léumūng ìeu huar-hìh thìeu-iak, ing-ǔi léumūng tǒ thih-tsǐer ti
-síersěu sǐ tái-ti.
+tɯŋ³³ na²⁵ zik⁵ / lɯ²⁵ muŋ⁵⁵ ieu⁵² hũã³³ hĩ⁵² tʰieu⁵² iak² / iŋ³³ ui¹¹ lɯ²⁵ muŋ⁵⁵ to¹¹ tĩ³³ tsĩẽ¹¹ ti¹¹ sĩẽ²⁵ sɯ¹¹ si¹¹ tai²⁵ ti³³
 
 Deng1 na2(6)rig8, le2(6)mung5 iêu3(2) huan1hin2 tiêu3(2)iag4, ing1ui5(7) le2(6)mung5 do6(7)
 tin1tsiên6(7) di1 siên2(6)se7 si6(7) dai6-di1.
@@ -142,9 +140,9 @@ great in heaven:
 
 <hr />
 
-Léumung ti tsóutsong thǎi soih-tsai ǐasǐ tsé-ǐer.
+lɯ²⁵ muŋ⁵⁵ ti³³ tsou²⁵ tsoŋ³³ tʰai¹¹ sõĩ³³ tsai³³ ia¹¹ si¹¹ tse²⁵ ĩẽ¹¹
 
-Le2(6)mung1 di1 zou2(6)zong1 tai6(7) soin1zai1 ia7si6(7) tsê2(6)iên7.
+Le2(6)mung5 di1 zou2(6)zong1 tai6(7) soin1zai1 ia7si6(7) tsê2(6)iên7.
 
 Tāmén de zhǔzōng dài xiānzhī yěshì zhèyàng.
 
@@ -178,7 +176,7 @@ N.B. The parts in parentheses are indistinctly spoken in the video.
 
 <hr />
 
-\[T\] Heusim ti nāng ǔ-hok lǐou. Sǐangtǐ ti kog sǐ níng-kāi.
+\[T\] hɯ³³ sim³³ ti³³ naŋ⁵⁵ u¹¹ hok² liou¹¹ / siaŋ¹¹ ti²¹³ ti³³ kok² si¹¹ niŋ²⁵ kai⁵⁵
 
 \[T\] He1sim1 di1 nang5 u6(7)hog4 liou7. Siang6(7)di3 di1 gog4 si6(7) ning2(6)-gai5.
 
@@ -191,7 +189,7 @@ N.B. The parts in parentheses are indistinctly spoken in the video.
 
 <hr />
 
-Kigǒ ti nāng ǔ-hok lǐou. Nìng pīktīk pátsok.
+ki³³ go¹¹ ti¹¹ naŋ⁵⁵ u¹¹ hok² liou¹¹ / niŋ⁵² pik⁵ tik⁵ pa²⁵ tsok²
 
 Gi1gho7 di1 nang5 u6(7)-hog4 liou7. Ning2 big4(8)dig4(8) ba2(6)zog4.
 
@@ -201,7 +199,7 @@ Jī’è de rén yǒufú le. Rèn bìděi bǎozú.
 
 <hr />
 
-Aikhok ti nāng ǔ-hok lǐou. Nìng tsiang-ìeu hí-tshǐe.
+ai³³ kʰok² ti³³ naŋ⁵⁵ u¹¹ hok² liou¹¹ / niŋ⁵² tsiaŋ³³ ieu⁵² hi²⁵ tsʰie²¹³
 
 Ai1kog4 di1 nang5 u6(7)-hog4 liou7. Ning2 ziang1iêu3(2) hi2(6)ciê3.
 
@@ -211,10 +209,9 @@ Ai1kog4 di1 nang5 u6(7)-hog4 liou7. Ning2 ziang1iêu3(2) hi2(6)ciê3.
 
 <hr />
 
-Nāng zie’ ing ùa thsok-měr nǐng, pēkpek nǐng, kěu-tsok nǐng, (? ngīak tseu-áu
-kìe-ǔi) mó-sěu lǎi húihpáng nǐng, nìng tsǐu ǔ-hok lǐou.
+naŋ⁵⁵ zieʔ² iŋ³³ ua⁵² tsʰok² me¹¹ niŋ¹¹ / pek⁵ pek² niŋ¹¹ / kɯ¹¹ tsoh² niŋ¹¹ / (? ŋiak⁵ tsɯ³³ au²⁵ kie⁵² ui¹¹) mo²⁵ sɯ¹¹ lai¹¹ hũĩ²⁵ paŋ²⁵ niŋ¹¹ / niŋ⁵² tsiu¹¹ u¹¹ hok² liou¹¹
 
-Nang5 riêh8(4) ing1 ua2 tsog8(4)mên7 ning2(7), bêg4(8)bêg4 ning2(7), ge6(7)zoh8(4) ning2(7), (? ngiag4(8)
+Nang5 riêh8(4) ing1 ua2 cog8(4)mên7 ning2(7), bêg4(8)bêg4 ning2(7), ge6(7)zoh8(4) ning2(7), (? ngiag4(8)
 ze1ao6 giê3(2)ui7) mo2(6)se7 lai5(7) huin2(6)bang2(6) ning2(7), ning2 ziu6(7) u6(7)-hog4 liou7.
 
 Rén ruò yīn wǒ rùmà rèn, bīpò rèn, jùjué rèn, (? nuè zhīhòu jiàowéi) nāoshì lái
@@ -229,7 +226,7 @@ huǐbàng rèn, rèn jìu yǒufú le.
 
 <hr />
 
-(? Tséhúe) tsìe-ser sěu hūek-ser sǐ-íau èngteung huarhìh khùailāk.
+(? tse²⁵ hue²⁵) tsie⁵² sẽ³³ sɯ¹¹ huek⁵ sẽ³³ si¹¹ iau²⁵ eŋ⁵² tɯŋ³³ hũã³³ hĩ⁵² kʰuai⁵² lak⁵
 
 (? Tsê2(6)huê6) ziê3(2)sên1 se7 huêg4(8)sên1 si6(7)iao2(6) êng3(2)deng1 huan1hin2 kuai3(2)lag8.
 
@@ -239,7 +236,7 @@ huǐbàng rèn, rèn jìu yǒufú le.
 
 <hr />
 
-Ing-ǔi nìng tǒ thih-tsǐer-kǎi síer-sěu sǐ tǔa-kǎi.
+iŋ³³ ui¹¹ niŋ⁵² to¹¹ tĩ³³ tsi̃ẽ¹¹ kai¹¹ sĩẽ²⁵ sɯ¹¹ si¹¹ tua¹¹ kai¹¹
 
 Ing1ui5(7) ning2 do6(7) tin1tsiên6(7)-gai5(7) siên2(6)se7 si6(7) dua7-gai7.
 
@@ -252,9 +249,9 @@ Yīnwèi rèn zài tiānshàng ge shǎngsì shì dà ge.
 
 <hr />
 
-Tǒ nìng ǐh-tsōih-kǎi soih-tsai, nāng sǐ tsìe-ser pēkpek i-nàng.
+to¹¹ niŋ⁵² ĩ¹¹ tsõĩ⁵⁵ kai¹¹ sõĩ³³ tsai³³ / naŋ⁵⁵ si¹¹ tsie⁵² sẽ³³ pek⁵ pek² i³³ naŋ¹¹
 
-Do6(7) ning2 in6(7)zoin5-gai5(7) soin1zai1, nang5 si6(7) ziê3(2)sên1 bêg4(8)bêg4 i1nang2.
+Do6(7) ning2 in6(7)zoin5-gai5(7) soin1zai1, nang5 si6(7) ziê3(2)sên1 bêg4(8)bêg4 i1nang5(7).
 
 Zài rèn yǐqián ge xiānzhī, rén shì zhàoshēng bīpò yīrén.
 
