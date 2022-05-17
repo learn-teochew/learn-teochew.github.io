@@ -42,7 +42,7 @@ Ye Fong: Ladies and gentlemen, Singapore have a TV ten years ago. And tonight I 
 
 <hr />
 
-W: *Lòih-jih* Têungsuar oǐ tār ângmo a?
+W: lɔːy̯²¹ t͡siː²² tɯŋ¹¹ sũã³³ oi¹¹ tã⁵⁵ aŋ¹¹ mo³³ a
 
 W: *Lòih-jih* Deng5(7)suan1 oi6(7) dan3(5) ang5(7)mo1 a?
 
@@ -56,7 +56,7 @@ W: *Lòih-jih* Deng5(7)suan1 oi6(7) dan3(5) ang5(7)mo1 a?
 
 <hr />
 
-Y: Sengkiapo nāng màitǎr ângmo, hua’kok-uê â ôi târ a.
+Y: seŋ³³ kia³³ po³³ naŋ⁵⁵ mai⁵² tã²¹³ aŋ¹¹ mo⁵⁵ / huaʔ⁵ kok⁵ ue¹¹ a¹¹ oi¹¹ tã²¹³ a
 
 Y: Sêng1gia1bo1 nang5 mai3(2)dan3 ang5(7)mo1, huah4(8)gog4(8)uê7 a7 oi6(7) dan3 a
 
@@ -66,7 +66,7 @@ Singaporeans can not only speak English, they can even speak French.
 
 <hr />
 
-Tshûang-sìkǎi ló tsai Sengkiapo-nāng géu-ngāng thiangtshāi sî īk-līu kâi, bô tàr sèung kâi.
+tsʰuaŋ¹¹ si⁵² kai²¹³ lo⁵⁵ tsai³³ seŋ³³ kia³³ po³³ naŋ⁵⁵ gɯ²⁵ ŋaŋ⁵⁵ tiaŋ³³ tsʰai⁵⁵ si¹¹ ik⁵ liu⁵⁵ kai¹¹ / bo¹¹ tã⁵² sɯŋ⁵² kai¹¹
 
 Cuang5(7)-si3(2)gai3 lo5 zai1 Sêng1gia1bo1-nang5 ghe2(6)ngang5 tiang1cai5 si6(7) ig4(8)liu5 gai7, bho5(7) dan3(2) seng2 gai7.
 
@@ -76,7 +76,7 @@ The whole world knows that Singaporeans have a genius for language. I’m not ki
 
 <hr />
 
-W: Sî ùa tǎr, kiar lèu kâi ângmô-ûe tàr tshuklâi khào liâng gûa-kok-nāng a bôi-híau thiar.
+W: si¹¹ ua⁵² tã²¹³ / kĩã³³ lɯ⁵² kai¹¹ aŋ¹¹ mo¹¹ ue¹¹ tã⁵² tsʰuk⁵ lai¹¹ kʰau⁵² liaŋ¹¹ gua¹¹ kok⁵ naŋ⁵⁵ a boi¹¹ hiau²⁵ tʰĩã³³
 
 W: Si6(7) ua2 dan3, gian1 le2 gai5(7) ang5(7)mo5(7)-uê7 dan3(2) cug4(8)lai5(7) kao2 liang6(7) ghua7gog4(8)-nang5 a bhoi6(7)hiau2(6) tian1.
 
@@ -86,7 +86,7 @@ I’m afraid that the English that comes out of your mouth may not even be under
 
 <hr />
 
-Y: Bôihiáu thiar?
+Y: boi¹¹ hiau²⁵ tĩã³³
 
 Y: Bhoi6(7)hiau2(6) tian1?
 
@@ -96,7 +96,7 @@ Not understood?
 
 <hr />
 
-Lèu thòih gûakok phêng-iù tak-kâi khùar ùa tie’ tshiě.
+lɯ⁵² tõĩ⁵² gua¹¹ kok¹ pʰeŋ¹¹ iu⁵² tak² kai¹¹ kʰũã⁵² ua⁵² tieʔ² tsʰie²¹³
 
 Le2 toin2 ghua7gog4 pêng5(7)iu2 dag8(4) gai5(7) kuan3(2) ua2 diêh8(4) ciê3.
 
@@ -106,7 +106,7 @@ Just watch – our foreign friends all laugh when they see me.
 
 <hr />
 
-I ló siêr i-kâi ângmô-ûe â su ûa a.
+i³³ lo⁵⁵ sĩẽ¹¹ i³³ kai¹¹ aŋ¹¹ mo¹¹ ue¹¹ a¹¹ su³³ ua¹¹ a
 
 I1 lo5 siên6(7) i1-gai5(7) ang5(7)mo5(7)-uê7 a7 su1 ua2(7) a.
 
@@ -124,7 +124,7 @@ Are you that formidable?
 
 <hr />
 
-Tǒ tsíkǒ lèu kàr tàr ângmâ-ûe?
+to¹¹ tsi²⁵ ko²¹³ lɯ⁵² kã⁵² tã⁵² aŋ¹¹ mo¹¹ ue¹¹
 
 Do6(7) zi2(6)go3 le2 gan2 dan3(2) ang5(7)mo5(7)-uê7?
 
@@ -134,7 +134,7 @@ You dare to speak English here?
 
 <hr />
 
-Y: Kà tsònī a?
+Y: kã⁵² tso⁵² ni⁵⁵ a
 
 Y: Gan2 zo3(2)ni5 a?
 
@@ -144,7 +144,7 @@ What do you mean?
 
 <hr />
 
-W: E, tí a, lèu ôi tàr ângmô-ûe, ùa lâi mûng lèu.
+W: e / ti²⁵ a / lɯ⁵² oi¹¹ tã²¹³ aŋ¹¹ mo¹¹ ue¹¹ / ua⁵² lai¹¹ muŋ¹¹ lɯ⁵²
 
 W: Ê, di6 a, le2 oi6(7) dan3(2) ang5(7)mo5(7)-uê7, ua2 lai5(7) mung7 le2.
 
@@ -154,7 +154,7 @@ Hey brother, if you can speak English, let me ask you.
 
 <hr />
 
-? kángtuar kāi. Lèu ek ôi-tshūk a-bói?
+X kaŋ²⁵ tũã³³ kai¹¹ / lɯ⁵² ek² oi¹¹ tsʰuk⁵ a³³ boi²⁵
 
 ? gang2(6)duan1 gai7. Le2 êg8(4) oi6(7) cuk4(8) a-bhoi6?
 
@@ -164,7 +164,7 @@ Something simple – can you translate it?
 
 <hr />
 
-Y: Ói!
+Y: oi²⁵
 
 Y: Oi6!
 
@@ -178,7 +178,7 @@ Any time, don’t worry, go ahead. What you like to speak, you speak. You talk a
 
 <hr />
 
-W: Û iàr bō?
+W: u¹¹ ĩã⁵² bo⁵⁵
 
 W: U6(7) ian2 bho5?
 
@@ -192,7 +192,7 @@ Y: Ya!
 
 <hr/>
 
-W: Okay. Kángtuar, khuimēung kiè tîkai?
+W: *Okay* / kaŋ²⁵ tũã³³ / kʰui³³ mɯŋ⁵⁵ kie⁵² ti¹¹ kai³³
 
 W: Okay. Gang2(6)duan1, kui1meng5 gie3(2) di7gai1?
 
@@ -202,7 +202,7 @@ Okay, simple. How do you translate “open the door?”
 
 <hr />
 
-Y: Ùapé, a-nōu tshuksǐ tsiûói liǎo ma… “Open the door.”
+Y: u⁵² pe²⁵ / a³³ nou⁵⁵ tsʰuk⁵ si²¹³ tsiu¹¹ oi²⁵ liau²¹³ ma³³ / *Open the door*
 
 Y: Ua2 bê6, a1nou5 cuk4(8)si3 ziu6(7) oi6 liao3 ma1… “Open the door.”
 
@@ -212,7 +212,7 @@ Man, even a baby could do that. “Open the door.”
 
 <hr />
 
-W: Kuer mēung?
+W: kũẽ³³ mɯŋ⁵⁵
 
 W: Guên1 meng5?
 
@@ -226,7 +226,7 @@ Y: Shut the door.
 
 <hr />
 
-W: Pūar-khui pūar-kuer?
+W: pũã⁵⁵ kʰui³³ pũã⁵⁵ kũẽ³³
 
 W: Buan3(5)-kui1 buan3(5)-guen1?
 
@@ -236,7 +236,7 @@ W: Buan3(5)-kui1 buan3(5)-guen1?
 
 <hr />
 
-Y: Ùapé! ài-khui tsiû-khui ài-kuer tsiû-kuer, mue’kà tsikpǔar tsikpǔar ge!
+Y: ua⁵² pe²⁵ / ãĩ⁵² kʰui³³ tsiu¹¹ kʰui³³ ãĩ⁵² kũẽ³³ tsiu¹¹ kũẽ³³ / mueʔ² ka⁵² tsik² pũã²¹³ tsik² pũã²¹³ ge³³
 
 Y: Ua2-bê6! Ain3(2)-kui1 ziu6(7)-kui1 ain3(2)-guên1 ziu6(7)-guên1, muêh8(4)ga3(2) zig8(4)buan3 zig8(4)buan3 ghê1!
 
@@ -246,7 +246,7 @@ Man! If you want to open it, open it. If you want to close it, close it. What is
 
 <hr />
 
-W: Khuimēung ùa mâ ói, kuemēng ùa mâ ói, pūarkhui pūarkuer lèu tsiû bói.
+W: kʰui³³ mɯŋ⁵⁵ ua⁵² ma¹¹ oi²⁵ / kũẽ³³ mɯŋ⁵⁵ ua⁵² ma¹¹ oi²⁵ / pũã⁵⁵ kʰui³³ pũã⁵⁵ kũẽ³³ lɯ⁵² tsiu¹¹ boi²⁵
 
 W: Kui1meng5 ua2 ma7 oi6, guên1meng5 ua2 ma7 oi6, buan3(5)-kui1 buan3(5)-guên1 le2 ziu6(7) bhoi6.
 
@@ -256,7 +256,7 @@ I also know how to say “open the door” and “shut the door”, but it is yo
 
 <hr />
 
-Y: Tsìkâi mósî têungnang tǎrkāi, ângmô-nāng bô tàr tsièser, ângmô-nāng ǎi-tsiû-ǎi mǎi-tsiû-mǎi. Mana û tsikpǔar tsikpǔar?
+Y: tsi⁵² kai¹¹ mo²⁵ si¹¹ tɯŋ¹¹ naŋ⁵⁵ tã²¹³ kai⁵⁵ / aŋ¹¹ mo¹¹ naŋ⁵⁵ bo¹¹ tã⁵² tsi⁵² sẽ³³ / aŋ¹¹ mo¹¹ naŋ⁵⁵ ãĩ²¹³ tsiu¹¹ ãĩ²¹³ / mai²¹³ tsiu¹¹ mai²¹³ / *Mana* u¹¹ tsik² pũã²¹³ tsik² pũã²¹³
 
 Y: Zi2gai5(7) mo2(6)si6(7) Deng5(7)nang5 dan3-gai5, ang5(7)mo5(7)-nang5 bho5(7) dan3(2) zi2sên1, ang5(7)mo5(7)-nang5 ain3-ziu6(7)-ain3, mai3-ziu6(7)-mai3. *Mana* u7 zig8(4)buan3 zig8(4)buan3?
 
@@ -268,9 +268,9 @@ This is something that only a Chinese would say. English people would never say 
 
 <hr />
 
-W: Sî lèu bôihiáu ēk nôh.
+W: si¹¹ lɯ⁵² boi¹¹ hiau²⁵ ek⁵ no¹¹
 
-W: Si6(7) le2 bhoi6(7)hiau2(6) êg8 no7.
+W: Si6(7) le2 bhoi6(7)hiao2(6) êg8 no7.
 
 王：是 汝 𠁞曉 譯 𰇇。
 
@@ -278,7 +278,7 @@ You just don’t know how to translate it.
 
 <hr />
 
-Y: Ngêr ǎi ēk
+Y: ŋẽ¹¹ ãĩ⁵² ek⁵
 
 Y: Ngê6(7) ain3(2) êg8.
 
@@ -288,7 +288,7 @@ I insist.
 
 <hr />
 
-W: Ói bói?
+W: oi²⁵ boi²⁵ 
 
 W: Oi6 bhoi6?
 
@@ -298,7 +298,7 @@ Can you?
 
 <hr />
 
-Y: Ói! Mana bói? “Half open the door, half shut the door.”
+Y: oi²⁵ / *Mana* boi²⁵ / “Half open the door, half shut the door.”
 
 Y: Oi6! *Mana* bhoi6? “Half open the door, half shut the door.”
 
@@ -310,7 +310,7 @@ Of course, why not? “Half open the door, half shut the door.”
 
 <hr />
 
-W: Tiē’-m-tiē’?
+W: tieʔ⁵ m¹¹ tieʔ⁵
 
 W: Diêh8-m6(7)-diêh8?
 
@@ -320,7 +320,7 @@ Are you sure?
 
 <hr />
 
-Y: Tiē’ la. M-tiē’ inâng ôi tshiě?
+Y: tieʔ⁵ la³³ / m¹¹ tieʔ⁵ i³³ naŋ¹¹ oi¹¹ tsʰie²¹³
 
 Y: Diêh8 la1. M6(7)-diêh8 i1-nang5(7) oi6(7) ciê3?
 
@@ -330,7 +330,7 @@ Yes it’s correct. If it’s wrong, why would they \[the audience\] laugh?
 
 <hr />
 
-A sî m tiē’ inâng tsiû “woo!” Ôi tshiě tsiûsî “good!” Okay.
+a³³ si¹¹ m¹¹ tieʔ⁵ i³³ naŋ¹¹ tsiu¹¹ “woo!” / oi¹¹ tsʰie²¹³ tsiu¹¹ si¹¹ “good!” / *Okay.*
 
 A-si6(7) m6(7)-diêh8 i1-nang5(7) ziu6(7) “woo!” Oi6(7) ciê3 ziu6(7)si6(7) “good!” *Okay*.
 
@@ -340,7 +340,7 @@ If it was wrong they would boo. Since they laugh it must be good. Okay.
 
 <hr />
 
-W: Tsiòhser tǎr, lèu sî niâm géu-ngâng kâi thiang-tshāi a?
+W: tsio⁵² sẽ³³ tã²¹³ / lɯ⁵² si¹¹ niam¹¹ gɯ²⁵ ŋaŋ¹¹ kai¹¹ tiaŋ³³ tsʰai⁵⁵ a
 
 W: Zio3(2)sên1 dan3, le2 si6(7) niam7 ghe2(6)ngang5(7) gai5(7) tiang1cai5 a?
 
@@ -352,7 +352,7 @@ If you say so, does this mean that you are a genius with languages?
 
 <hr />
 
-Y: Ùa sî huangnāng tsuangke.
+Y: ua⁵² si¹¹ huaŋ³³ naŋ⁵⁵ tsuaŋ³³ ke³³
 
 Y: Ua2 si6(7) huang1nang5 zuang1gê1.
 
@@ -362,9 +362,13 @@ I’m just a normal person who pretends to be.
 
 <hr />
 
+W: ai⁵² ia²⁵
+
 W: Ai2-ia6?
 
-Y: Nàng Sengkiapo nē, sî tonāng tsóngtsōk kâi siâhúe.
+<hr/> 
+
+Y: naŋ⁵² seŋ³³ kia³³ po³³ ne⁵⁵ / si¹¹ do³³ ŋuaŋ⁵⁵ tsong²⁵ tsok⁵ kai¹¹ sia¹¹ hue²⁵
 
 Y: Nang2 Sêng1gia1bo1 nê5, si6(7) do1nguang5 zong2(6)zog8 gai5(7) sia6(7)huê6.
 
@@ -374,9 +378,9 @@ Our Singapore is a multi-ethnic society.
 
 <hr />
 
-Tsikkâi nāng a-nāu tsikkâi tshūksǐ kāo hāk-háu ne khíbè sì-khùang ûe tsiû ôihiáu tǎr liǎu.
+tsik² kai¹¹ naŋ⁵⁵ a³³ nou⁵⁵ tsik² kai¹¹ tsʰuk⁵ si²¹³ kau⁵⁵ hak² hau²⁵ ne³³ kʰi²⁵ be⁵² si⁵² kʰuaŋ⁵² ue¹¹ tsiu¹¹ oi¹¹ hiau²⁵ tã²¹³ liau²¹³
 
-Zig8(4)gai5(7) nang5 a1nou5 zig8(4)gai5(7) cug4(8)si3 gao3(5) hag8(4)hao6 nê1 ki2(6)bhê2 si3(2) kuang2 uê7 ziu6(7) oi6(7)hiau2(6) dan3 liao3.
+Zig8(4)gai5(7) nang5 a1nou5 zig8(4)gai5(7) cug4(8)si3 gao3(5) hag8(4)hao6 nê1 ki2(6)bhê2 si3(2) kuang2 uê7 ziu6(7) oi6(7)hiao2(6) dan3 liao3.
 
 一個 儂 阿奴 一個 出世 到 學校 ne 起碼 四款 話 就 會曉 呾 了。
 
@@ -384,7 +388,7 @@ A person, from the time he is a newborn baby to when he goes to school, would be
 
 <hr />
 
-Káu-iōk sî nô-khùang ma: Tiong-Eng tiârtiē’.
+kau²⁵ iok⁵ si¹¹ no¹¹ kʰuaŋ⁵² ma³³ / tioŋ³³ eŋ³³ tĩã¹¹ tieʔ⁵
 
 *kau-iok* si6(7) no6(7) kuang2 ma1: Diong1-Êng1 dian7diêh8.
 
@@ -396,7 +400,7 @@ Two are from his schooling: Mandarin and English for sure.
 
 <hr />
 
-Kōkgèu sî sa-khùang.
+kok⁵ gɯ⁵² si¹¹ sã³³ kuaŋ⁵²
 
 Gog4(8)ghe2 si6(7) san1 kuang2.
 
@@ -408,7 +412,7 @@ The national language makes it three.
 
 <hr />
 
-A-pé a-sî Kéungtáng-nāng tsiû sì-khùang.
+a³³ pe²⁵ a³³ si¹¹ kɯŋ²⁵ taŋ³³ naŋ⁵⁵ tsiu¹¹ si¹¹ si⁵² kʰuaŋ⁵²
 
 A1-bê6 a-si6(7) Geng2(6)dang1-nang5 ziu6(7) si3(2) kuang2.
 
@@ -418,7 +422,7 @@ If Father is a Cantonese, that makes it four.
 
 <hr />
 
-A-mā Tiêtsiu-nāng lí ngôu-khùang.
+a³³ ma⁵⁵ tie¹¹ tsiu³³ naŋ⁵⁵ li²⁵ ŋou¹¹ kʰuaŋ⁵²
 
 A1ma5 Diê5(7)ziu1-nang5 li6 ngou6(7) kuang2.
 
@@ -428,7 +432,7 @@ If Mother is a Teochew then five.
 
 <hr />
 
-Tie’-m-tiē’? Sî tshuksî tsiû ói liǎu, lèu méng kiar gāi.
+tieʔ2 m¹¹ tieʔ⁵ / si¹¹ tsʰuk⁵ si²¹³ tsiu¹¹ oi²⁵ liau²¹³ / lɯ⁵² meŋ²⁵ gĩã³³ kai⁵⁵
 
 Diêh8(4)-m6(7)-diêh8? Si6(7) cuk4(8)si3 ziu6(7) oi6 liau3, le2 mêng2(6) gian1 gai5.
 
@@ -438,7 +442,7 @@ Isn’t this right? All this from the moment he’s born, don’t worry.
 
 <hr />
 
-Pukkǔe ne, nàng têungnāng kâi ûe na,
+puk⁵ kue²¹³ ne³³ / naŋ⁵² dɯŋ¹¹ naŋ⁵⁵ kai¹¹ ue¹¹ na
 
 Bug4(8)guê3 nê1, nang2 Deng5(7)nang5 gai5(7) uê7 na,
 
@@ -448,7 +452,7 @@ However, the languages of us Chinese people,
 
 <hr />
 
-û-kāi hó-thiar, û-kāi ne ióu m-hó-thiar.
+u¹¹ kai⁵⁵ ho²⁵ tĩã³³ / u¹¹ kai⁵⁵ ne³³ iou³³ m¹¹ ho²⁵ tĩã³³
 
 u6(7)-gai5 ho2(6)-tian1, u6(7)-gai5 nê1 iou1 m6(7)-ho2(6)-tian1.
 
@@ -458,7 +462,7 @@ some are pleasant sounding, while some are not.
 
 <hr />
 
-Û-kāi lo-so, û-kāi ióu bôi lo-so.
+u¹¹ kai⁵⁵ lo³³ so³³ / u¹¹ kai⁵⁵ iou³³ boi¹¹ lo³³ so¹¹
 
 U6(7)-gai5 lo1so1, u6(7)-gai5 iou1 bhoi6(7) lo1so1.
 
@@ -468,7 +472,7 @@ Some are long-winded, while some are not.
 
 <hr />
 
-W: Lèu kāktek sîmi’ ûe hóthiar, sîmi’ ûe m-hóthiar, nē?
+W: lɯ⁵² kak⁵ tek² si¹¹ miʔ² ue¹¹ ho²⁵ tĩã³³ / si¹¹ miʔ² ue¹¹ m¹¹ ho²⁵ tĩã³³ ne⁵⁵
 
 W: Le2 gag4(8)dêg4 si6(7)mih4 uê7 ho2(6)tian1, si6(7)mih4 ue7 m6(7)-ho2(6)tian1, nê5?
 
@@ -478,7 +482,7 @@ Which languages do you find pleasant to hear, and which unpleasant?
 
 <hr />
 
-Y: Ùa pih léu tsikkâi kòusî lèu thiar.
+Y: ua⁵² bĩ³³ lɯ²⁵ tsik² kai¹¹ kou⁵² sɯ¹¹ lɯ⁵² tĩã³³
 
 Y: Ua2 bin1 le2(6) zig8(4)gai5(7) gou3(2)se6(7) le2 tian1.
 
@@ -490,7 +494,7 @@ Let me tell you a story.
 
 <hr />
 
-Ùa tsìtsung khiá tô tháitèng.
+ua⁵² tsi⁵² tsuŋ³³ kʰia²⁵ to¹¹ tʰai¹¹ teŋ⁵²
 
 Ua2 zi2zung1 kia6 do6(7) tai5(7)dêng2.
 
@@ -500,9 +504,9 @@ I’m standing up on the stage right now.
 
 <hr />
 
-Ùa â-sî mûng lâukha tsikkâi phêng-iù, i ló tsiaktsiù la.
+ua⁵² a³³ si¹¹ muŋ¹¹ lau¹¹ kʰa³³ tsik² kai¹¹ pʰeŋ¹¹ iu⁵² / i³³ lo⁵⁵ tsiaʔ² tsiu⁵² la³³ 
 
-Ua2 a1-si6(7) mung7 lau5(7)ka1 zig8(4)gai5(7) peng5(7)iu2, i1 lo5 ziah8(4)ziu2 la1.
+Ua2 a1-si6(7) mung7 lao5(7)ka1 zig8(4)gai5(7) peng5(7)iu2, i1 lo5 ziah8(4)ziu2 la1.
 
 我 a是 問 樓跤 一個 朋友，伊 囉 食酒 la。
 
@@ -510,7 +514,7 @@ Let’s say I have a friend down below – he’s drinking wine.
 
 <hr />
 
-Ùa mûng i, lèu sîmi’ nāng a, lèu ló tsōnī a?
+ua⁵² muŋ¹¹ i³³ / lɯ⁵² si¹¹ miʔ² naŋ⁵⁵ a³³ / lɯ⁵² lo²⁵ tso⁵⁵ ni⁵⁵ a³³ 
 
 Ua2 mung7 i1, le2 si6(7)mih8(4) nang5 a1, le2 lo6 zo3(5)ni5 a1?
 
@@ -520,7 +524,7 @@ I ask him: Where are you from? What are you doing?
 
 <hr />
 
-i tǎr: bō, ùa ló tsiaktsiù a. An-ne tsik-mûng tsik-tap e.
+i³³ tã²¹³ / bo⁵⁵ / ua⁵² lo²⁵ tsiaʔ2 tsiu⁵² a³³ / ã³³ ne³³ tsik2 muŋ¹¹ tsik2 tap2 e
 
 i1 dan3: bho5, ua2 lo6 ziah8(4)ziu2 a1. An1nê1 zig8(4)-mung7 zig8(4)-dab4 ê.
 
@@ -530,7 +534,7 @@ He’ll reply: No, I’m just having a drink. So, a question – an answer.
 
 <hr />
 
-Â-sî Kéungtáng-nāng nē, tie’ zî-tsap kâi zî, hì-pue tsiù tsiû ûesái lōk.
+a¹¹ si¹¹ kɯŋ²⁵ taŋ³³ naŋ⁵⁵ ne⁵⁵ / tieʔ² zi¹¹ tsap2 kai¹¹ zi¹¹ / hi⁵² pue³³ tsiu⁵² tsiu¹¹ oi¹¹ sai²⁵ loʔ⁵
 
 A7-si6(7) Geng2(6)dang1-nang5 nê5, diêh8(4) ri6(7)zab8(4) gai5(7) ri7, hi2-buê1 ziu2 ziu6(7) oi6(7)sai2(6) loh8.
 
@@ -540,7 +544,7 @@ If he’s Cantonese, then it’ll be twenty words before he can down that drink.
 
 <hr />
 
-W: Û iàr?
+W: u¹¹ ĩã⁵²
 
 W: U6(7) ian2?
 
@@ -550,7 +554,7 @@ Are you serious?
 
 <hr />
 
-Y: … ûe hó thiar, i ê siar nèung la. Kéungtáng-ûe kiè-tsò “tẽ” …
+Y: ... ue¹¹ ho²⁵ tĩã³³ / i³³ e¹¹ sĩã³³ nɯŋ⁵² la³³ / kɯŋ²⁵ taŋ³³ ue¹¹ kie⁵² tso⁵² tẽ²⁵
 
 Y: … uê7 ho2(6) tian1, i1 ê7 sian1 neng2 la1. Geng2(6)dang1-uê7 giê3(2)zo3(2) “té”
 
@@ -560,7 +564,7 @@ Y: … uê7 ho2(6) tian1, i1 ê7 sian1 neng2 la1. Geng2(6)dang1-uê7 giê3(2)zo3
 
 <hr />
 
-W: Lèu tàr lâi thiar.
+W: lɯ⁵² tã⁵² lai¹¹ tʰĩã³³
 
 W: Le2 dan3(2) lai5(7) tian1.
 
@@ -570,7 +574,7 @@ Why don’t you say it for us to hear.
 
 <hr />
 
-Y: Na, lèu thia. Kéungtáng-nāng, tsik-mûng tsik-tāp le.
+Y: na / lɯ⁵² tʰĩã³³ / kɯŋ²⁵ taŋ³³ naŋ⁵⁵ / tsik² mɯŋ¹¹ tsik² tap² le
 
 Y: Na, le2 tian1. Geng2(6)dang1-nang5, zig8(4)-meng7 zig8(4)-dab4 lê.
 
@@ -580,7 +584,7 @@ Well, listen. Cantonese, question and answer.
 
 <hr />
 
-W: Zî-tsap kâi zî.
+W: zi¹¹ tsap² kai¹¹ zi¹¹
 
 W: Ri6(7)zab8(4) gai5(7) ri7.
 
@@ -590,7 +594,7 @@ Twenty words.
 
 <hr />
 
-Y: Zî-tsap kâi zî, tsiàr hó tsiaktsiù.
+Y: zi¹¹ tsap² kai¹¹ zi¹¹ / tsĩã⁵² ho²⁵ tsiaʔ² tsiu⁵²
 
 Y: Ri6(7)zab8(4) gai5(7) ri7, zian2 ho2(6) ziah8(4)ziu2.
 
@@ -608,7 +612,7 @@ Where are you from?
 
 <hr />
 
-W: Ngôu-kâi zî
+W: ŋou¹¹ kai¹¹ zi¹¹
 
 W: Ngou6(7) gai5(7) ri7
 
@@ -626,7 +630,7 @@ I’m a Cantonese person.
 
 <hr />
 
-W: Tsap-kâi zî.
+W: tsap² kai¹¹ zi¹¹
 
 W: Zab8(4) gai5(7) ri7.
 
@@ -644,7 +648,7 @@ What are you doing?
 
 <hr />
 
-W: Tsap-ngóu
+W: tsap² ŋou²⁵
 
 W: Zab8(4)ngou6
 
@@ -662,7 +666,7 @@ I’m having a cup of wine!
 
 <hr />
 
-Hó thiar. Pukkǔe zî-tsap kâi zî, ùapé tsiaktsiù.
+ho²⁵ tʰĩã³³ / puk⁵ kue²¹³ zi¹¹ tsap² kai¹¹ zi¹¹ / ua⁵² pe²⁵ tsiaʔ² tsiu⁵²
 
 Ho2(6) tian1. Bug4(8)guê3 ri6(7)zab8(4) gai5(7) ri7, ua2bê6 ziah8(4)ziu2.
 
@@ -672,7 +676,7 @@ How mellifluous! After twenty words, Daddy can drink.
 
 <hr />
 
-W: Sí. Tàr-ûe ne, kà eng-tsi pêr-iêr, tie’ ài ser, ài tak-î.
+W: si²⁵ / tã⁵² ue¹¹ ne³³ / kaʔ⁵ eŋ¹¹ tsĩ³³ pẽ¹¹ iẽ¹¹ / tieʔ² ãĩ⁵² sẽ³³ / ãĩ⁵² tak² i²¹³
 
 W: Si6. Dan3(2)-uê7 nê1, gah4(8) êng7zin1 bên7iên7, diêh8(4) ain3(2) sên1, ain3(2) dag8(4)i3.
 
@@ -680,7 +684,7 @@ W: Si6. Dan3(2)-uê7 nê1, gah4(8) êng7zin1 bên7iên7, diêh8(4) ain3(2) sên1
 
 <hr />
 
-Kiē lèu-kâi ì-sî ne, â-sî Khengtsiù nāng tsiû kángtuar.
+kĩẽ²¹³ lɯ⁵² kai¹¹ i⁵² sɯ³³ ne / a¹¹ si¹¹ kʰeŋ³³ tsiu³³ naŋ⁵⁵ tsiu¹¹ kaŋ²⁵ tũã³³ 
 
 Giê3 le2-gai5(7) i3(2)se1 nê1, a7-si6(7) Kêng1ziu1-nang5 ziu6(7) gang2(6)duan1.
 
@@ -692,7 +696,7 @@ According to your reasoning, it’s Hainanese people who are the simplest.
 
 <hr />
 
-Y: Kui-kâi zî?
+Y: kui²⁵ kai¹¹ zi¹¹
 
 Y: Gui2(6)-gai5(7) ri7?
 
@@ -702,7 +706,7 @@ How many words?
 
 <hr />
 
-W: Tsap-lak kâi-zî.
+W: tsap² lak² kai¹¹ zi¹¹
 
 W: Zab8(4)lag8(4) gai5(7) ri7.
 
@@ -712,7 +716,7 @@ Sixteen words.
 
 <hr />
 
-Y: Ói â-bói?
+Y: oi²⁵ a¹¹ boi²⁵
 
 Y: Oi6 a7-bhoi6?
 
@@ -722,7 +726,7 @@ Are you sure?
 
 <hr />
 
-W: Ói. Tsik-mûng tsik-tap.
+W: oi²⁵ / tsik² muŋ¹¹ tsik² tap²
 
 W: Oi6. Zig8(4)-mung7 zig8(4)-dab4.
 
@@ -732,7 +736,7 @@ Sure; one question, one answer.
 
 <hr />
 
-Y: Lai, tàr lâi thiar.
+Y: lai⁵⁵ / tã⁵² lai¹¹ tĩã³³
 
 Y: Lai5, dan3(2) lai5(7) tian1
 
@@ -750,7 +754,7 @@ Where are you from?
 
 <hr />
 
-Y: Sǐ
+Y: si²¹³
 
 Y: Si3
 
@@ -768,7 +772,7 @@ I am from Hainan.
 
 <hr />
 
-Y: Poi’
+Y: poiʔ²
 
 Y: Boih4
 
@@ -794,7 +798,7 @@ I am drinking wine!
 
 <hr />
 
-Y: Puk-kǔe ne, hâu m-kǎu kángtuar.
+Y: puk⁵ kue²¹³ ne³³ / hau¹¹ m¹¹ kau²¹³ kaŋ²⁵ tũã³³
 
 Y: Bug4(8)guê3 nê1, hao5(7) m6(7)-gao3 gang2(6)duan1.
 
@@ -804,7 +808,7 @@ However, that’s not as simple as it gets.
 
 <hr />
 
-W: Û tsài kángtuar kāi?
+W: u¹¹ tsai⁵² kaŋ²⁵ tũã³³ kai⁵⁵
 
 W: U6(7) zai3(2) gang2(6)duan1 gai5?
 
@@ -814,7 +818,7 @@ You mean there’s something even more concise?
 
 <hr />
 
-Y: Ú… Láu-sīk tǎr, Hōkkiěng-nāng le, zúkèng kángtuar.
+Y: u²⁵ / lau²⁵ sik⁵ tã²¹³ / hok⁵ kieŋ²¹³ naŋ⁵⁵ le³³ / zu²⁵ keŋ³³ kaŋ²⁵ tũã³³
 
 Y: U6… Lao2(6)sig8 dan3, Hog4(8)giêng3-nang5 lê1, ru2(6)gêng1 gang2(6)duan1.
 
@@ -824,7 +828,7 @@ Sure… to be honest, Hokkien people are even more to the point.
 
 <hr />
 
-W: Kúi-kâi zî?
+W: kui²⁵ kai¹¹ zi¹¹
 
 W: Gui2(6)-gai5(7) ri7?
 
@@ -834,7 +838,7 @@ How many words?
 
 <hr />
 
-Y: Tsapzî-kâi zî.
+Y: tsap² zi¹¹ kai¹¹ zi¹¹
 
 Y: Zab8(4)ri7-gai5(7) ri7.
 
@@ -844,7 +848,7 @@ Twelve words.
 
 <hr />
 
-W: Hōkkiěng-nāng ne, i khiáng tsò sêu ne, i tsiû-sî ǎi-tsiû-ǎi, mǎi-tsiû-mǎi, suak-tsiû-suak kāi. Tsapzî-kâi zî.
+W: hok⁵ kieŋ²¹³ naŋ⁵⁵ ne³³ / i kʰiaŋ¹¹ zo⁵² sɯ¹¹ ne³³ / i³³ tsiu¹¹ si¹¹ ãĩ²¹³ ziu¹¹ ãĩ²¹³ / mai²¹³ tsiu¹¹ mai²¹³ / suak² tsiu¹¹ suak² kai⁵⁵ / tsap² zi¹¹ kai¹¹ zi¹¹
 
 W: Hog4(8)giêng3-nang5 nê1, i1 kiang5(7) zo3(2) se6(7) nê1, i1 ziu6(7)si6(7) ain3-ziu6(7)-ain3, mai3-ziu6(7)-mai3, suag4-ziu6(7)-suag4 gai5. Zab8(4)ri6(7)-gai5(7) ri7.
 
@@ -886,7 +890,7 @@ I drink wine.
 
 <hr />
 
-Y: Ko’ m-kàu kángtuar. Tiêtsiu-nāng siâng kángtuar.
+Y: koʔ⁵ m¹¹ kau⁵² kaŋ²⁵ tũã³³ / tie¹¹ tsiu³³ naŋ⁵⁵ siaŋ¹¹ kaŋ²⁵ tũã³³
 
 Y: Goh4(8) m6(7)-gao3(2) gang2(6)duan1. Diê5(7)ziu1-nang5 siang6(7) gang2(6)duan1.
 
@@ -896,7 +900,7 @@ That’s not the least of it. Teochew people are even more concise.
 
 <hr />
 
-W: Kúi-kāi?
+W: kui²⁵ kai⁵⁵
 
 W: Gui2(6)-gai5?
 
@@ -906,7 +910,7 @@ How many?
 
 <hr />
 
-Y: Tsò khang-khûe tshengtsheng-khìkhǐ, puek-kâi zî, â mài tǎr tsiù a, liám tsiúpue tsò tsikpài thung lokkhêu.
+Y: tso⁵² kʰaŋ³³ kʰue¹¹ tsʰeŋ³³ tsʰeŋ³³ kʰi⁵² kʰi²¹³ / poiʔ⁵ kai¹¹ zi¹¹ / a¹¹ mai⁵² tã²¹³ tsiu⁵² a³³ / liam⁵⁵ tsiu²⁵ pue³³ tso⁵² tsik² pai⁵² tʰuŋ³³ loʔ² kʰɯ²¹³
 
 Y: Zo3(2) kang1kuê7 cêng1cêng1-ki3(2)ki3, boih4(8)-gai5(7) ri7, a7 mai3(2) dan3 ziu2 a1, liam5 ziu2(6)buê1 zo3(2) zig8(4)bai2 tung1 loh8(4)ke3.
 
@@ -916,7 +920,7 @@ They do things clean and simple. Eight words. Not just drinking wine, they’ll 
 
 <hr />
 
-W: Pūek-kâi zî tsònî ói?
+W: poiʔ⁵ kai¹¹ zi¹¹ tso⁵² ni¹¹ oi²⁵
 
 W: Boih4(8)-gai5(7) ri7 zo3(2)ni5(7) oi6?
 
@@ -926,7 +930,7 @@ How can you do it in eight words?
 
 <hr />
 
-Y: Lèu thiar:
+Y: lɯ⁵² tʰĩã³³ 
 
 Y: Le2 tian1:
 
@@ -936,7 +940,7 @@ Just listen:
 
 <hr />
 
-Tî-tiang? – Sî ùa. – Tsònī? – Tsiaktsiù.
+ti¹¹ tiaŋ³³ / si¹¹ ua⁵² / tso⁵² ni⁵⁵ / tsiaʔ² tsiu⁵²
 
 Di7diang1? – Si6(7) ua2. – Zo3(2)ni5? – Ziah8(4)ziu2.
 
@@ -946,7 +950,7 @@ Who’s that? – It’s me – What’s up? – Drinking wine.
 
 <hr />
 
-Tiē’-m-tie’?
+tieʔ⁵ m¹¹ tieʔ⁵
 
 Diêh8-m6(7)-diêh8?
 
@@ -956,7 +960,7 @@ Am I right?
 
 <hr />
 
-W: Puk-kǔe m-kàu kángtuar. Ângmô-nāng zúkèng kángtuar.
+W: puk⁵ kue²¹³ m¹¹ kau⁵² kaŋ²⁵ tũã³³ / aŋ¹¹ mo¹¹ naŋ⁵⁵ zu²⁵ keŋ³³ kaŋ²⁵ tũã³³
 
 W: Bug4(8)guê3 m6(7)-gao3(2) gang2(6)duan1. Ang5(7)mo5(7)-nang5 ru2(6)gêng1 gang2(6)duan1.
 
@@ -966,7 +970,7 @@ That’s not the most concise. Westerners are the most to the point.
 
 <hr />
 
-Y: Kui-kâi zî?
+Y: kui²⁵ kai¹¹ zi¹¹
 
 Y: Gui2(6)-gai5(7) ri7?
 
@@ -976,7 +980,7 @@ How many words?
 
 <hr />
 
-W: Ângmô-nāng lóngtsòng sîmi’kai lósî “law-by-law”, a-ne tsiû-sî a-ne, bôi uak kâi la. Só-í i tsiaktsiù pî nāng mèr. Sì-kâi zî tsiû ôi-sài.
+W: aŋ¹¹ mo¹¹ naŋ⁵⁵ loŋ²⁵ tsoŋ⁵² si¹¹ miʔ5 kai¹¹ lo²⁵ si¹¹ “law-by-law” / a³³ ne³³ tsiu¹¹ si¹¹ a³³ ne³³ / boi¹¹ uak⁵ kai¹¹ la³³ / so²⁵ ĩ⁵² i³³ tsiaʔ² tsiu⁵² pi²⁵ naŋ⁵² mẽ⁵² / si⁵² kai¹¹ zi¹¹ tsiu¹¹ oi¹¹ sai⁵²
 
 W: Ang5(7)mo5(7)-nang5 long2(6)zong2 si6(7)mih4(8)gai5(7) lo6 si6(7) “law-by-law”, a1-nê1 ziu6(7)si6(7) a1-nê1, bhoi6(7) uag4(8) gai5(7) la1. So2(6)in2 i1 ziah8(4)ziu2 bi2(6) nang2 mên2. Si3(2)-gai5(7) ri7 ziu6(7) oi6(7)-sai2.
 
@@ -986,7 +990,7 @@ Westerners do everything “law-by-law”. It is what it is, no two ways about i
 
 <hr />
 
-Y: Ôisài a-bói?
+Y: oi¹¹ sai⁵² a³³ boi²⁵
 
 Y: Oi6(7)sai2 a1-bhoi6?
 
@@ -996,7 +1000,7 @@ Are you sure?
 
 <hr />
 
-W: Easy. Sì-kâi zî, lèu thiar, sì-kāi.
+W: *Easy*. si⁵² kai¹¹ zi¹¹ / lɯ⁵² tʰĩã³³ / si⁵² kai⁵⁵
 
 W: Easy. Si3(2)-gai5(7) ri7, le2 tian1, si3(2)-gai5.
 
