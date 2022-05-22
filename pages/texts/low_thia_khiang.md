@@ -26,7 +26,7 @@ I will first speak in Teochew, and later in Mandarin.
 
 <hr />
 
-Kak-ǔi Ǎukàng, Auziunī, Pongkǒu-Tàng kǎi suangmēng ka’ tǎike Kangnǎngtàng kǎi tsitshǐ-tsìa, múngtsǐor hò!
+kak⁵ ui¹¹ au¹¹ kaŋ⁵² / au³³ dziu³³ ni⁵⁵ / poŋ³³ kou¹¹ taŋ³³ kai¹¹ suaŋ³³ meŋ⁵⁵ kah5 tai¹¹ ke³³ kaŋ³³ naŋ¹¹ taŋ⁵² kai¹¹ tsi³³ tsʰi¹¹ tsia⁵² / muŋ²⁵ tsĩõ¹¹ ho⁵²
 
 Gag4(8)-ui7 Ao6(7)gang2, Ao1riu1ni5, Bong1gou7-Dang1 gai5(7) suang1mêng5 gah4(8) dai6(7)gê1 Gang1nang5(7)dang2 gai5(7) *zi1ci3* zia2, mung2(6)zion7 ho2!
 
@@ -42,7 +42,7 @@ Voters of Hougang, Aljunied, Punggol East and supporters of the Worker’s Party
 
 \[0:30\]
 
-Sìasìa tǎike tsìotsói nī lai kǎi tsitshǐ, Kangnǎngtàng tsìar ǔ kíar-zīk kǎi tsìngpǒu.
+sia⁵² sia⁵² tai¹¹ ke³³ tsio⁵² tsoi¹¹ ni¹¹ lai⁵⁵ kai¹¹ tsi³³ tsʰi²¹³ / kaŋ³³ naŋ¹¹ taŋ⁵² tsĩã⁵² u¹¹ kĩã²⁵ dzik⁵ kai¹¹ tsiŋ⁵² pou¹¹
 
 Sia2sia2 dai6(7)gê1 zio3(2)zoi7 ni5(7) lai5 gai5(7) zi1ci3, Gang1nang5(7)dang2 zian2 u6(7) gian2(6)rig8 gai5(7) zing3(2)bou7.
 
@@ -52,7 +52,7 @@ Thanks to your support these past years, the Worker’s Party has been able to a
 
 <hr />
 
-Zǐ-khàng-iau-iau nī kǎi suang tseu-áu, Ǎukàng, Auziunī, Pongkǒu-Tàng kǎi suangmēng túi Kangnǎngtàng kǎi tsitshì pek Kǐatǒngtàng káipǐang tsèngtshek.
+dzi¹¹ kʰaŋ⁵² iau³³ iau³³ ni⁵⁵ kai¹¹ suaŋ³³ tsɯ³³ au²⁵ / au¹¹ kaŋ⁵² / au³³ dziu³³ ni⁵⁵ / poŋ³³ kou¹¹ taŋ³³ kai¹¹ suaŋ³³ meŋ⁵⁵ tui⁵⁵ kaŋ³³ naŋ¹¹ taŋ⁵² kai¹¹ tsi³³ tsʰi⁵² pek⁵ kĩã¹¹ toŋ¹¹ taŋ⁵² kai²⁵ piaŋ²¹³ tseŋ⁵² tsʰek¹
 
 Ri6(7)kang3(2)iao1iao1 ni5 gai5(7) suang1 ze1ao6, Ao6(7)gang2, Ao1riu1ni5, Bong1gou7-Dang1 gai5(7) suang1mêng5 dui3(5) Gang1nang5(7)dang2 gai5(7) zi1ci3(2) bêg4(8) Gian5(7)dong6(7)dang2 gai2(6)biang3 zêng3(2)cêg4.
 
@@ -68,7 +68,7 @@ After the election in 2011, the support given by the voters of Hougang, Aljunied
 
 \[1:00\]
 
-Tsìar i-kǎi káipǐang tūi Sengkiapo tshǔangkōg kǎi nangmēng lóngtsòng ǔ ǐar-tshù.
+tsĩã⁵² i³³ kai¹¹ kai²⁵ piaŋ²¹³ tui⁵⁵ seŋ³³ kia³³ po³³ tsʰuaŋ¹¹ kok⁵ kai¹¹ naŋ³³ meŋ⁵⁵ loŋ²⁵ tsoŋ⁵² u¹¹ ĩã¹¹ tsʰu⁵²
 
 Zian2 i1-gai5(7) gai2(6)biang3 dui3(5) Sêng1gia1bo1 cuang5(7)gog4(8) gai5(7) nang1mêng5 long2(6)zong2 u6(7) ian5(7)cu2.
 
@@ -78,7 +78,7 @@ These changes have benefitted all citizens throughout Singapore.
 
 <hr />
 
-Tsìa sǐ Sengkiapo nangmēng kǎi senglí.
+tsia⁵² si¹¹ seŋ³³ kia³³ po³³ naŋ³³ meŋ⁵⁵ kai¹¹ seŋ³³ li²⁵
 
 Zia2 si6(7) Sêng1gia1bo1 nang1mêng5 gai5(7) sêng1li6.
 
@@ -88,7 +88,7 @@ This is a victory for the citizens of Singapore.
 
 <hr />
 
-Tshìar tǎike khoi’ Ǎukàng, Auziunī, Pongkǒu-Tàng kǎi suangmēng lǎi-kǎi tsǐangsiar!
+tsʰiaŋ⁵² tai¹¹ ke³³ kʰoih2 au¹¹ kaŋ⁵² / au³³ dziu³³ ni⁵⁵ / poŋ³³ kou¹¹ taŋ³³ kai¹¹ suaŋ³³ meŋ⁵⁵ lai¹¹ kai¹¹ tsiaŋ¹¹ sĩã³³
 
 Cian2 dai6(7)gê1 koih8(4) Ao6(7)gang2, Ao1riu1ni5, Bong1gou7-Dang1 gai5(7) suang1mêng5 lai5(7)-gai5(7) ziang7sian1!
 
@@ -100,7 +100,7 @@ Will everybody please give the voters of Hougang, Aljunied, and Punggol East a r
 
 \[1:30\]
 
-Tsì sì-nǐ lāi, tsènghù tǒ tsèngtshek tsì-ǐor tsòlǐau hò-to kǎi koipǐang, ǐa kóisìang lǐau Sengkiapo-nāng kǎi ser-ūa’.
+tsi⁵² si⁵² ni¹¹ lai⁵⁵ / tseŋ⁵² hu⁵² to¹¹ tseŋ⁵² tsʰek¹ tsi⁵² ĩõ¹¹ tso⁵² liau²¹³ ho⁵² to³³ kai¹¹ koi²⁵ piaŋ¹¹ / ia¹¹ koi²⁵ siaŋ⁵² liau¹¹ seŋ³³ kia³³ po³³ naŋ⁵⁵ kai¹¹ sẽ³³ uaʔ⁵
 
 Zi2 si3(2)-ni5(7) lai5, zêng3(2)hu2 do6(7) zêng3(2)cêg4 zi2-ion7 zo3(2)liao3 ho2-do1 gai5(7) goi2(6)biang7, ia7 goi2(6)siang3(2) liao7 Sêng1gia1bo1-nang5 gai5(7) sên1uah8.
 
@@ -110,7 +110,7 @@ In these four years, the government has made many changes in its policies, and h
 
 <hr />
 
-Tsìa sǐ hó-sěu.
+tsia⁵² si¹¹ ho²⁵ sɯ¹¹
 
 Zia2 si6(7) ho2(6)se7.
 
@@ -120,7 +120,7 @@ This is a good thing.
 
 <hr />
 
-Pūkkǔe, tùi Kangnǎngtàng, *PAP* tsè sì-nǐ lāi tsó to ǔināng:
+puk⁵ kue²¹³ / tui⁵² kaŋ³³ naŋ¹¹ taŋ⁵² / *PAP* tse⁵² si⁵² ni¹¹ lai⁵⁵ tso²⁵ to³³ ui¹¹ naŋ⁵⁵
 
 Bug4(8)guê3, dui3(2) Gang1nang5(7)dang2, *PAP* zê2 si3(2)-ni5(7) lai5 zo2(6) do1 ui5(7)nang5:
 
@@ -132,7 +132,7 @@ However, in these four years, the PAP has been making life difficult for the WP:
 
 \[2:00\]
 
-nàng sói pasa’, keumēng bǒtsih khìam tsap-hǔi, tshǐtìnghúe kǎi sìaumāk kǎi mǔngtōih,
+naŋ⁵² soi²⁵ pa³³ saʔ¹ / ke³³ meŋ⁵⁵ bo¹¹ tsĩ³³ kʰiam⁵² tsap² hui²¹³ / tsʰi¹¹ tiŋ⁵² hue²⁵ kai¹¹ siau⁵² mak⁵ kai¹¹ muŋ¹¹ tõĩ⁵⁵
 
 nang2 soi2(6) ba1sah4, ge1mêng5 bho5(7)zin1 kiam3(2) zab8(4)hui3, ci6(7)ding3(2)huê6 gai5(7) siao3(2)mag8 gai5(7) mung7doin5,
 
@@ -144,7 +144,7 @@ when we clean the market, when residents have no money to pay service fees, when
 
 <hr />
 
-kàu tsìtsung a, paknāng kǎi kongsi thàngtsih, i ǐa ài ūang úanǎng.
+kau²⁵ tsi⁵² tsuŋ³³ a / pak² naŋ⁵⁵ kai¹¹ koŋ³³ si³³ tʰaŋ⁵² tsĩ³³ / i³³ ia¹¹ ãĩ⁵² uaŋ⁵⁵ ua²⁵ naŋ¹¹
 
 gao3(2) zi2zung1 a, bag8(4)nang5 gai5(7) gong1si1 tang3(2)zin1, i1 ia7 ain3(2) uang3(5) ua2(6)nang5(7).
 
@@ -154,7 +154,7 @@ even now, when someone else’s company is making a profit, they also want to bl
 
 <hr />
 
-Punglāi, nàng tǎisùang engkai, ài tàr-kǎi sǐ kok-ke kǎi tǔa-sěu:
+puŋ³³ lai⁵⁵ / naŋ⁵² tai¹¹ suaŋ⁵² eŋ³³ kai³³ / ãĩ⁵² tã⁵² kai¹¹ si¹¹ kok⁵ ke³³ kai¹¹ tua¹¹ sɯ¹¹
 
 Bung1lai5, nang2 dai6(7)suang2 êng1gai1, ain3(2) dan3(2)-gai5(7) si6(7) gog4(8)gê1 gai5(7) dua7se7:
 
@@ -168,7 +168,7 @@ Actually, what we should be discussing at an election are the big issues of the 
 
 \[2:31\]
 
-nǎngmēng kǎi tsǒihtōu, tǎike kǎi bǔelai.
+naŋ¹¹ meŋ⁵⁵ kai¹¹ tsõĩ¹¹ tou⁵⁵ / kai¹¹ ke³³ kai¹¹ bue¹¹ lai⁵⁵
 
 nang5(7)mêng5 gai5(7) zoin5(7)dou5, dai6(7)gê1 gai5(7) bhuê7lai5.
 
@@ -178,7 +178,7 @@ the people’s aspirations, everybody’s future.
 
 <hr />
 
-Pūkkǔe, *PAP* ài ěng tsìkò tshǐtīng-lísěuhúe kǎi sěu lai pua’-ou Kangnǎngtàng.
+puk⁵ kue²¹³ / *PAP* ãĩ⁵² eŋ¹¹ tsi⁵² ko⁵² tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ kai¹¹ sɯ¹¹ lai¹¹ puaʔ¹ ou³³ kaŋ³³ naŋ¹¹ taŋ⁵²
 
 Bug4(8)guê3, *PAP* ain3(2) êng7 zi2go3(2) ci6(7)ding3(5)-li2(6)se7huê6 gai5(7) se7 lai5(7) buah8(4)-ou1 Gang1nang5(7)dang2.
 
@@ -188,7 +188,7 @@ However, the PAP wants to use this issue of the town council to smear the WP.
 
 <hr />
 
-Só-ìh, ùa kiang kim-mē pūktēk pūk-kāisěk.
+so²⁵ ĩ⁵² / ua⁵² kiaŋ³³ kim³³ me⁵⁵ puk⁵ tek⁵ puk⁵ kai⁵⁵ sek²
 
 So2(6)in2, ua2 giang1 gim1mê5 bug4(8)dêg8 bug4(8)-gai3(5)sêg4.
 
@@ -200,7 +200,7 @@ Therefore, I can’t avoid giving an explanation tonight.
 
 <hr />
 
-*Okay*, nàng tshǐtìng-húe kǎi sìaumak sǐ ǔ sosek.
+*Okay* / naŋ⁵² tsʰi¹¹ tiŋ⁵² hue²⁵ kai¹¹ siau⁵² mak⁵ si¹¹ u¹¹ so³³ sek¹
 
 *Okay*, nang2 ci6(7)ding3(2)-huê6 gai5(7) siao3(2)mag8 si6(7) u6(7) so1sêg4.
 
@@ -212,7 +212,7 @@ Okay, our town council’s accounts do have discrepancies.
 
 \[3:00\]
 
-I tsènghù ne, phài nǎng lǎi tshěsǐau.
+i³³ tseŋ⁵² hu⁵² ne / pʰai⁵² naŋ¹¹ lai¹¹ tsʰe¹¹ siau²¹³
 
 I1 zêng3(2)hu2 nê, pai3(2) nang5(7) lai5(7) cê5(7)siao3.
 
@@ -222,7 +222,7 @@ The government has sent people to do an audit.
 
 <hr />
 
-Tshěsǐau, i tàr ǔ kǎi mue’kíar tio’ ài kói-tsǐar.
+tsʰe¹¹ siau²¹³ / i³³ tã⁵² u¹¹ kai¹¹ mueʔ² kĩã²⁵ tioʔ² ãĩ⁵² koi²⁵ tsĩã⁵²
 
 Cê5(7)siao3, i1 dan3(2) u6(7) gai5(7) muêh8(4)gian6 dioh8(4) ain3(2) goi2(6)zian2.
 
@@ -232,7 +232,7 @@ In this audit, they told us that there were things that had to be corrected.
 
 <hr />
 
-Lìau, i hūak-tshuk lǐau tsikkǎi pòr-kǎu,
+liau⁵² / i³³ huak⁵ tsʰuk⁵ liau¹¹ tsik¹ kai¹¹ po⁵² kau²¹³
 
 Liao2, i1 huag4(8)cug4(8) liao7 zig8(4)gai5(7) bo3(2)gao3,
 
@@ -242,7 +242,7 @@ Then, they put out a report,
 
 <hr />
 
-tsikgǎi pòrkǎu lǎipōih só kitshò-kǎi mǔngtōi, kàu maktsōih ǔi-tsì nàng tǎitosǐau íhkeng sǐ káikǔe lìau.
+tsik² kai¹¹ po⁵² kau²¹³ lai¹¹ põĩ⁵⁵ so²⁵ ki³³ tsʰo⁵² kai¹¹ muŋ¹¹ tõĩ⁵⁵ / kau⁵² mak²tsõĩ⁵⁵ ui¹¹ tsi⁵² naŋ⁵² tai¹¹ to³³ siau²¹³ ĩ²⁵ keŋ³³ si¹¹ kai²⁵ kue²¹³ liau⁵²
 
 zig8(4)gai5(7) bo3(2)gao3 lai6(7)boin5 so2(6) gi1co2-gai5(7) mung7doin5, gao3(2) mag8(4)zoin5 ui5(7)zi3(2) nang2 dai6(7)do1siao3 in2(6)gêng1 si6(7) gai2(6)guê3 liao2.
 
@@ -252,7 +252,7 @@ the most important issues in the report have largely been dealt with by now.
 
 <hr />
 
-Pūkkǔe, ǔ-kǎi mue’kíar su-ìau sǐkang.
+puk⁵ kue²¹³ / u¹¹ kai¹¹ mueʔ¹ kĩã²⁵ su³³ iau³³ si¹¹ kaŋ³³
 
 Bug4(8)guê3, u6(7)-gai5(7) muêh8(4)gian6 su1iao1 si5(7)gang1.
 
@@ -262,7 +262,7 @@ However, some things do need time.
 
 <hr />
 
-Tsòni-nē?
+tso⁵² ni¹¹ ne⁵⁵
 
 Zo3(2)ni5(7)-nê5?
 
@@ -274,7 +274,7 @@ Why is this so?
 
 \[3:30\]
 
-Ing-ǔi tsì-mì sìaumāk kǎi mue’kíar, sǐ ka’ soihtiangsī nàng tsīak-tshìu tseu-tsōih kǎi sìaumāk ǔ kuanglīang kǎi.
+iŋ³³ ui¹¹ tsi⁵² miʔ² siau⁵² mak⁵ kai¹¹ mueʔ² kĩã²⁵ / si¹¹ kaʔ⁵ sõĩ³³ tiaŋ³³ si⁵⁵ naŋ⁵² tsiak⁵ tsʰiu⁵² tsɯ¹¹ tsõĩ⁵⁵ kai¹¹ siau⁵² mak⁵ u¹¹ kuaŋ³³ liaŋ⁵⁵ kai¹¹
 
 Ing1ui5(7) zi2-mih4 siao4(2)mag8 gai5(7) muêh8(4)gian6, si6(7) gah4(8) soin1diang1si5 nang2 ziag4(8)ciu2 ze6(7)zoin5 gai5(7) siao3(2)mag8 u6(7) guang1liang5 gai5(7).
 
@@ -284,7 +284,7 @@ This is because in the matter of these accounts, they have to do with the accoun
 
 <hr />
 
-Tsìtsung, nàng tsīaktshìu-kǎi tsengtìam a, tǐangnàu, lóngtsòng khoi’-i puarpuar khěu a!
+tsi⁵² tsuŋ³³ / naŋ⁵² tsiak1 tsʰiu⁵² kai¹¹ tseŋ³³ tiam⁵² a / tiaŋ¹¹ nau⁵² / loŋ²⁵ tsoŋ⁵² kʰoiʔ¹ i³³ pũã³³ pũã³³ kʰɯ²¹³ a
 
 Zi2zung1, nang2 ziag4(8)ciu2-gai5(7) zêng1diam2 a, diang6(7)nao2, long2(6)zong2 koih8(4)-i1 buan1buan1 ke3 a!
 
@@ -296,7 +296,7 @@ Now, at the time that we took over, they shipped out all the computers and took 
 
 \[3:58\]
 
-Lìau tsìtsho’ sìaumāk, tǐangnàu khoi’ i puar-khěu, tseulǐau tǒ lǎipōih.
+liau⁵² tsi⁵² tsʰoʔ⁵ siau⁵² mak⁵ / tiaŋ¹¹ nau⁵² kʰoiʔ² i³³ pũã³³ kʰɯ²¹³ / tsɯ³³ liau¹¹ to¹¹ lai¹¹ põĩ⁵⁵
 
 Liao2 zi2coh4(8) siao3(2)mag8, diang6(7)nao2 koih8(4) i1 buan1-ke3, ze1liao7 do6(7) lai6(7)boin5.
 
@@ -306,7 +306,7 @@ How can we deal with the accounts, when the computers have been taken away, with
 
 <hr />
 
-Ǔ kǎi mue’kíar ùa thárpak lèu tǎr la, ùa ka’ tsènghù tǎr, bǒpǐang kàikua’, sǐ lèu-kǎi mǔng5tōih, m7-sǐ ùa-kǎi mǔngtōih!
+u¹¹ kai¹¹ mueʔ¹ kĩã²⁵ ua⁵² tʰaŋ²⁵ pak² lɯ⁵² tã²¹³ la³³ / ua⁵² kaʔ⁵ tseŋ⁵² hu⁵² tã²¹³ / bo¹¹ piaŋ²¹³ kai⁵² kuaʔ² / si¹¹ lɯ²⁵ kai¹¹ muŋ¹¹ tõĩ⁵⁵ / m¹¹ si¹¹ ua⁵² kai¹¹ muŋ¹¹ tõĩ⁵⁵
 
 U6(7) gai5(7) muêh8(4)gian6 ua2 tang2(6)bag8(4) le2 dan3 la1, ua2 gah4(8) zêng3(2)hu2 dan3, bho5(7)biang3 gai3(2)guah4, si6(7) le2-gai5(7) mung7doin5, m6(7)-si6(7) ua2-gai5(7) mung7doin5!
 
@@ -316,7 +316,7 @@ There are some things that I should tell you candidly. I told the government, I�
 
 <hr />
 
-Pūkkǔe, sǐang tǒng-ǐau-kǎi sǐ, i tǒ tsènghù tshě-sǐau kǎi kùethīar tseutang, bǒ tshětio’ ǔ sǐmì huihuak kǎi hù-khùang,
+puk⁵ kue²¹³ / siaŋ¹¹ toŋ¹¹ iau²¹³ kai¹¹ si¹¹ / i³³ to¹¹ tseŋ⁵² hu⁵² tsʰe¹¹ siau²¹³ kai¹¹ kue⁵² tʰĩã⁵⁵ tsɯ³³ taŋ³³ / bo¹¹ tsʰe¹¹ tioʔ² u¹¹ si¹¹ miʔ⁵ hui³³ huak² kai¹¹ hu⁵² kʰuaŋ⁵²
 
 Bug4(8)guê3, siang6(7) dong7iao3-gai5(7) si6(7), i1 do6(7) zêng3(2)hu2 cê5(7)siao3 gai5(7) guê3(2)tian5 ze1dang1, bho5(7) cê5(7)dioh8(4) u6(7) si6(7)mih4(8) hui1huag4 gai5(7) hu3(2)kuang2,
 
@@ -328,7 +328,7 @@ However, the most important thing is, in the course of the government’s invest
 
 \[4:29\]
 
-ǐa bǒ hūak-ǐang nàng lí-sěu-húe kǎi tsǐar-ūang ǔ tham-u.
+ia¹¹ bo¹¹ huak⁵ iaŋ²¹³ naŋ⁵² li²⁵ sɯ¹¹ hue²⁵ kai¹¹ tsĩã¹¹ uaŋ⁵⁵ u¹¹ tʰam³³ u³³
 
 ia7 bho5(7) huag4(8)iang3 nang2 li2(6)se7huê6 gai5(7) zian5(7)uang5 u6(7) tam1u1.
 
@@ -338,7 +338,7 @@ nor did they find that any of our councillors were corrupt.
 
 <hr />
 
-Só-ìh *PAP* tàr kàu nàng sǐ-m7-sǐ hǔang-sǐmǐ-huak, tǎitsí tǔatiou a! Dàr kàu khi-ki kǎi khípěr!
+so²⁵ ĩ⁵² *PAP* tã⁵² kau⁵² naŋ⁵² si¹¹ m¹¹ si¹¹ huaŋ¹¹ si¹¹ miʔ² huak² / tai¹¹ tsi²⁵ tua¹¹ tiou³³ a / tã⁵² kau⁵² kʰi³³ ki³³ kai¹¹ kʰi²⁵ pẽ¹¹
 
 So2(6)in2 *PAP* dan3(2) gao3(2) nang2 si6(7)-m6(7)-si6(7) huang6(7)-si6(7)mih4-huag4, *dai7zi6* dua7diou1 a! Dan3(2) gao3(2) ki1gi1 gai5(7) ki6bên7!
 
@@ -348,7 +348,7 @@ So2(6)in2 *PAP* dan3(2) gao3(2) nang2 si6(7)-m6(7)-si6(7) huang6(7)-si6(7)mih4-h
 
 <hr />
 
-Pūkkǔe, kíartsīk nàng húarsǐ tsǎitsái khía-tǒ tsìkǒ.
+puk⁵ kue²¹³ / kĩã²⁵ dzik⁵ naŋ⁵² hũã³³ si¹¹ tsai¹¹ tsai²⁵ kʰia²⁵ to¹¹ tsi⁵² ko²¹³
 
 Bug4(8)guê3, gian2(6)rig8 nang2 huan1si6(7) zai6(7)zai6 kia6-do7 zi2go3.
 
@@ -360,7 +360,7 @@ Nonetheless we are still standing here today.
 
 \[5:00\]
 
-Tǎike, lèu sǐor-thòih. Tǒ Sengkiapo-kǒ, ǎ-sǐ nàng tseng-kǎi ǔ sǐmi’ tsò sǐmi’ huihuak kǎi sěu a, tīo’-lǒu: tsà tsǔ khèu pēr lǒu!
+tai¹¹ ke³³ / lɯ⁵² sĩõ¹¹ tʰõĩ⁵² / do¹¹ seŋ³³ kia³³ po³³ ko²¹³ / a¹¹ si¹¹ naŋ⁵² tseŋ³³ kai¹¹ u¹¹ si¹¹ miʔ² tso⁵² si¹¹ miʔ² hui³³ huak² kai¹¹ sɯ¹¹ a / tioʔ⁵ lou¹¹ / tsa⁵² tsu¹¹ kʰɯ⁵² pẽ⁵⁵ lou¹¹
 
 Dai6(7)gê1, le2 sion6(7) toin2. Do6(7) Sêng1gia1bo1-go3, a7-si6(7) nang2 zêng1gai5(7) u6(7) si6(7)mih4 zo3(2) si6(7)mih4 hui1huag4 gai5(7) se7 a, dioh8-lou7: za2 zu6(7) ke3(2) bên5 lou7!
 
@@ -370,7 +370,7 @@ Why don’t all of you think about it: In Singapore, if there was really any hin
 
 <hr />
 
-Ǎ-sǐ ǔ tham-bu a, Tham-bu-tǐau-tshǎi-tse tsà tsǐu lǎi tshe-lǒu, húar lau lěu?
+a¹¹ si¹¹ u¹¹ tʰam³³ bu³³ a / tam³³ bu³³ tiau¹¹ tsʰai¹¹ tse³³ tsa⁵² tsiu¹¹ lai¹¹ tsʰe³³ lou¹¹ / hũã²⁵ lau⁵⁵ lɯ¹¹
 
 A7-si6(7) u6(7) tam1bhu1 a, Tam1bhu1-diao7cai7zê1 za2 ziu6(7) lai5(7) cê1-lou7, huan6 lao5 le3?
 
@@ -382,7 +382,7 @@ It there was corruption, the Corrupt Practices Investigation Bureau would have c
 
 \[5:31\]
 
-I *PAP* tàr tsìoser tsǒi, ùa ka’ léu tǎr, tǔasiar bǒi-tsù a!
+i³³ *PAP* tã⁵² tsio⁵² sẽ³³ tsoi¹¹ / ua⁵² kaʔ² lɯ²⁵ tã²¹³ / tua¹¹ sĩã³³ boi¹¹ tsu⁵² a
 
 I1 *PAP* dan3(2) zio3(2)sên1 zoi7, ua2 gah4 le2(6) dan3, dua7sian1 bhoi6(7)-zu2 a!
 
@@ -392,7 +392,7 @@ The PAP has said so much; let me tell you: it’s just a lot of hot air!
 
 <hr />
 
-Kangnǎngtàng sǐ tsekgǎi hǔ-tsē’zím kǎi tsèngtàng.
+kaŋ³³ naŋ¹¹ taŋ⁵² si¹¹ tsek² kai¹¹ hu¹¹ tseʔ⁵ dzim²⁵ kai¹¹ tseŋ⁵² taŋ⁵²
 
 Gang1nang5(7)dang2 si6(7) zêg8(4)gai5(7) hu6(7)-zêh4(8)rim6 gai5(7) zêng3(2)dang2.
 
@@ -402,7 +402,7 @@ The WP is a responsible political party.
 
 <hr />
 
-Nàng tǒ rǐ-khàng-iou-iou nī tsīapkúang tshǐ-tìng-húe kǎi sǐ-hǎu,
+naŋ⁵² to¹¹ dzi¹¹ kʰaŋ⁵² iou³³ iou³³ ni⁵⁵ tsiap⁵ kuaŋ²⁵ tsʰi¹¹ tiŋ⁵² hue²⁵ kai¹¹ si¹¹ hau¹¹
 
 Nang2 do6(7) ri6(7)kang3(2)iou1iou1 ni5 ziab4(8)guang2(6) ci6(7)ding3(2)huê6 gai5(7) si5(7)hao7,
 
@@ -412,7 +412,7 @@ When we took over the Town Council in 2011,
 
 <hr />
 
-sǒ tsǒ kǎi thǎu-tsek-kǎi kūektǐar tsǔsǐ,
+so²⁵ tso²¹³ kai¹¹ tʰau¹¹ tsek² kai¹¹ kuek⁵ tĩã¹¹ tsu¹¹ si¹¹
 
 so2(6) zo3 gai5(7) tao5(7)-zêg8(4)-gai5(7) guêg4(8)dian7 zu6(7)si6(7),
 
@@ -424,9 +424,9 @@ the first decision that we made, was,
 
 \[5:59\]
 
-ing-ǔi nàng ui-tsing kúanglì kongsi lǎi ka’ nàng kúanglì nàng-kǎi tshǐtìng,
+iŋ³³ ui¹¹ naŋ⁵² ui³³ tsiŋ³³ kuaŋ²⁵ li⁵² koŋ³³ si³³ lai¹¹ kaʔ² naŋ⁵² kuaŋ²⁵ li⁵² naŋ⁵² kai¹¹ tsʰi¹¹ tiŋ²¹³
 
-ing1ui5(7) nang2 ui1zing1 guang2(6)li2 gong1si1 lai5(5) gah4 nang2 guang2(6)li2 nang2-gai5(7) ci6(7)ding3,
+ing1ui5(7) nang2 ui1zing1 guang2(6)li2 gong1si1 lai5(7) gah4 nang2 guang2(6)li2 nang2-gai5(7) ci6(7)ding3,
 
 因為 俺 已經 管理公司 來 佮 儂 管理 俺個 市鎮，
 
@@ -434,7 +434,7 @@ because we already had a management company to manage our Town Council,
 
 <hr />
 
-nàng-kǎi kūektǐar sǐ, kúanglì kongsi-kǎi *cheque*, i-kǎi tsih-phǐo,
+naŋ⁵² kai¹¹ kuek⁵ tĩã¹¹ si¹¹ / kuaŋ²⁵ li⁵² koŋ³³ si³³ kai¹¹ *cheque* / i³³ kai¹¹ tsĩ³³ pʰio¹¹
 
 nang2-gai5(7) guêg4(8)dian7 si6(7), guang2(6)li2 gong1si1-gai5(7) *cheque*, i1-gai5(7) zin1pio7,
 
@@ -444,7 +444,7 @@ our decision was, that for any cheque made out to the management company,
 
 <hr />
 
-a-sǐ bǒ nàng tshǐtíng-lí-sěu-húe kǎi tsúsi a-sǐ hù-tsúsi tshiang-mīar, sǐ bǒisài kǔe-kāi.
+a³³ si¹¹ bo¹¹ naŋ⁵² tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ kai¹¹ tsu²⁵ si³³ a³³ si¹¹ hu⁵² tsu²⁵ si³³ tsʰiaŋ³³ mĩã⁵⁵ / si¹¹ boi¹¹ sai⁵² kue²¹³ kai⁵⁵
 
 a1si6(7) bho5(7) nang2 ci6(7)ding3(5)-li2(6)se7huê6 gai5(7) zu2(6)si1 a1si6(7) hu3(2)-zu2(6)si1 ciang1mian5, si6(7) bhoi6(7)sai2 guê3-gai5.
 
@@ -454,7 +454,7 @@ if it didn’t have the signature of the chairman or vice-chairman of the Town C
 
 <hr />
 
-Bói… Bǒ-pìang kùesíau-kāi, něunghang bǒi kùesíau-kāi.
+boi²⁵ / bo¹¹ piaŋ⁵² kue⁵² siau²¹³ kai⁵⁵ / ŋɯŋ¹¹ haŋ³³ boi¹¹ kue⁵² siau²¹³ kai⁵⁵
 
 Bhoi6… Bho5(7)biang3(2) guê3(2)siao3-gai5, ngeng5(7)hang1 bhoi6(7) guê3(2)siao3-gai5.
 
@@ -464,7 +464,7 @@ Then it could not be cashed \[without their signature\], the bank would not hono
 
 <hr />
 
-Só-ìh, i tǒ pòtsùa ló-tǎr, i tǎr:
+so²⁵ ĩ⁵² / i³³ to¹¹ po⁵² tsua⁵² lo²⁵ tã²¹³ / i³³ tã²¹³
 
 So2(6)in2, i1 do6(7) bo3(2)zua2 lo6-dan3, i1 dan3:
 
@@ -474,7 +474,7 @@ So when the newspapers say:
 
 <hr />
 
-“Ùa! Nìng kúanglìkongsi lǎipōih ang-bòu nǒr-kāi mue’lái-mue’khěu tsìor-ser tsǐu kǔe a, kakǐ kòr kakǐ tsih a!”
+ua⁵² / niŋ⁵² kuaŋ²⁵ li⁵² koŋ³³ si³³ lai¹¹ põĩ⁵⁵ aŋ³³ bou⁵² no¹¹ kai⁵⁵ mueʔ² lai⁵⁵ mueʔ² kʰɯ²¹³ tsio⁵² sẽ³³ tsiu¹¹ kue²¹³ a / ka³³ ki¹¹ ko⁵² ka³³ ki¹¹ tsĩ³³ a
 
 “Ua2! Ning2 guang2(6)li2 gong1si1 lai6(7)boin5 ang1-bhou2 no6(7)-gai5 muêh8(4)lai5-muêh8(4)ke3 zio3(2)sên1 ziu6(7) guê3 a, ga1gi7 go2 ga1gi3 zin1 a!”
 
@@ -486,7 +486,7 @@ So when the newspapers say:
 
 \[6:32\]
 
-Sì-sùar tǎr!
+si⁵² sũã⁵² tã²¹³
 
 Si3(2)suan2 dan3!
 
@@ -496,7 +496,7 @@ Nonsense!
 
 <hr />
 
-Húar-ú a: i *PAP* tàr nàng kúanglì kǎi sěngpāu-kǎi ha’-io’ ho, khoi’ phěng-ìu tsǒ la.
+hũã²⁵ u²⁵ a / i³³ *PAP* tã⁵² naŋ⁵² kuaŋ²⁵ li⁵² kai¹¹ seŋ¹¹ pau³³ kai¹¹ haʔ² ioʔ² ho / kʰoiʔ² pʰeŋ¹¹ iu⁵² tso²¹³ la
 
 Huan6-u6 a: i1 *PAP* dan3(2) nang2 guang2(6)li2 gai5(7) sêng5(7)bao1-gai5(7) hah8(4)ioh4 ho, koih4 pêng5(7)iu2 zo3 la.
 
@@ -506,7 +506,7 @@ There’s more: the PAP said that our management contract was just parceled out 
 
 <hr />
 
-Tsìa-kǎi sǐ ou-pē’ tǎr.
+tsia⁵² kai¹¹ si¹¹ ou³³ peʔ⁵ tã²¹³
 
 Zia2-gai5(7) si6(7) ou1-bêh8 dan3.
 
@@ -518,7 +518,7 @@ This is reckless talk.
 
 <hr />
 
-Nàng tsīap-tshìu thǎu-tsek-nī kùetǒu sǐkhī bǒ lo’piou.
+naŋ⁵² tsiap⁵ tsʰiu⁵² tʰau¹¹ tsek² ni⁵⁵ kue⁵² tou¹¹ si¹¹ kʰi⁵⁵ bo¹¹ loʔ¹ pio³³
 
 Nang2 ziab4(8)ciu2 tao5(7)-zêg8(4)-ni5 guê3(2)dou7 si5(7)ki5 bho5(7) loh8(4)bio1.
 
@@ -530,7 +530,7 @@ For the first year after we took charge, there were no contracts put out to tend
 
 \[6:59\]
 
-Ha’íou’, ne, ǔ ka’ Kōkke1 Hūaktíangpǒu pòkǎu.
+haʔ² ioʔ⁵ / ne / u¹¹ kaʔ² kok⁵ ke³³ huak⁵ tiaŋ²⁵ pou¹¹ po⁵² kau²¹³
 
 Hah8(4)ioh8, nê, u6(7) gah4 Gog4(8)gê1 Huag4(8)diang2(6)bou7 bo3(2)gao3.
 
@@ -542,7 +542,7 @@ The contracts made were all reported to the Ministry for National Development.
 
 <hr />
 
-Kùe-áu lōklǎi-kǎi tshǐtíng-lísěuhúe lóngtsòng-kǎi tsìa-ki hā’io’, lóngtsòng sǐ kongkhai tǎupio-kāi.
+kue⁵² au²⁵ loʔ⁵ lai¹¹ kai¹¹ tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ loŋ²⁵ tsoŋ⁵² kai¹¹ tsia⁵² kʰi³³ haʔ⁵ ioʔ² / loŋ²⁵ tsoŋ⁵² si¹¹ koŋ³³ kʰai³³ tau¹¹ pio³³ kai⁵⁵
 
 Guê3(2)ao6 loh4(8)lai5(7)-gai5(7) ci6(7)ding3(5)-li2(6)se7huê6 long2(6)zong2-gai5(7) zia2-ki1 hah4(8)ioh4, long2(6)zong2 si6(7) gong1kai1 dao5(7)bio1-gai5.
 
@@ -554,7 +554,7 @@ After this period, all the contracts entered into by the Town Council, all of th
 
 <hr />
 
-Kongkhai tǎupio sǐmì-nāng a ǒisài ka’ lèu… ǒisài lǎi pio.
+koŋ³³ kʰai³³ tau¹¹ pio³³ si¹¹ miʔ⁵ naŋ⁵⁵ a³³ oi¹¹ sai⁵² kaʔ² lɯ⁵² / oi¹¹ sai⁵² lai¹¹ pio³³
 
 Gong1kai1 dao5(7)bio1 si6(7)mih4(8)-nang5 a1 oi6(7)sai2 gah4 le2… oi6(7)sai2 lai5(7) bio1.
 
@@ -564,7 +564,7 @@ In a public tender, anyone can put in a bid.
 
 <hr />
 
-Lèu lo’pio-kǎi kēk-kùe a tio’ ài kongkhai.
+lɯ⁵² loʔ² pio³³ kai¹¹ kek⁵ kue⁵² a³³ tioʔ² ãĩ⁵² koŋ³³ kʰai³³
 
 Le2 loh8(4)bio1-gai5(7) gêg4(8)guê2 a1 dioh8(4) ain3(2) gong1kai1.
 
@@ -574,7 +574,7 @@ The results of the bidding must also be published.
 
 <hr />
 
-Ài tsònǐmue’ khèu pólīu khoi’ phěng-ìou a?
+ãĩ⁵² tso⁵² ni¹¹ mueʔ² kʰɯ⁵² po²⁵ liu⁵⁵ kʰoiʔ² pʰeŋ¹¹ iu⁵² a³³
 
 Ain3(2) zo3(2)ni5(7)muêh8(4) ke3(2) bo2(6)liu5 koih4 pêng5(7)iu2 a1?
 
@@ -584,7 +584,7 @@ How could we have “set them aside” for our friends?
 
 <hr />
 
-Nìamì ou-tsher ǔa?
+nia⁵² miʔ⁵ ou³³ tsʰẽ³³ ua²¹³
 
 Nia2mih4(8) ou1cên1 ua3?
 
@@ -596,7 +596,7 @@ They want to bruise us?
 
 \[7:30\]
 
-(*Someone in the audience*): Ou mak-khak!
+(*Someone in audience*): ou³³ mak² kʰak²
 
 (*Someone in the audience*): Ou1 mag8(4)kag4!
 
@@ -606,7 +606,7 @@ They want to bruise us?
 
 <hr />
 
-Ou mak-khak a tio’.
+ou³³ mak² kʰak² a³³ tioʔ⁵
 
 Ou1 mag8(4)kag4 a1 dioh8.
 
@@ -616,7 +616,7 @@ That’s right, a black eye.
 
 <hr />
 
-I tsìtsūng a, ài a lāi ou ùanāng tshǐtíng-lísěuhúe tǐam-lǎi ou a.
+i³³ tsi⁵² tsuŋ⁵⁵ a / ãĩ⁵² a³³ lai⁵⁵ ou³³ ua⁵² naŋ⁵⁵ tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ tiam¹¹ lai¹¹ ou³³ a
 
 I1 zi2zung5 a, ain3(2) a1 lai5 ou1 ua2nang5 ci6(7)ding3(5)-li2(6)se7huê6 diam7-lai5(7) ou1 a.
 
@@ -626,7 +626,7 @@ At this time, they want to come and dig into our Town Council’s affairs.
 
 <hr />
 
-I-kǎi, tsènghù-kǎi tshe-síau a, tǒ ùanāng tshǐtíng-lísěuhúe tshe-lìau tsap-kǎi kūe’ a. *Ten months, right?* Zap-kǎi kūe a!
+i³³ kai¹¹ / tseŋ⁵² hu⁵² kai¹¹ tsʰe³³ siau²⁵ a³³ / to¹¹ ua⁵² naŋ⁵⁵ tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ tsʰe³³ liau⁵² tsap² kai¹¹ gueʔ⁵ a³³ / *Ten months, right?* tsap² kai¹¹ gueʔ⁵ a³³
 
 I1-gai5(7), zêng3(2)hu2-gai5(7) cê1siao2(6) a1, do6(7) ua2nang5 ci6(7)ding3(5)-li2(6)se7huê6 cê1-liao2 zab8(4)-gai5(7) ghuêh8 a1. *Ten months, right?* Zab8(4)-gai5(7) ghuêh8 a1!
 
@@ -636,7 +636,7 @@ They… the government’s auditors have been checking our books for ten months.
 
 <hr />
 
-Tsap-kǎi kūe’, lèu tsai-m7-tsai bói?
+tsap² kai¹¹ gueʔ⁵ / lɯ⁵² tsai³³ m¹¹ tsai³³ boi²⁵
 
 Zab8(4)-gai5(7) ghuêh8, le2 zai1-m6(7)-zai1 bhoi6?
 
@@ -646,7 +646,7 @@ Do you know this? Ten months.
 
 <hr />
 
-Só-ìh nàng-kǎi sìau bǒ-pìang tsò \[…\] tsǔ-sǐ ing-úi nàng bǒ i-kǎi, bǒpìang i-kǎi sǐ-kang.
+so²⁵ ĩ⁵² naŋ⁵² kai¹¹ siau²¹³ bo¹¹ piaŋ⁵² tso⁵² / ... / tsu¹¹ si¹¹ iŋ³³ ui¹¹ naŋ⁵² bo¹¹ i³³ kai¹¹ / bo¹¹  piaŋ⁵² i³³ kai¹¹ si¹¹ kaŋ³³
 
 So2(6)in2 nang2 gai5(7) siao3 bho5(7)biang3(2) zo3(2) \[…\] zu6(7)si6(7) ing1ui5(7) nang2 bho5(7) i1-gai5(7), bho5(7)biang3(2) i1-gai5(7) si5(7)gang1.
 
@@ -656,7 +656,7 @@ Therefore we haven’t been able to do our accounts, because we don’t have the
 
 <hr />
 
-I tshe tsap-kǎi gūe’ kǎi sǐau, i ài ou, ou bǒ mue’kíar la.
+i³³ tsʰe³³ tsap1 kai¹¹ gueʔ⁵ kai¹¹ siau²¹³ / i³³ ãĩ⁵² ou³³ / ou³³ bo¹¹ mueʔ² kĩã²⁵ la³³
 
 I1 cê1 zab8(4)-gai5(7) ghuêh8 gai5(7) siao3, i1 ain3(2) ou1, ou1 bho5(7) muêh8(4)gian6 la1.
 
@@ -664,13 +664,13 @@ I1 cê1 zab8(4)-gai5(7) ghuêh8 gai5(7) siao3, i1 ain3(2) ou1, ou1 bho5(7) muêh
 
 Despite checking our books for ten months, and wanting to do us in, they haven’t been able to find anything.
 
-> *tshe tsap-kai-gue kai siau* – This is an example of a *kai* construction where a verb, in this case *tshesiau*, is split into two, and the modifier (*tsap-kai-gue-kai*) is inserted in between.
+> *cê zab-gai ghueh kai siao* – This is an example of a *gai* construction where a verb, in this case *cê-siao*, is split into two, and the modifier (*zab-gai ghueh gai*) is inserted in between.
 
 <hr />
 
 \[8:02\]
 
-I ou bǒ mue’kíar m7-kam-ngúang!
+i³³ ou³³ bo¹¹ mueʔ² kĩã²⁵ m¹¹ kam³³ ŋuaŋ²⁵
 
 I1 ou1 bho5(7) muêh8(4)gian6 m6(7)-gam1nguang6!
 
@@ -680,7 +680,7 @@ They couldn’t find anything, and are not happy about it!
 
 <hr />
 
-I tsìtsūng hò, i khèu ou hèu-koih ka’ nàng kúanglì a, \[…\] kúanglì kongsi-kǎi sǐau,
+i³³ tsi⁵² tsuŋ⁵⁵ ho⁵² / i³³ kʰɯ⁵² ou³³ hɯ⁵² kõĩ³³ kah2 naŋ⁵² kuaŋ²⁵ li⁵² a / kuaŋ²⁵ li⁵² koŋ³³ si³³ kai¹¹ siau²¹³
 
 I1 zi2zung5 ho2, i1 ke3(2) ou1 he2-goin1 gah4 nang2 guang2(6)li2 a, \[…\] guang2(6)li2 gong1si1-gai5(7) siao3,
 
@@ -690,7 +690,7 @@ Now, they have gone to dig into the accounts of our management company.
 
 <hr />
 
-i tàr i thàng tsingtsǒi tsīh a.
+i³³ tã⁵² i³³ tʰaŋ⁵² tsiŋ³³ tsoi¹¹ tsĩ³³ a³³
 
 i1 dan3(2) i1 tang2 zing1zoi7 zin1 a1.
 
@@ -700,7 +700,7 @@ They say that they \[the company\] have been making too much money.
 
 <hr />
 
-Ùa, tsìa-kāi sǐ kùe áumāng a.
+ua⁵² / tsia⁵² kai⁵⁵ si¹¹ kue⁵² au²⁵ maŋ⁵⁵ a
 
 Ua2, zia2-gai5 si6(7) guê3(2) ao2(6)mang5 a.
 
@@ -712,7 +712,7 @@ Now that is simply barbaric.
 
 \[8:31\]
 
-Thàng tsingtsǔe tsīh ǎ ài ūa ùanǎng.
+tʰaŋ⁵² tsiŋ³³ tsoi¹¹ tsĩ³³ a¹¹ ãĩ⁵² ua⁵⁵ ua⁵² naŋ¹¹
 
 Tang3(2) zing1zoi7 zin1 a7 ain3(2) ua5 ua2nang7.
 
@@ -722,7 +722,7 @@ They want to blame us for them making money.
 
 <hr />
 
-Tsìh sǐ i thǎng m7-sǐ ùa thǎng li.
+tsĩ³³ si¹¹ i³³ tʰaŋ²¹³ m¹¹ si¹¹ ua⁵² tʰaŋ²¹³ li³³
 
 Zin1 si6(7) i1 tang3 m6(7)si6(7) ua2 tang3 li1.
 
@@ -732,7 +732,7 @@ They made the money, not me.
 
 <hr />
 
-I *PAP* i sǐo-tàr ài tuartuar i tsì-kǎi tshǐtíng-lísěuhúe kǎi tshǎibú-kǎi kúanglì ho, tsǔ tàr nàng Kangnǎngtàng bǒihìau kúanglì tshǐtǐnghúe la.
+i³³ *PAP* i³³ sĩõ¹¹ tã⁵² ãĩ⁵² tũã³³ tũã³³ i³³ tsi⁵² kai¹¹ tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ kai¹¹ tsʰai¹¹ bu²⁵ kai¹¹ kuaŋ²⁵ li⁵² ho / tsu¹¹ tã⁵² naŋ⁵² kaŋ³³ naŋ¹¹ taŋ⁵² boi¹¹ hiau⁵² kuaŋ²⁵ li⁵² tsʰi¹¹ tiŋ²¹³ hue²⁵ la³³
 
 I1 *PAP* i1 sion6(7) dan3(2) ain3(2) duan1duan1 i1 zi2gai5(7) ci6(7)ding3(5)-li2(6)se7huê6 gai5(7) cai5(7)bhu6-gai5(7) guang2(6)li2 ho, zu6(7) dan3(2) nang2 Gang1nang5(7)dang2 bhoi6(7)hiao2 guang2(6)li2 ci6(7)ding3 huê6 la1.
 
@@ -744,7 +744,7 @@ The PAP, they want to say with only this matter of the Town Council and the mana
 
 \[8:59\]
 
-I ka’ tshō’mūe’ tǎr: nìng mó tǎu Kangnǎngtàng ho,
+i³³ kaʔ² tsʰoʔ⁵ mueʔ⁵ tã²¹³ / niŋ⁵² mo²⁵ tau²¹³ kaŋ³³ naŋ¹¹ taŋ⁵² ho
 
 I1 gah4 coh4(8)muêh8 dan3: ning2 mo2(6) dao3 Gang1nang5(7)dang2 ho,
 
@@ -754,7 +754,7 @@ They tell those people: Don’t vote for the WP.
 
 <hr />
 
-ing-úi i bǒihíau tshǐtíng-lísěu, sóìh kúang-tàu lèu thòih, *em*… sìau a bǒihíau tsǒ la, lìau ka’, sùa su-tsīh la, ho.
+iŋ³³ ui¹¹ i³³ boi¹¹ hiau²⁵ tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ / so²⁵ ĩ⁵² kuaŋ²⁵ tau⁵² lɯ⁵² tʰõĩ⁵² / ... /siau⁵² a³³ boi¹¹ hiau²⁵ tso²¹³ la³³ / liau⁵² kaʔ² / sũã⁵² su³³ tsĩ⁵⁵ la³³ / ho
 
 ing1ui5(7) i1 bhoi6(7)hiao2(6) ci6(7)ding3(5)li2(6)se7, so2(6)in2 guang2(6)dao3(2) le2 toin2, *em*… siao3(2) a1 bhoi6(7)hiao2(6) zo3 la1, liao2 gah4, suan2 su1-zin5 la1, ho.
 
@@ -764,7 +764,7 @@ Because they don’t know how to manage a Town Council, and look at what they ha
 
 <hr />
 
-I m7-ki-tek-khěu le!
+i³³ m¹¹ ki³³ tek² kʰɯ²¹³ le³³
 
 I1 m6(7)-gi1dêg4 ke3 lê1!
 
@@ -774,7 +774,7 @@ They have forgotten!
 
 <hr />
 
-I-nǎng ěng keumīng sò kàu kǎi tsap-hǔi khèu tǎu-tseu a.
+i³³ naŋ¹¹ eŋ¹¹ kɯ³³ miŋ⁵⁵ so⁵² kau³³ kau¹¹ tsap² hui¹¹ kʰɯ⁵² tau¹¹ tsɯ³³ a
 
 I1-nang5(7) êng7 ge1ming5 so2 gao1 gai5(7) zab8(4)hui7 ke3(2) dao5(7)ze1 a.
 
@@ -784,7 +784,7 @@ They \[the PAP\] have used the fees paid by residents to fund their investments.
 
 <hr />
 
-Tsek-tshoih-lak-pe’ bǔang, a Lúimāng Hiar-tí kùetǐau hǒih i hiar-tí, i ǎ susu tǐau a!
+tsek² tsʰõĩ³³ lak² peʔ² buaŋ¹¹ / a³³ lui²⁵ maŋ⁵⁵ hĩã³³ ti²⁵ kue⁵² tiau²¹³ hõĩ¹¹ i³³ hĩã³³ ti²⁵ / i³³ a¹¹ su³³ su³³ tiau²¹³ a
 
 Zêg8(4)coin1 lag8(4)bêh8(4) bhuang7, a1 Lui2(6)mang5 Hian1di6 guê3(2)diao3 hoin5(7) i1 hian1di6, i1 a7 su1su1 diao3 a!
 
@@ -796,7 +796,7 @@ Sixteen million dollars, when Lehman Brothers went belly-up, they lost it all.
 
 \[9:32\]
 
-Lìau ùa tsìtsūng mǔng tsìtsho’ *PAP* tshǐtínglí… *PAP* kúanglì-kǎi tsìtsho’ nǎngmeng ho: lìau lèu méng khèu ka’ lèu *PAP* tǒr-tsīh?
+liau⁵² ua⁵² tsi⁵² tsuŋ⁵⁵ muŋ¹¹ tsi⁵² tsʰoʔ² *PAP* tsʰi¹¹ tiŋ²⁵ li²⁵ ... *PAP* kuaŋ²⁵ li⁵² kai¹¹ tsi⁵² tsʰoʔ⁵ naŋ¹¹ meŋ³³ ho / liau⁵² lɯ⁵² meŋ²⁵ kʰɯ⁵² kaʔ² lɯ⁵² *PAP* to¹¹ tsĩ⁵⁵
 
 Liao2 ua2 zi2zung5 mung7 zi2coh4 *PAP* ci6(7)ding3(6)li6… *PAP* guang2(6)li2-gai5(7) zi2coh4(8) nang5(7)mêng1 ho: liao2 le2 mêng2(6) ke3(2) gah4 le2 *PAP* do7-zin5?
 
@@ -806,9 +806,9 @@ Now I ask those who are in PAP districts… those who live in districts they man
 
 <hr />
 
-I *PAP* khio’ nàng Auziunǐ-khu kǎi kheumīng ka’ nàng tǒr-tsīh ma.
+i³³ *PAP* kʰioʔ² naŋ⁵² au³³ dziu³³ ni¹¹ kʰu³³ kai¹¹ kɯ³³ miŋ⁵⁵ kaʔ² naŋ⁵² to¹¹ tsĩ⁵⁵ ma³³
 
-I1 *PAP* kioh8(4) nang2 Ao1riu1ni5(7)-ku1 gai5(7) ke1ming5 gah4 nang2 do7zin5 ma1.
+I1 *PAP* kioh8(4) nang2 Ao1riu1ni5(7)-ku1 gai5(7) ge1ming5 gah4 nang2 do7zin5 ma1.
 
 伊 PAP 挈 俺 Aljunied區 個 居民 ka 儂 掏錢 ma。
 
@@ -816,7 +816,7 @@ After all, the PAP called on Aljunied residents to demand their money back from 
 
 <hr />
 
-Lìau i tsònǐ bǒ ka’ i tǒr-tsīh?
+liau⁵² i³³ tso⁵² ni¹¹ bo¹¹ ka2 i³³ to¹¹ tsĩ⁵⁵
 
 Liao2 i1 zo3(2)ni5(7) bho5(7) gah4 i1 do7zin5?
 
@@ -826,7 +826,7 @@ So why don’t they go and ask them for their money back?
 
 <hr />
 
-I méng khio’ i kakǐ-kǎi keumīng ka’ i tǒr-tsīh tsìa ǒi-tio’, tsìa ǒi-ngam, tio’-m7-tio’?
+i³³ meŋ²⁵ kʰioʔ² i³³ ka³³ ki¹¹ kai¹¹ kɯ³³ miŋ⁵⁵ kaʔ² i³³ to¹¹ tsĩ⁵⁵ tsia⁵² oi¹¹ tioʔ² / tsia⁵² oi¹¹ ŋam³³ / tioʔ² m¹¹ tioʔ²
 
 I1 mêng2(6) kioh4 i1 ga1gi7-gai5(7) ge1ming5 gah4 i1 do7zin5 zia2 oi6(7)-dioh4, zia2 oi6(7) ngam1, dioh4-m6(7)-dioh4?
 
@@ -836,7 +836,7 @@ Shouldn’t they have their own residents go and demand their money back from th
 
 <hr />
 
-Tsìa-kǎi bǒ tsúi-tsung!
+tsia⁵² kai¹¹ bo¹¹ tsui²⁵ tsuŋ³³
 
 Zia2-gai5(7) bho5(7) zui2(6)zung1!
 
@@ -848,7 +848,7 @@ This is a lack of standards!
 
 \[10:00\]
 
-Ou, ǔ ǔe tàr paknāng, bǒ ǔe tàr kāki a.
+ou³³ / u¹¹ ue¹¹ tã⁵² pak² naŋ⁵⁵ / bo¹¹ ue¹¹ tã⁵² ka³³ ki¹¹ a³³
 
 Ou1, u6(7) uê7 dan3(2) bag8(4)nang5, bho5(7) uê7 dan3(2) ga1gi7 a1.
 
@@ -858,7 +858,7 @@ They want to tar others with their words, but have nothing to say about themselv
 
 <hr />
 
-Ùa ka’ lèu tǎr: Ùa sǐ lúng i tsing-kù a.
+ua⁵² kaʔ² lɯ⁵² tã²¹³ / ua⁵² si¹¹ luŋ²⁵ i³³ tsiŋ³³ ku⁵² a
 
 Ua2 gah4 le2 dan3: Ua2 si6(7) lung2(6) i1 zing1-gu2 a.
 
@@ -870,7 +870,7 @@ Let me tell you: I have put up with them for a long time.
 
 \[10:30\]
 
-Pūkkǔe, nàng tio’ ài kegtueng tsengsēng, ài ěng sǐkang, ěng sing bǎ tsìkǎi sǐau tsò-hò.
+puk⁵ kue²¹³ / naŋ⁵² tioʔ² ãĩ⁵² kek² tueŋ³³ tseŋ³³ seŋ⁵⁵ / ãĩ⁵² eŋ¹¹ si¹¹ kaŋ³³ / eŋ¹¹ siŋ³³ pa¹¹ tsi⁵² kai¹¹ siau²¹³ tso⁵² ho⁵²
 
 Bug4(8)guê3, nang2 dioh4 ain3(2) gêg8(4)duêng1 zêng1sêng5, ain3(2) êng7 si5(7)gang1, êng7 sing1 ba7 zi2gai5(7) siao3 zo3(2)-ho2.
 
@@ -880,7 +880,7 @@ Nonetheless, we have to remain alert, to use our time and carefully get our acco
 
 <hr />
 
-Seng tsò-hò soih, nàng khǐam nàng li-īu ho, ker tàr bǒ-ěng.
+seŋ³³ tso⁵² ho⁵² sõĩ³³ / naŋ⁵² kʰiam¹¹ naŋ⁵² li²⁵ iu⁵⁵ ho / kẽ³³ tã⁵² bo¹¹ eŋ¹¹
 
 Sêng1 zo3(2) ho2 soin1, nang2 kiam7 nang2 li2(6)iu5 ho, gên1 dan3(2) bho5(7)êng7.
 
@@ -890,7 +890,7 @@ First, do it well. If we skimp on our principles, there’s no use saying more.
 
 <hr />
 
-Hǐangtsái, nàng-kǎi sǐau tsǒ tshuklǎi lìau!
+hiaŋ¹¹ tsai²⁵ / naŋ⁵² kai¹¹ siau²¹³ tso²¹³ tsʰuk² lai¹¹ liau⁵² 
 
 Hiang5(7)zai6, nang2-gai5(7) siao3 zo3 cug8(4)lai5(7) liao2!
 
@@ -900,9 +900,9 @@ Now, our accounts are finally done!
 
 <hr />
 
-Ǎ kaukhoi’ Kōkge Huaktiangpóu ka’ Kōk-húe.
+a¹¹ kau³³ kʰoih2 kok⁵ ke³³ huak⁵ tiaŋ³³ pou²⁵ kaʔ² kok⁵ hue²⁵
 
-A7 gao1koih4 Gog4(8)gê1 Huag1diang1bou6 gah4 Gog4(8)huê6.
+A7 gao1koih4 Gog4(8)gê1 Huag4(8)diang1bou6 gah4 Gog4(8)huê6.
 
 也 交乞 國家發展部 佮 國會。
 
@@ -912,9 +912,9 @@ And they have been handed over to the Ministry for National Development and to P
 
 \[11:02\]
 
-Nàng tshe-síau-kǎi sim-kīk-tseu tǎr nàng tshitǐng-húe-kǎi sìaumāk teulíau ku-sǐau la, a bǒpìang kaikǒi, ùa tàr kǔe lìau ha, khithā-kǎi lóngtsòng hak-huak.
+naŋ⁵² tsʰe³³ siau⁵⁵ kai¹¹ sim³³ kik⁵ tsɯ³³ tã²¹³ naŋ⁵² tsʰi¹¹ tiŋ²¹³ hue²⁵ kai¹¹ siau⁵² mak⁵ tɯ³³ liau²⁵ ku³³ siau²¹³ la / a³³ bo¹¹ piaŋ⁵² kai³³ koi¹¹ / ua⁵² tã⁵² kue²¹³ liau⁵² ha / kʰi¹¹ tʰa³³ kai¹¹ loŋ²⁵ tsoŋ⁵² hak² huak²
 
-Nang2 cê1siao3(5)-gai5(7) sim1gig4(8)ze1 dan3 nang2 ci6(7)ding3 huê6 gai5(7) siao4(2)mag8 de1liao2(6) gu1siao3 la, a1 bho5(7)biang3(2) gai1goi7, ua2 dan3(2)guê3 liao2 ha, ki5(7)ta1-gai5(7) long2(6)zong2 hag8(4)huag4.
+Nang2 cê1siao3(5)-gai5(7) sim1gig4(8)ze1 dan3 nang2 ci6(7)ding3 huê6 gai5(7) siao3(2)mag8 de1liao2(6) gu1siao3 la, a1 bho5(7)biang3(2) gai1goi7, ua2 dan3(2)guê3 liao2 ha, ki5(7)ta1-gai5(7) long2(6)zong2 hag8(4)huag4.
 
 俺 查數個 審計書 呾 俺 市鎮會個 數目 除了 古數 la，也 無變 （？）改，我 呾 過 了 ha，其他個 攏總 合法。
 
@@ -922,7 +922,7 @@ The auditors who have checked out accounts say, that our Town Council’s accoun
 
 <hr />
 
-Nàng zǐ-khàng-iau-sǐ kā’ zǐ-khàng-iau-ngóu nǐtou kǎi sìaumāk bǒ khuisuk.
+naŋ⁵² dzi¹¹ kʰaŋ⁵² iau³³ si²¹³ kaʔ⁵ dzi¹¹ kʰaŋ⁵² iau³³ ŋou²⁵ ni¹¹ tou³³ kai¹¹ siau⁵² mak⁵ bo¹¹ kʰui³³ suk²
 
 Nang2 ri6(7)kang3(2)iao1si3 gah4(8) ri6(7)kang3(2)iao1ngou6 ni5(7)dou1 gai5(7) siao3(2)mag8 bho5(7) kui1sug4.
 
@@ -934,7 +934,7 @@ From 2014 to 2015, we did not register a loss.
 
 \[11:32\]
 
-A-sǐ sèung tshēk-pēk zǐ-tsap bǔang kǎi tsingthiap a, tsekpek zǐtsap bǔang kǎi tsingthiap i tsítsung tsènghù ka’ lèu khau tio’, mài khhoi’ lěu.
+a³³ si¹¹ sɯŋ⁵² tsʰek⁵ peʔ⁵ dzi¹¹ tsap² buaŋ¹¹ kai¹¹ tsiŋ³³ tʰiap² a / tsek² peʔ² dzi¹¹ tsap² buaŋ¹¹ kai¹¹ tsiŋ³³ tʰiap² i³³ tsi²⁵ tsuŋ³³ tseŋ⁵² hu⁵² kaʔ² lɯ⁵² kʰau³³ tioʔ² / mai⁵² kʰoiʔ² lɯ²¹³
 
 A1-si6(7) seng3(2) cêg4(8)bêh4(8) ri6(7)zab8(4) bhuang7 gai5(7) zing1tiab4 a, zêg8(4)bêh4 ri6(7)zab8(4) bhuang7 gai5(7) zing1tiab4 i1 zi2(6)zung1 zêng3(2)hu2 gah4 le2 kao1 dioh4, mai3(2) khoih4 le3.
 
@@ -944,9 +944,9 @@ If one counts the 7.2 million grant, 1.2 million of this is now being held by th
 
 <hr />
 
-A tsǔngtsōih lèu thiar Pung Êng-huat’ tǎr, i *PA* a, Nangmēng-Hiap-húe a, i-kǎi síaumāk a, ùa-piang kǔa-nǐ tsoih a, sì-sùa lāi a.
+a³³ tsuŋ¹¹ tsõĩ⁵⁵ lɯ⁵² tʰĩã³³ puŋ³³ eŋ³³ huat4 tã²¹³ / i³³ *PA* a / naŋ¹¹ meŋ⁵⁵ hiap² hue²⁵ a³³ / i³³ kai¹¹ siau⁵⁵ mak⁵ a / ua⁵² piaŋ²⁵ gua¹¹ ni¹¹ tsõĩ³³ a / si⁵² sũã⁵² lai⁵⁵ a
 
-A zung5(7)zoin5 le2 tian1 Bung Êng-huat dan3, i1 *PA* a, Nang1mêng5-Hiab4huê6 a, i1-gai5(7) siao3(5)mag8 a, ua2-biang ghua7-ni5(7) zoin1 a, si3(2)suan3(2) lai5 a.
+A zung5(7)zoin5 le2 tian1 Bung Êng-huat dan3, i1 *PA* a, Nang5(7)mêng5-Hiab4huê6 a, i1-gai5(7) siao3(5)mag8 a, ua2-biang ghua7-ni5(7) zoin1 a, si3(2)suan3(2) lai5 a.
 
 A 陣前 汝 聽 方榮發 呾，伊 PA a，人民協會 a，伊個 數目 a，我XX 幾年 前 a，四散 來 a。
 
@@ -956,7 +956,7 @@ Just now you have heard Png Eng Huat tell you, that the PA, the People’s Assoc
 
 <hr />
 
-I méng-mài khoi’ i, nàng-kǎi i tsǔ mó-khoi’, i tǎr.
+i³³ meŋ²⁵ mai⁵² kʰoiʔ² i³³ / naŋ⁵² kai¹¹ i³³ tsu¹¹ mo²⁵ kʰoiʔ² / i³³ tã²¹³
 
 I1 mêng2(6) mai3(2) koih4 i1, nang2-gai5(7) i1 zu6(7) mo2(6)-koih4, i1 dan3.
 
@@ -968,7 +968,7 @@ I1 mêng2(6) mai3(2) koih4 i1, nang2-gai5(7) i1 zu6(7) mo2(6)-koih4, i1 dan3.
 
 \[12:01\]
 
-Tsìa-kǎi sǐ kìo siangtěng-piautsùng.
+tsia⁵² kai¹¹ si¹¹ kio⁵² siaŋ³³ teŋ¹¹ piau³³ tsuŋ⁵²
 
 Zia2-gai5(7) si6(7) gio3(2) siang1dêng7-biao1zung2.
 
@@ -978,7 +978,7 @@ This is called a double standard.
 
 <hr />
 
-Ǎ-sǐ pau-kuak tsì tshekpek zǐ-tsap bǔang, nàng tshǐtíng-lísěuhúe huar ǔ tsek-pek tshēk-tsap bǔang kǎi ngeung-ni(?), nàng bǒ khùi-sūk!
+a¹¹ si¹¹ pau³³ kuak² tsi⁵² tsʰek⁵ peʔ² dzi¹¹ tsap² buaŋ¹¹ / naŋ⁵² tsʰi¹¹ tiŋ⁵⁵ li²⁵ sɯ¹¹ hue²⁵ hũã³³ u¹¹ tsek² peʔ² tsek⁵ tsap² buaŋ¹¹ kai¹¹ ŋɯŋ³³ ni / naŋ⁵² bo¹¹ kʰui⁵² suk⁵
 
 A7-si6(7) bao1guag4 zi2 cêg4(8)bêh4 ri6(7)zab8(4) bhuang7, nang2 ci6(7)ding3(5)-li2(6)se7huê6 huan1 u6(7) zêk8(4)bêh4 cêg4(8)zab8(4) bhuang7 gai5(7) ngeng1-ni(?), nang2 bho5(7) kui3(2)sug8!
 
@@ -988,7 +988,7 @@ If one includes this 7.2 million, our Town Council actually has a surplus of 7.7
 
 <hr />
 
-*PAP* a, i tshǔe tio’ kǎi sùe-khang, kǎi khang-kìar tsǐu pìarpìar ou a.
+*PAP* a / i³³ tsʰue¹¹ tioʔ² kai¹¹ soi⁵² kʰaŋ³³ / kai¹¹ kʰaŋ³³ kĩã⁵² tsiu¹¹ pĩã⁵² pĩã⁵² ou³³ a
 
 *PAP* a, i1 cuê7 dioh8(4) gai5(7) soi3(2)kang1, gai5(7) kang1gian2 ziu6(7) bian3(2)bian3(2) ou1 a.
 
@@ -1000,7 +1000,7 @@ The PAP looks for a small hole, and then keeps picking at it.
 
 \[12:30\]
 
-Ùa ka’ lèu tǎr la, lèu ǒi kǐtek bói, *PAP*-kǎi ngíau-tshèu sua ho.
+ua⁵² kaʔ² lɯ⁵² tã²¹³ la / lɯ⁵² oi¹¹ ki⁵² tek² boi²⁵ / *PAP* kai¹¹ ŋiau³³ tsʰɯ⁵² sua³³ ho
 
 Ua2 gah4 le2 dan3 la, le2 oi6(7) gi3(2)dêg8(4) bhoi6, *PAP*-gai5(7) ngiao1-ce2 sua1 ho.
 
@@ -1012,7 +1012,7 @@ An infestation of rats near a public transit station in Bukit Batok was reported
 
 <hr />
 
-Kāi m7-tsāi sùa sǐ tǔasěu a-sǐ sǔesěu a.
+kai⁵⁵ m¹¹ tsai³³ sua⁵² si¹¹ tua¹¹ sɯ¹¹ a³³ si¹¹ soi²¹³ sɯ¹¹ a
 
 Gai5 m6(7)zai1 sua3(2) si6(7) dua7se7 a1si6(7) soi3 se7 a.
 
@@ -1024,9 +1024,9 @@ One doesn’t know if this was a big issue or a small one.
 
 <hr />
 
-*NEA* a tsǐu mérmèr thìau tshuklǎi. Pangpang a, mó-sěu a, *PAP*-kǎi khu a.
+*NEA* a³³ tsiu¹¹ me²⁵ me⁵² tʰiau⁵² tsʰuk² lai¹¹ / paŋ³³ paŋ³³ a / mo²⁵ sɯ¹¹ a / *PAP* kai¹¹ kʰu³³ a
 
-*NEA* a ziu6(7) mê2(6)mê2 tiao3(2) cug8(4)lai5(7). Bang1bang1 a, mo2(6)se7 a, PAP-gai5(7) ku1 a.
+*NEA* a ziu6(7) mê2(6)mê2 tiao3(2) cug8(4)lai5(7). Bang1bang1 a, mo2(6)se7 a, *PAP*-gai5(7) ku1 a.
 
 NEA a 就 猛猛 跳 出來。方方 a，孬事 a，PAP個 區 a。
 
@@ -1034,7 +1034,7 @@ The NEA (National Environment Agency) quickly jumped into action: quickly, no wo
 
 <hr />
 
-Lia’ ngíau-tshèu-kǎi tsuangke a, mue’ lìau kǔa-kǎi lóipǎi la, bǎlù tsìar khoi’ i ngíau-tshèu liap lìau a.
+liaʔ² ŋiau²⁵ tsʰɯ⁵² kai¹¹ tsuaŋ³³ ke³³ a / mueʔ² liau⁵² kua¹¹ kai¹¹ loi²⁵ pai²¹³ la / ba¹¹ lu⁵² tsĩã⁵² kʰoiʔ² i³³ ŋiau³³ tsʰɯ⁵² liaʔ² liau⁵² a
 
 Liah8(4) ngiao2(6)ce2-gai5(7) zuang1gê1 a, muêh8(4) liao2 gua7-gai5(7) loi2(6)bai3 la, bha7lu2 zian2 koih4 i1 ngiao1ce2 liah4 liao2 a.
 
@@ -1046,7 +1046,7 @@ The rat-catching experts were at work for several weeks, and have only just mana
 
 \[13:01\]
 
-Ùa ka’ lèu tǎr a: zǔkùar tsìo ngíautshèu-sua sǐ tǒ Kangnǎngtàng-kǎi khu a, ùa ka’ lèu sì ka’ tsing pháithòih a.
+ua⁵² kaʔ² lɯ⁵² tã²¹³ a / dzu¹¹ kũã⁵² tsio⁵² ŋiau³³ tsʰɯ⁵² sũã³³ si¹¹ to¹¹ kaŋ³³ naŋ¹¹ taŋ⁵² kai¹¹ kʰu³³ a / ua⁵² kaʔ² lɯ⁵² si⁵² kaʔ² tsiŋ³³ pʰai²⁵ tʰõĩ⁵² a
 
 Ua2 gah4 le2 dan3 a: ru5(7)guan2 zio2 ngiao1ce2-suan1 si6(7) do6(7) Gang1nang5(7)dang2-gai5(7) ku1 a, ua2 gah4 le2 si2 gah4 zing1 pai2(6)toin2 a.
 
@@ -1056,7 +1056,7 @@ Let me tell you: had this hill of rats been in a Worker’s Party ward, I’d ha
 
 <hr />
 
-Só-ìh ho, ùa ka’ tǎike tshamsīang tsek-ě ho.
+so²⁵ ĩ⁵² ho / ua⁵² kaʔ² tai¹¹ ke³³ tsʰam³³ siaŋ⁵⁵ tsek² e¹¹ ho
 
 So2(6)in2 ho, ua2 gah4 dai6(7)gê1 cam1siang5 zêg8(4)-ê7 ho.
 
@@ -1066,7 +1066,7 @@ So let me put this to all of you.
 
 <hr />
 
-Nìng tǎike tio’ ài sio-hú la.
+niŋ⁵² tai¹¹ ke³³ tioʔ² ãĩ⁵² sio³³ hu²⁵ la
 
 Ning2 dai6(7)gê1 dioh8(4) ain3(2) sio1hu6 la.
 
@@ -1076,7 +1076,7 @@ You all have to help.
 
 <hr />
 
-Sio-hú tàu thòih a, mó khòi i pàng ngíau-tshèu kǔelǎi!
+sio³³ hu²⁵ tau⁵² tʰõĩ⁵² a / mo²⁵ kʰoiʔ² i³³ paŋ⁵² ŋiau³³ tsʰɯ⁵² kue²¹³ lai¹¹
 
 Sio1hu6 dao3(2) toin2 a, mo2(6) koih4 i1 bang3(2) ngiao1ce2 guê3 lai7!
 
@@ -1084,13 +1084,13 @@ Sio1hu6 dao3(2) toin2 a, mo2(6) koih4 i1 bang3(2) ngiao1ce2 guê3 lai7!
 
 Help us keep an eye out, don’t let them sneak any rats over here!
 
-> *Siohu* 相輔, *tau3* 鬥 – both meaning “help”
+> *Sio1hu6* 相輔, *dao3* 鬥 – both meaning “help”
 
 <hr />
 
 \[13:33\]
 
-*PAP* sǐ bǒi kam-úang kǎi la. I tǐartio’ tshǔe khangthāu kǔe la.
+*PAP* si¹¹ boi¹¹ kam³³ uaŋ²⁵ kai¹¹ la / i³³ tĩã¹¹ tioʔ² tsʰue¹¹ kʰaŋ³³ tʰau⁵⁵ kue²¹³ la
 
 *PAP* si6(7) bhoi6(7) gam1uang6 gai5(7) la. I1 dian7dioh8(4) cuê7 kang1tao5 guê3 la.
 
@@ -1100,7 +1100,7 @@ The PAP will never be satisfied. They will certainly keep looking for holes.
 
 <hr />
 
-I ài mue’ tǐau ǹg ne!
+i³³ ãĩ⁵² mueʔ² tiau¹¹ ŋ⁵² ne
 
 I1 ain3(2) muêh8(4)diao7 ng2 nê!
 
@@ -1110,7 +1110,7 @@ They want to do us in!
 
 <hr />
 
-Méng kiar, méng kiar.
+meŋ²⁵ kĩã³³ / meŋ²⁵ kĩã³³
 
 Mêng2(6) gian1, mêng2(6) gian1.
 
@@ -1120,7 +1120,7 @@ Don’t be afraid.
 
 <hr />
 
-Nàng Kangnǎngtàng kenglēk-kǔe a-ne tsǒi tǔa-huang-tǔa-hóu, nàng ǒi tǔatǔa-pǒu kiar tshuk-khěu!
+naŋ⁵² kaŋ³³ naŋ¹¹ taŋ⁵² keŋ³³ lek⁵ kue²¹³ a³³ ne³³ tsoi¹¹ tua¹¹ huaŋ³³ tua¹¹ hou²⁵ / naŋ⁵² oi¹¹ tua¹¹ tua¹¹ pou¹¹ kĩã⁵⁵ tsʰuk² kʰɯ²¹³
 
 Nang2 Gang1nang5(7)dang2 gêng1lêg8-guê3 a1nê1 zoi7 dua7huang1-dua7hou6, nang2 oi6(7) dua7dua7-bou7 gian5 cug8(4)ke3!
 
@@ -1132,7 +1132,7 @@ We in the Worker’s Party have experience with big storms; we will stride out o
 
 \[14:00\]
 
-Tǎi-ke a, ùa ka’ lèu tǎr a, *PAP* ǎ sǐ zú… zú m7-tsìa-ǐor la.
+tai¹¹ ke³³ a / ua⁵² kaʔ² lɯ⁵² tã²¹³ a / *PAP* a¹¹ si¹¹ dzu²⁵ / dzu²⁵ m¹¹ tsia⁵² ĩõ¹¹ la
 
 Dai6(7)gê1 a, ua2 gah4 le2 dan3 a, *PAP* a7 si6(7) ru2(6)… ru2(6) m6(7)-zia2-ion7 la.
 
@@ -1142,7 +1142,7 @@ Everybody, let me tell you, the PAP is becoming… ever more unseemly.
 
 <hr />
 
-I tsò tsènghù ngǒutsap nī, mue’kàu kíartsīk tàr-ǔe ǐa tàr kàu m7-sa m7-sǐ la.
+i³³ tso⁵² tseŋ⁵² hu⁵² ŋou¹¹ tsap² ni⁵⁵ / mueʔ² kau⁵² kĩã²⁵ dzik⁵ tã⁵² ue¹¹ ia¹¹ tã⁵² kau⁵² m¹¹ sã³³ m¹¹ si²¹³ la³³
 
 I1 zo3(2) zêng3(2)hu2 ngou6(7)zab8(4) ni5, muêh8(4)gao3(2) gian2(6)rig8 dan3(2)uê7 ia7 dan3(2) gao3(2) m6(7)-san1 m6(7)-si3 la1.
 
@@ -1154,7 +1154,7 @@ They have been in government for fifty years, to the point that today, they don�
 
 \[14:35\]
 
-Tàr sǐmì kongkoi lǎ, tàr-ú tàr-bō tsú tio’ lǎ.
+tã⁵² si¹¹ miʔ² koŋ³³ koi³³ la¹¹ / tã⁵² u²⁵ tã⁵² bo⁵⁵ tsu¹¹ tioʔ² la¹¹
 
 Dan3(2) si6(7)mih4 gong1goi1 la7, dan3(2)u6 dan3(2)bho5 zu6(7) dioh4 la7.
 
@@ -1166,7 +1166,7 @@ What with talk of roosters, it is all just idle talk.
 
 <hr />
 
-Só-ìh, ùa ka’ lèu tǎr hò, ūi-lìau nàng-kǎi kōk-ke, ūi-lìau nàng-kǎi kíarsung-kǎi bǔelai, káu-guek tsap-ēk hǒr, nìng tio’ tǎu Kangnǎngtàng tsek pio!
+so²⁵ ĩ⁵² / ua⁵² kaʔ² lɯ⁵² tã²¹³ ho⁵² / ui⁵⁵ liau⁵² naŋ⁵² kai¹¹ kok⁵ ke³³ / ui⁵⁵ liau⁵² naŋ⁵² kai¹¹ kĩã²⁵ suŋ³³ kai¹¹ bue¹¹ lai⁵⁵ / kau²⁵ gueʔ² tsap² ek⁵ ho¹¹ / niŋ⁵² tioʔ² tau¹¹ kaŋ³³ naŋ¹¹ taŋ⁵² tsek² pio³³
 
 So2(6)in2, ua2 gah4 le2 dan3 ho2, ui5-liao2 nang2-gai5(7) gog4(8)gê1, ui5-liao2 nang2-gai5(7) gian2(6)sung1-gai5(7) bhuê7lai1, gao2(6)ghuêh8(4) zab8(4)êg8 ho7, ning2 dioh8(4) dao7 Gang1nang5(7)dang2 zêg8(4) bio1!
 
@@ -1176,7 +1176,7 @@ Therefore, let me tell you this, for the sake of our country, for the sake of ou
 
 <hr />
 
-Sìasìa tǎi-ke!
+sia⁵² sia⁵² tai¹¹ ke³³
 
 Sia2sia2 dai6(7)gê1!
 
