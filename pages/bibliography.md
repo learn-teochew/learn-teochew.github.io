@@ -31,6 +31,7 @@ Dong Zhongsi 董忠司 (2003). Wú Shòulǐ jiàoshòu de Cháozhōu yǔwén yá
 
 Lin Lunlun 林倫倫 (1995) Guǎngdōng Mǐn fāngyán yánjīu shùpíng 廣東閩方言研究述評 (Bibliography of research on Eastern Guangdong dialects) 《中國語文研究》11 : 177-193 [Chinese University of Hong Kong](http://www.cuhk.edu.hk/ics/clrc/scl_11/lin_lun_lun.pdf)
 
+[Shared online bibliography on Teochew language hosted on Zotero.](https://www.zotero.org/groups/4629261/teochew)
 
 Dictionaries and word lists
 ---------------------------
@@ -41,15 +42,15 @@ Cài Jùnmíng 蔡俊明. (1991). *Cháozhōu fāngyán cíhuì* 《潮州方言
 
  * Phonetically-organized dictionary of Teochew language, with definitions in Mandarin and example sentences, in both characters and phonetic spelling.
 
-Duffus, William. (1883). *English-Chinese vocabulary of the vernacular or spoken language of Swatow*. Swatow: English Presbyterian Mission Press. [Internet Archive](https://archive.org/details/englishchinesev00duffgoog)
+Duffus, William. (1883). *English-Chinese vocabulary of the vernacular or spoken language of Swatow*. Swatow: English Presbyterian Mission Press. [Internet Archive](https://archive.org/details/englishchinesev00duffgoog), [Wikisource transcription](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow)
 
  * English-Teochew dictionary, organized by English headwords. For each word, Teochew glosses are given in romanization only.
 
-Fielde, A. M. (1883). *A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones*. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/pronouncingdefin00fielrich)
+Fielde, A. M. (1883). *A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones*. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/pronouncingdefin00fielrich), [Wikisource transcription project](https://en.wikisource.org/wiki/Index:Dictionary_of_the_Swatow_dialect.djvu)
 
  * Organized alphabetically with Fielde’s own romanization system, words and example phrases/sentences are found under the head character; Chinese characters only given for the head character of each entry, definitions in English. The book is currently being transcribed digitally on [Wikisource](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect).
 
-Goddard, Josiah. (1888). *A Chinese and English vocabulary in the Tie-Chiu dialect*, 2nd. ed. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/achineseandengl00goddgoog)
+Goddard, Josiah. (1888). *A Chinese and English vocabulary in the Tie-Chiu dialect*, 2nd. ed. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/achineseandengl00goddgoog), [Wikisource transcription](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect)
 
 Goh Eng Choon 吴英俊. (2020) *Xīnbiān Cháozhōu kǒuyǔ jíshì* 《新编潮州口语集释》 (Collection of Teochew vernacular language, new edition). Singapore: 艺品良印.
 
@@ -62,6 +63,8 @@ Lin Lunlun 林伦伦. (1991, 1992). Shàntóu fāngyán cíhuì 汕头方言词�
 Li Xinkui, Lin Lunlun 李新魁、林伦伦 (1992). *Cháoshàn fāngyáncí kǎoshì* 《潮汕方言词考释》 (Discussions on Chaoshan vernacular words). 广东：广东人民出版社
 
 Li Yongming 李永明. (1995). Cháozhōu fāngyán de díeyīncí 潮州方言的疊音詞 (Reduplicated words in Teochew). 《中國語文研究》11 : 205-210 [Chinese University of Hong Kong](http://www.cuhk.edu.hk/ics/clrc/scl_11/li_yong_ming.pdf)
+
+Liu Yaozi 劉堯咨. (1995). *Shuō Cháozhōuhuà* 《說潮州話》 (Speak Teochew). Guangzhou 廣州: Huanan Ligong Daxue Chubanshe 華南理工大學出版社. 
 
 TCKnow LLC. (2021). WhatTCSay3. [Website](https://tcknow.com)
 
@@ -113,7 +116,7 @@ Kwok Bit-Chee 郭必之. (2018) Hànzì, wéndú yǔ gòucí céngcì : Xiàmén
 
 Lin Lunlun, Chen Xiaofeng 林倫倫 陳小楓. (1996). Guǎngdōng Mǐn fāngyán yǔyīn yánjīu 广东闽方言语音研究 (Phonology of the Min dialects of Guangdong province). Swatow: Swatow University Press 汕頭大學出版社.
 
-Ting Pang-hsin. (1979). A note on tone change in the Ch’ao-chou dialect. *Bulletin of the Institute of History and Phiilology, Academia Sinica* 50 (2) : 257-271. [PDF](http://www2.ihp.sinica.edu.tw/file/3669HtDLCjv.pdf)
+Ting Pang-hsin. (1979). A note on tone change in the Ch’ao-chou dialect. *Bulletin of the Institute of History and Philology, Academia Sinica* 50 (2) : 257-271. [PDF](http://www2.ihp.sinica.edu.tw/file/3669HtDLCjv.pdf)
 
 Yang Xiufang 楊秀芳. (1982). Mǐnnányǔ wénbái xìtǒng de yánjīu 閩南語文白系統的研究 (Investigation of the literary-vernacular pronunciation system in Minnan languages). (PhD dissertation) National Taiwan University, Taipei. [National Taiwan University library](https://scholars.lib.ntu.edu.tw/handle/123456789/17182)
 
@@ -123,9 +126,15 @@ Zhang Jian 張堅. (2018). Cháozhōu fāngyán de “zhèngyīn” yǔ xīn wé
 Primers
 -------
 
-Dean, W. (1841). *First lessons in the Tie-Chew dialect*. Bangkok. [Internet Archive](https://archive.org/details/firstlessonsint00deangoog)
+Ashmore, W. (1884). *Primary lessons in Swatow grammar (colloquial)*. Swatow: English Presbyterian Mission Press. [Internet Archive](https://archive.org/details/primary-lessons-in-swatow-grammar), [Wikisource transcription project](https://en.wikisource.org/wiki/Index:Primary_Lessons_In_Swatow_Grammar.djvu)
+
+Dean, W. (1841). *First lessons in the Tie-Chew dialect*. Bangkok. [Internet Archive](https://archive.org/details/firstlessonsint00deangoog), [Wikisource transcription](https://en.wikisource.org/wiki/First_Lessons_in_the_Tie-chiw_Dialect)
 
 Fielde, A. M. (1878). *First lessons in the Swatow dialect*. Swatow: Swatow Printing Office Company. [Internet Archive](https://archive.org/details/FirstLessonsInTheSwatowDialect/)
+
+Gibson, J. C. (1881). *Elementary lessons in the Swatow dialect with a vocabulary referring to Dr. Douglas’ Dictionary of the Amoy Vernacular.* Swatow: Printed for private use. [Internet Archive](https://archive.org/details/elementary-lessons-in-the-swatow-dialect), [Wikisource transcription project](https://en.wikisource.org/wiki/Index:Elementary_Lessons_In_The_Swatow_Dialect_with_a_Vocabulary_referring_to_Dr._Douglas’_Dictionary_of_the_Amoy_Vernacular.djvu)
+
+ * This is a revised version of Giles (1877) *Handbook of the Swatow dialect* with the romanization changed to standardized Pe̍h-ūe-jī.
 
 Giles, H. A. (1877). *Handbook of the Swatow dialect. With a vocabulary.* Shanghai. [Bayerische Staatsbibliothek](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00096731-5)
 
@@ -133,7 +142,7 @@ Koons, Alvin & Koons, Barbara. (2016) \[1967\]. *Spoken Swatow* (2 vols.). Hong 
 
  * Basic course in Swatow Teochew, with complete phonetic spelling, progressive lessons, and vocabulary list. Emphasizes substitution drills. Highly recommended.
 
-Lim Hiong Seng 林雄成. (1886). *Handbook of the Swatow vernacular*. Singapore: “Koh Yew Hean” Press. [Internet Archive](http://www.archive.org/details/cu31924023551306)
+Lim Hiong Seng 林雄成. (1886). *Handbook of the Swatow vernacular*. Singapore: “Koh Yew Hean” Press. [Internet Archive](http://www.archive.org/details/cu31924023551306), [Wikisource transcription](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular)
 
  * Despite its age, a useful resource for vocabulary and phrases.
 
