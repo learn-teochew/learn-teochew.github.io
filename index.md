@@ -54,6 +54,8 @@ Get in touch!
 
 [Follow on Twitter](https://twitter.com/LearnTeochew){: .btn .btn-green }
 
+[Follow on Mastodon](https://mastodon.online/@LearnTeochew){: .btn .btn-green }<a rel="me" href="https://mastodon.online/@LearnTeochew">.</a>
+
 [Follow on Facebook](https://www.facebook.com/learnteochew){: .btn .btn-green }
 
 [Follow on YouTube](https://www.youtube.com/channel/UC3TQkt5FCTKGyX_oRt0HTlA){: .btn .btn-green }
