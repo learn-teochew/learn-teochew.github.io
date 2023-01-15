@@ -10,6 +10,8 @@ Bibliography
 
 Many of the resources consulted are available online, however some services, such as JSTOR, may require a subscription.
 
+A more comprehensive bibliography is available on
+[Zotero](https://www.zotero.org/groups/4629261/teochew).
 
 Contents
 --------
@@ -230,6 +232,8 @@ Ong Sun-liong 王順隆. (2002). Cháoshàn fāngyán súqǔ chàngběn “Cháo
 Phua Chay Leong 潘醒農. (1950). Mǎláiyǎ Cháoqiáo Tōngjiàn 《馬來亞潮僑通鑑》. Singapore: Nándǎo Chūbǎnshè 南島出版社.
 
 Phua Chay Leong 潘醒農. (1993). Cháoqiáo Sùyuán Jì 《潮僑溯源集》 (Anthology on the Roots of the Teochew Diaspora). River Edge, N.J.: Global Publishing Co.
+
+Tan Gia Lim. (2018) *An introduction to the culture and history of the Teochews in Singapore*. Singapore: World Scientific. [Publisher site](https://www.worldscientific.com/worldscibooks/10.1142/10967)
 
 Wang Gungwu. (2003) \[1958\]. *The Nanhai Trade : Early Chinese trade in the South China Sea*. Singapore: Eastern Universities Press.
 
