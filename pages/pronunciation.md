@@ -172,13 +172,19 @@ challenging is the nasalized triphthong
 
 ### The vowel /ɯ/ or /ɤ/
 
-The /ɯ/ or /ɤ/ vowel is similar to the Hanyu Pinyin vowel ‘i’ in Mandarin
-\[zì\] 字 or \[sì\] 四, but **not** like the ‘i’ in \[jì\] 記 or \[xì\] 戲.
-Hanyu Pinyin uses the same letter ‘i’ to represent both these vowel sounds, but
-uses different letters to represent the same consonant in order to imply that
-the vowel following it should be pronounced differently. If written in IPA,
-they would be /tsɯ˥˧/ 字 vs. /tsi˥˧/ 記 and /sɯ˥˧/ 四 vs. /si˥˧/ 戲.
+In Teochew, the vowel sound in common words like /lɯ/ 汝 “you” or /tsɯ/ 書
+“book” can be pronounced like /ɯ/, /ɤ/, or even /ə/ depending on the speaker’s
+accent.
 
+/ɯ/ is uncommon in English, but is a common sound in Korean, usually romanized
+as \[eu\]. In Mandarin, some speakers pronounce words like \[zì\] 字 or \[sì\]
+四 as /tsɯ/ and /sɯ/, with a vowel sound that is distinct from the consonant,
+although in the standard pronunciation, these are pronounced as extensions of
+the consonant sounds ([syllabic
+consonants](https://en.wikipedia.org/wiki/Syllabic_consonant), also known as
+“apical vowels”), as /tsz̩/ and /sz̩/ respectively.
+
+/ɤ/ is similar to the vowel in Mandarin \[zhè\] 這.
 
 Finals
 ------
