@@ -200,4 +200,8 @@ Yeo for permission to use an excerpt from her thesis, and the National Archives
 of Singapore for permission to publish an excerpt from the Oral History
 Centre’s [interview with Chua Hong Kee]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %}).
 I also wish to thank Prof Lee Chee Hiang for the gift of several books on
-Teochew history when I was a student.
+Teochew history when I was a student, Dr Catherine Churchman for sharing
+difficult-to-find materials, and members of the [Gaginang online
+community](https://discord.gg/uuA6eAUaNc) for generously sharing resources,
+especially Ty Lim, Fish_bowl, KaraageTimer, Justin R Leung, Antoine Srun,
+Arnaud, webble, and Thai.
