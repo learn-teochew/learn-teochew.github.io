@@ -130,7 +130,7 @@ Ashmore, W. (1884). *Primary lessons in Swatow grammar (colloquial)*. Swatow: En
 
 Dean, W. (1841). *First lessons in the Tie-Chew dialect*. Bangkok. [Internet Archive](https://archive.org/details/firstlessonsint00deangoog), [Wikisource transcription](https://en.wikisource.org/wiki/First_Lessons_in_the_Tie-chiw_Dialect)
 
-Fielde, A. M. (1878). *First lessons in the Swatow dialect*. Swatow: Swatow Printing Office Company. [Internet Archive](https://archive.org/details/FirstLessonsInTheSwatowDialect/)
+Fielde, A. M. (1878). *First lessons in the Swatow dialect*. Swatow: Swatow Printing Office Company. [Internet Archive](https://archive.org/details/FirstLessonsInTheSwatowDialect/), [Wikisource transcription project](https://en.wikisource.org/wiki/Index:First_Lessons_in_the_Swatow_Dialect.djvu)
 
 Gibson, J. C. (1881). *Elementary lessons in the Swatow dialect with a vocabulary referring to Dr. Douglas’ Dictionary of the Amoy Vernacular.* Swatow: Printed for private use. [Internet Archive](https://archive.org/details/elementary-lessons-in-the-swatow-dialect), [Wikisource transcription project](https://en.wikisource.org/wiki/Index:Elementary_Lessons_In_The_Swatow_Dialect_with_a_Vocabulary_referring_to_Dr._Douglas’_Dictionary_of_the_Amoy_Vernacular.djvu)
 

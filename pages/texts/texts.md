@@ -18,8 +18,8 @@ published sources or transcribed from videos or audio recordings, to show
 Teochew in use, beyond the short example sentences in the study guide.[^1]
 
 Each text is transcribed with Guangdong Peng’im (see [Pronunciation and
-Orthography](../pronunciation.md)) as well as Chinese characters and a rough
-English translation.
+Orthography]({{ site.baseurl }}{% link pages/pronunciation.md %})) as well as
+Chinese characters and a rough English translation.
 
 If you would like to contribute interesting texts or transcriptions, please [get
 in touch!](https://forms.gle/igjwwiz2z2Dpr3SE6)
@@ -61,15 +61,29 @@ Other:
 Other Teochew readings online
 -----------------------------
 
-The Hong Kong Teochew Culture Association has a great website (in Chinese) with Teochew readings (in characters, some with Pêng’im and sound recordings):
+The Hong Kong Teochew Culture Association has a great website (in Chinese) with
+Teochew readings (in characters, some with Pêng’im and sound recordings):
 
  * [Teochew Songbooks 潮州歌冊 Diê5ziu1 Gua1cêh4](https://www.tc-culture.hk/songbook/index.html)
  * [Excerpts from Teochew novel “Tales from the Countryside” 作田人瑣事 Zoh8cang1nang5 so2se7](https://www.tc-culture.hk/farmer/index.html)
  * [Teochew art and culture](https://www.tc-culture.hk/art/index.html)
 
-Tung Tong-ho 董同龢 (1959) [「四個閩南方言」 Four Southern Min dialects](https://www2.ihp.sinica.edu.tw/file/4159uYkeDst.pdf): contains transcriptions of stories and folk songs from four different Southern Min varieties, including the Gêg’ion dialect of Teochew. These are transcribed with the International Phonetic Alphabet and include a vocabulary list.
+Tung Tong-ho 董同龢 (1959) [「四個閩南方言」 Four Southern Min
+dialects](https://www2.ihp.sinica.edu.tw/file/4159uYkeDst.pdf): contains
+transcriptions of stories and folk songs from four different Southern Min
+varieties, including the Gêg’ion dialect of Teochew. These are transcribed with
+the International Phonetic Alphabet and include a vocabulary list.
 
+Primers and dictionaries from the 19th century, mostly written for missionaries
+and foreigners, are now in the public domain. Digitized versions and links to
+full-texts (if available) are listed in the [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md %}).
 
 <hr />
 
-[^1]: Some pages in this section of the site contain copyrighted material that may not have been specifically authorized for use by the copyright owner. We post only textual transcriptions of excerpts source materials, to illustrate and comment on language usage for educational, non-profit purposes. We believe that this constitutes fair use or fair dealing of the copyrighted material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you have any concerns.
+[^1]: Some pages in this section of the site contain copyrighted material that
+  may not have been specifically authorized for use by the copyright owner. We
+  post only textual transcriptions of excerpts source materials, to illustrate
+  and comment on language usage for educational, non-profit purposes. We
+  believe that this constitutes fair use or fair dealing of the copyrighted
+  material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you
+  have any concerns.
