@@ -182,7 +182,7 @@ may, should      | ho⁵³          | ho2         |好
 willing to       | hãũ²¹³        | haon3       |好
 -----------------|---------------|-------------|-----------
 
-### oi6 會 / bhoi6 袂 • “can”, “able”, “will”
+### *oi6* 會 / *bhoi6* 袂 • “can”, “able”, “will”
 
 Teochew *oi6* is similar to its Mandarin cognate *huì* 會. It has a
 number of overlapping functions; what they have in common is that they
@@ -226,7 +226,7 @@ refer to actions or events that lie in the future.
 
 ### Derivatives of *oi6*
 
-#### oi6(7)hiao2 會曉 • “can”, “able”, “know how to”
+#### *oi6(7)hiao2* 會曉 • “can”, “able”, “know how to”
 
 Used when referring to ability in the sense of skill or know-how. Compare to
 *oi6(7)dêg8* and *u6(7)biang3* below.
@@ -252,7 +252,7 @@ used to indicate a future event:
 >
 > \*He tomorrow **able** come play tennis.
 
-#### oi6(7)dêg4 會得 • “can”, “able”
+#### *oi6(7)dêg4* 會得 • “can”, “able”
 
 > i³³ **oi¹¹tek⁵** to¹¹ tsʰek² huŋ³³ tseŋ³³ lai³⁵ tsau³⁵ no¹¹ kuŋ³³li⁵³
 >
@@ -264,11 +264,11 @@ used to indicate a future event:
 >
 > He can run two kilometers in seven minutes.
 
-For the above example, *oi7hiau2* would not be appropriate, as *oi7hiau2*
+For the above example, *oi6(7)hiao2* would not be appropriate, as *oi6(7)hiao2*
 refers to ability in the sense of know-how, rather than a purely physical
 skill.
 
-#### oi6(7)sai2 會使 • “can”, “may”
+#### *oi6(7)sai2* 會使 • “can”, “may”
 
 This can have the meaning of “may” in the sense of having permission:
 
@@ -295,12 +295,12 @@ position to do something”:
 >
 > He can come to play tennis tomorrow.
 
-### ko2(6)in2 可以 / m7ko2(6)in2 唔可以 • “may”, “can”
+### *ko2(6)in2* 可以 / *m7ko2(6)in2* 唔可以 • “may”, “can”
 
 Comparable to its Mandarin cognate *kěyǐ*, this can mean either permission
 (like *oi6(7)sai2*) or ability (like *oi6(7)dêg8*).
 
-### u6(7)biang3 有變 / bho5(7)biang3 無變 • “can”, “able”
+### *u6(7)biang3* 有變 / *bho5(7)biang3* 無變 • “can”, “able”
 
 This is used when referring to ability in the sense of circumstances (“in a
 position to do something”). Compare to *oi6(7)hiao2* and *oi6(7)sai2* above.
@@ -315,13 +315,13 @@ position to do something”). Compare to *oi6(7)hiao2* and *oi6(7)sai2* above.
 >
 > Is he able to do a job for us?
 
-### ai3 愛 / mai3 莫 • “want”, “will”
+### *ain3* 愛 / *mai3* 勿 • “want”, “will”
 
-These are also written with the characters 欲 ai3 and 勿 mai3 in many texts.
+愛 (“to love”) is probably the etymological character for the modal verb *ain3*. However *ain3* is conventionally written (including in historical texts) with the character 欲, which is also pronounced *iog8*, and which also means “to wish, to want” in literary Chinese. In vernacular texts, though, 欲 is usually pronounced *ain3*.
 
-> ua⁵³ **ai⁵³** saŋ⁵³ tsi³⁵tiou¹¹ hɯ⁵⁵ kʰoiʔ² lɯ⁵³
+> ua⁵³ **ãĩ⁵³** saŋ⁵³ tsi³⁵tiou¹¹ hɯ⁵⁵ kʰoiʔ² lɯ⁵³
 >
-> Ua2 **ai3(2)** sang3(2) zi2(6)diou5(7) he5 koih8(4) le2.
+> Ua2 **ain3(2)** sang3(2) zi2(6)diou5(7) he5 koih8(4) le2.
 >
 > 我 *愛* 送 只條 魚 乞 汝。
 >
@@ -335,13 +335,13 @@ These are also written with the characters 欲 ai3 and 勿 mai3 in many texts.
 >
 > I1 **mai3(2)** gah4(8) uang2 zo3(2) peng5(7)iu2.
 >
-> 伊 *莫* 佮 阮 做 朋友。
+> 伊 *勿* 佮 阮 做 朋友。
 >
 > He **not-want** with us-excl. do friend.
 >
 > He doesn’t want to befriend us.
 
-### diêh8 着 / mêng2 免 • “should”, “must”
+### *diêh8* 着 / *mêng2* 免 • “should”, “must”
 
 Among other functions (see
 [“Verbal complements”]({{ site.baseurl }}{% link pages/verbal_complements.md %})),
@@ -369,7 +369,7 @@ diêh8 着 has the modal meanings of “should” or “must”.
 >
 > I don’t have school tomorrow.
 
-#### diêh8(4)ai3 • 着愛 • “should”, “must”
+#### *diêh8(4)ai3* • 着愛 • “should”, “must”
 
 > naŋ⁵³ **tieʔ²ai⁵³** zik²zik⁵ tso⁵³ tam¹¹poʔ² uŋ¹¹toŋ³⁵
 >
@@ -381,7 +381,7 @@ diêh8 着 has the modal meanings of “should” or “must”.
 >
 > We ought to do a little bit of exercise every day.
 
-### êng1gai1 應該 • “should”
+### *êng1gai1* 應該 • “should”
 
 Comparable to the Mandarin cognate *yīnggāi*.
 
@@ -395,7 +395,7 @@ Comparable to the Mandarin cognate *yīnggāi*.
 >
 > We should do a little bit of exercise every day.
 
-### ho2 好 / mo2 孬 • “may”, “should”
+### *ho2* 好 / *mo2* 孬 • “may”, “should”
 
 This uses the colloquial pronunciation of 好, compare with *hauh3*
 below.
@@ -422,7 +422,7 @@ below.
 >
 > It’s already so late, you should all go home.
 
-### haon3 好 / m7haon3 唔好 • “willing to”
+### *haon3* 好 / *m7haon3* 唔好 • “willing to”
 
 This uses the literary pronunciation of 好, compare with *ho2* above.
 

@@ -38,11 +38,17 @@ been *nang5* 儂, based on the pattern of *i1nang7* 伊儂 “they”.
 | they           | i³³naŋ¹¹           | i1nang7            | 伊儂      |
 |----------------|--------------------|--------------------|-----------|
 
+### Character usage
+
+*le2* is written as 汝 in most modern Teochew publications, but was often written 爾/尔 (also pronounced *re2*) in historical texts, such as Teochew songbooks. Both 汝 and 爾 were used as the second person singular pronoun in literary Chinese. When texts written in Mandarin are recited in Teochew pronunciation (gloss reading), the Mandarin character 你 is glossed as *le2*.
+
+In some historical texts, *ua2* 我 is also represented as 吾 (otherwise pronounced *u5*), and *nang2* 俺 may also be written as 赧 (*lang2*) or 咱 (*za1*).
+
+In comparison, most Teochew texts use the same characters used for *ung2* 阮, *ning2* 恁, and *i1* 伊.
+
 ### Inclusive vs. exclusive “we” – *nang2* • 俺 and *uang2* • 阮
 
-English does not make the distinction between inclusive and exclusive “we”,
-unlike languages like Teochew, Mandarin (*zánmen* 咱們 / *wǒmen* 我們) and
-Malay (*kita* / *kami*).
+Teochew makes a distinction between inclusive and exclusive “we”, similar to languages like Mandarin (*zánmen* 咱們 / *wǒmen* 我們) and Malay (*kita* / *kami*), but unlike English which has only one word “we” for both.
 
 Inclusive “we” includes the person being spoken to.
 
@@ -109,8 +115,7 @@ Reflexive pronouns are words that point back to a personal pronoun, e.g.
 “myself” or “yourself”. The personal pronoun being pointed to is known as the
 antecedent.
 
-In Teochew, the reflexive pronoun is *ga1gi7* 家己, which is also written with
-the same characters as its Mandarin equivalent *zìjǐ* 自己.
+In Teochew, the reflexive pronoun is *ga1gi7*. Modern Teochew publications often write this as 家己, or with phonetic loan characters such as 膠己 or 交己 (also found in historical texts), or with the semantic gloss 自己 (自 is otherwise pronounced *ze6* in other contexts).
 
 > i³³ tsie⁵³sẽ³³ tso²¹³ si¹¹ kʰoiʔ² **ka³³ki¹¹** li¹¹iaʔ²
 >

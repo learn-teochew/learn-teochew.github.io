@@ -27,8 +27,11 @@ Negatives with *m6* 唔 and *bho5* 無
 ### *m6* • 唔
 
 *m6* 唔 cannot stand by itself but must always be attached to another word to
-negate it. It is always used as a prefix. *M6* is used to negate the following
-classes of words:
+negate it. It is always used as a prefix. 
+
+The character 唔 is used in many modern Teochew texts, and is also used to write the negative *m4* in Cantonese. The Taiwan Ministry of Education recommends the character 毋 for the cognate word in Taiwanese Hokkien. Historical texts such as Teochew songbooks use the character 不, which is then pronounced either *m6* or *bug4* depending on context. To avoid this ambiguity, this guide prefers to use 唔 for *m6* and 不 only for *bug4*.
+
+*m6* is used to negate the following classes of words:
 
 #### Negating *si6* 是 “to be”
 
@@ -176,9 +179,9 @@ Many negative words begin with either the *m* or *bh* sound. Given that the
 basic negative prefix is *m6* 唔, it is likely that they have evolved from
 fusion of *m6* + the positive form, especially in the case of auxiliary verbs:
 
-> m6 唔 + oi6 會 = bhoi6 𠁞/袂
+> m6 唔 + oi6 會 = bhoi6 𠁞 (also written 𣍐 or 袂)
 >
-> m6 唔 + ai3 愛 = mai3 免
+> m6 唔 + ai3 愛 = mai3 勿 (also written 莫)
 >
 > m6 唔 + ho2 好 = mo2 孬
 
@@ -194,7 +197,7 @@ Negatives of modal verbs
 
 Modal verbs have special negative forms. Most of these appear to be derived
 from fusion of *m6* and the original modal verb, e.g. *m6* 唔 + *oi6* 會
-(*bhoi6* 𠁞/袂), *m6* + *ho2* 好 (*mo2* 孬). Usage is straightforward, being
+(*bhoi6* 𠁞/𣍐/袂), *m6* + *ho2* 好 (*mo2* 孬). Usage is straightforward, being
 just like the respective positive modal verbs, which are further explained in
 the section [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %}).
 
@@ -202,11 +205,8 @@ the section [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md 
 
 Negative of *oi6* 會
 
-*bhoi6* is written with a number of a different characters. Many Teochew texts
-use 𠁞 (不+會), but the Taiwan Education Ministry recommends 袂 for the cognate
-word in Taiwanese Hokkien. Because many computer fonts do not have 𠁞, this
-guide prefers 袂. See the discussion on orthography at
-[“Pronunciation”]({{ site.baseurl }}{% link pages/pronunciation.md %})
+*bhoi6* is written with a number of a different characters. Many modern Teochew books
+use the character 𠁞 (⿱不會) and sometimes also 𣍐 (⿰勿會), but historical Teochew songbooks often use 袂 (otherwise pronounced *mi6*). The Taiwan Education Ministry also recommends 袂 for the cognate word in Taiwanese Hokkien. Because many computer fonts do not have 𠁞, this guide prefers 袂. See the discussion on orthography at [“Pronunciation”]({{ site.baseurl }}{% link pages/pronunciation.md %})
 
 > ua⁵³ boi¹¹ pʰaʔ² mua¹¹tsiaoʔ²
 >
@@ -228,7 +228,7 @@ It is also used to negate compounds that are derived from *oi6*:
 
 The usage *bhoi6(7)sai2* 袂使 comes from Hokkien, and is common in overseas
 Teochew (see [“Loan words”]({{ site.baseurl }}{% link pages/overseas.md %})).
-The Teochew equivalent is *mo2* 孬.
+The Teochew equivalent to *bhoi6(7)sai2* is *mo2* 孬.
 
 #### Negating gradeable adjectives
 
@@ -291,19 +291,21 @@ off a friendship”, negative of *siang1ho2* 相好).
 >
 > The yam paste that he made is not bad.
 
-### m6(7)haon3* • 唔好 • willingness
+### *m6(7)haon3* • 唔好 • willingness
 
 Negative of *haon3* 好 - willingness
 
-### *mai3* • 莫
+### *mai3* • 勿
 
-Negative of *ai3* 愛 – intention, obligation
+Negative of *ai3* 愛 – intention, obligation.
+
+*mai3* is conventionally written with the character 勿, also in historical Teochew texts. However Li (1959) used 莫 (usually pronounced *mo6*) for this word.
 
 > i³³ **mai⁵³** tʰĩã³³ue¹¹
 >
 > I1 **mai3(2)** tian1uê7.
 >
-> 伊 *莫* 聽話。
+> 伊 *勿* 聽話。
 >
 > He **NEG** listen.
 >
@@ -311,9 +313,11 @@ Negative of *ai3* 愛 – intention, obligation
 
 <!--Negative of tie’4 着 – obligation-->
 
-### *mêng2* • 免 • necessity, “don’t need to”
+### *mêng2* or *miêng2* • 免 • necessity, “don’t need to”
 
 Negative of *diêh8* 着 - obligation
+
+*mêng2* or *ming2* (depending on regional accent) is the vernacular pronunciation, whereas *miêng2* or *miang2* is the literary pronunciation.
 
 > *meŋ³⁵kʰeʔ⁵kʰi²¹³* • *mêng2(6)kêh4(8)ki3* • 免客氣 • “don’t stand on ceremony”
 
