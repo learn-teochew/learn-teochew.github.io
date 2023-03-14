@@ -510,11 +510,11 @@ For example, the character 學 “learn” has two pronunciations:
 
 Both forms are encountered in various compound words:
 
-> /oʔ²tɯŋ⁵⁵/ • oh8(4)deng5 • 學堂 • “school” (traditional)
+> /oʔ²tɯŋ⁵⁵/ • oh8(4)deng5 • 學堂 • “(traditional) school”
 
-> /hak²hau³⁵/ • hag8(4)hao6 • 學校 • “school” (modern)
+> /hak²hau³⁵/ • hag8(4)hao6 • 學校 • “(modern) school”
 
-> /hak²seŋ³³/ • hag8(4)sêng1 • 學生 • “student” (*seng1* is also literary, cf. colloquial *ser1*)
+> /hak²seŋ³³/ • hag8(4)sêng1 • 學生 • “student” (*sêng1* is also literary, cf. colloquial *sên1*)
 
 > /tua¹¹oʔ⁵/ • dua7oh8 • 大學 • “university” (both characters with vernacular pronunciation)
 
