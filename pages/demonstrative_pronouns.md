@@ -132,16 +132,16 @@ series:
 
 
 
-*ziê2 / hiê2* • 照 / ～ • “these / those” or “here / there”
+*ziê3 / hiê3* • 照 / ～ • “these / those” or “here / there”
 ---------------------------------------------------------
 
 These two words are derived from a fusion of *zi2* 只 / *he2* 許 with another
 word, which may be the collective classifier *go3* 塊 (Xu 2007). Therefore
-*ziê2* and *hiê2* can mean “these” and “those” respectively.
+*ziê3* and *hiê3* can mean “these” and “those” respectively.
 
 > **tsie⁵³** tsɯ³³ si¹¹ ua⁵³ a³³tse³⁵ saŋ¹¹kai¹¹
 >
-> **Ziê2** ze1 si6(7) ua2 a1zê2(6) sang3-gai5(7).
+> **Ziê3(2)** ze1 si6(7) ua2 a1zê2(6) sang3-gai5(7).
 >
 > *照* 書 是 我 阿姐 送 個。
 >
@@ -149,12 +149,12 @@ word, which may be the collective classifier *go3* 塊 (Xu 2007). Therefore
 >
 > These books were a gift from my older sister.
 
-*Ziê2 / hiê2* can also be combined with classifiers, including *coh4* 撮, which
+*Ziê3 / hiê3* can also be combined with classifiers, including *coh4* 撮, which
 is also a collective classifier for multiples of things.
 
 > **hie⁵³tsʰoʔ²** sã³³kʰou²¹³ ua⁵³ kʰiek² kʰɯ⁵³ soi⁵³liou¹¹
 >
-> **Hiê2coh4(8)** san1kou3 ua2 kiêg8(4) ke3(2) soi2-liou7.
+> **Hiê3(2)coh4(8)** san1kou3 ua2 kiêg8(4) ke3(2) soi2-liou7.
 >
 > *～撮* 衫褲 我 挈 去 洗 了。
 >
@@ -162,12 +162,12 @@ is also a collective classifier for multiples of things.
 >
 > I have brought those clothes away to be washed.
 
-*Ziê2muêh8 / hiê2muêh8* “this thing” / “that thing” is like *zi2gai5 /
+*Ziê3(2)muêh8 / hiê3(2)muêh8* “this thing” / “that thing” is like *zi2gai5 /
 he2gai5*, referring to anything, not necessarily plural.
 
 > **tsie⁵³mueʔ²** bo¹¹ho³⁵ tsiaʔ⁵ / hie⁵³mueʔ² iou³⁵ u¹¹ bi¹¹sou²¹³
 >
-> **Ziê2muêh8(4)** bho5(7)ho2(6) ziah8, hiê2muêh8(4) iou1 u6(7) bhi5(7)sou3.
+> **Ziê3(2)muêh8(4)** bho5(7)ho2(6) ziah8, hiê2muêh8(4) iou1 u6(7) bhi5(7)sou3.
 >
 > *照物* 無好 食，～物 夭 有 味素。
 >
@@ -175,10 +175,10 @@ he2gai5*, referring to anything, not necessarily plural.
 >
 > This isn’t tasty, that has more flavor.
 
-Another usage of *ziê2 / hiê2* is for “here” / “there” (Lim 1886), which also
+Another usage of *ziê(2) / hiê(2)* is for “here” / “there” (Lim 1886), which also
 happens to be the other meaning for *zi2go3 / he2go3* (see below).
 
-*Ziê2lai6* / *hiê2lai6* are used to mean “at home”, but depend on whether the
+*Ziê3(2)lai6* / *hiê3(2)lai6* are used to mean “at home”, but depend on whether the
 speaker him- or herself is at home (Xu 2007).
 
 
