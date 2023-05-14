@@ -68,6 +68,34 @@ often!
 
 <hr />
 
+Other resources
+---------------
+
+More online resources for learning Teochew:
+
+[WhatTCsay3](https://tcknow.com/) - Teochew-English and Teochew-French dictionary app for Android and iOS, regularly updated.
+
+[Mogher.com](https://www.mogher.com) - Teochew dictionary (in Chinese) and digital resources
+
+[Czyzd.com](http://www.czyzd.com) - Teochew character dictionary (in Chinese)
+
+[Bahasa Tiociu](https://www.tiociu.com) - Introduction to Teochew in Indonesian by Webble (under construction)
+
+[Teochew Flashcards](https://learningteochew.com/flashcards) by Meyling
+
+[Teochew flashcards and vocabulary quiz](https://teochew.hiphipjorge.com) by Jorge
+
+[Hong Kong Teochew Cultural Association](https://www.tc-culture.hk) - With many resources on Teochew culture and language (in Chinese)
+
+Also look in our [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md
+%}) and [Readings]({{ site.baseurl }}{% link pages/texts/texts.md %}) pages for
+links to more resources.
+
+To connect with an online Teochew diaspora community, you can join the Gaginang
+Discord server ([invite link](https://discord.gg/uuA6eAUaNc)).
+
+<hr />
+
 Technical note
 --------------
 
