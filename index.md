@@ -79,6 +79,8 @@ More online resources for learning Teochew:
 
 [Czyzd.com](http://www.czyzd.com) - Teochew character dictionary (in Chinese)
 
+[The Teochew Store](https://www.theteochewstore.org) - Online store for Teochew-related products, also many free digital resources
+
 [Bahasa Tiociu](https://www.tiociu.com) - Introduction to Teochew in Indonesian by Webble (under construction)
 
 [Teochew Flashcards](https://learningteochew.com/flashcards) by Meyling
