@@ -248,6 +248,7 @@ Other
 Chinese, Min Nan. (2019). In David M. Eberhard, G. F. Simons, & C. D. Fennig (Eds.). *Ethnologue: Languages of the World*, 22nd ed. Dallas, Texas: SIL International. [Website](https://www.ethnologue.com/language/nan)
 
 Mair, Victor H. (2003). How to forget your mother tongue and remember your national language. [Website](http://www.pinyin.info/readings/mair/taiwanese.html)
+
 Wong, Simon. (2015). Bible translation of non-Mandarin Han fangyan (dialects) in mainland China : The case of Swatow. *The Bible Translator* 66 (1) : 24-44. [doi:10.1177/2051677015569712](https://doi.org/10.1177/2051677015569712)
 
 
