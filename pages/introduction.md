@@ -61,7 +61,7 @@ and was rendered with [QGIS](https://qgis.org/en/site/) v3.8.1.
 
 ### Counties of Teochew Prefecture in 1911
 
-Characters | Mandarin (Pinyin) | Teochew (Peng'im) | Teochew (IPA)
+Characters | Mandarin (Pinyin) | Teochew (Pêng'im) | Teochew (IPA)
 -----------|-------------------|------------------ | --------------
 大埔       | Dàpǔ              | Dua7bou1          | tua¹¹ pou³³
 豐順       | Fēngshùn          | Hong1sung6        | hoŋ³³ suŋ³⁵
@@ -232,11 +232,11 @@ Min. Some words in Min languages are hypothesized to be survivals from the
 ancient Yue language, some of which are common everyday words (examples from
 Norman, 1991).
 
-> tam5 • “wet”
+> /tam⁵⁵/ • dam5 • “wet”
 
-> kiar2 • “child”
+> /kĩã⁵²/ • gian2 • “child”
 
-> pak8 • “to know”
+> /pak⁵/ • bag8 • “to know”
 
 The Min language group is itself further divided into Northern and Southern
 Min. Northern Min is spoken in the Northern part of Fujian, while Southern Min
@@ -263,7 +263,7 @@ Teochew *huag4*.
 Some high-frequency words are different between Teochew and Hokkien, for example:
 
 | Teochew  |           |           | Hokkien     |           | Meaning |
-| (IPA)    | (Peng'im) | Character | (Peh-oi-ji) | Character |         |
+| (IPA)    | (Pêng'im) | Character | (Peh-oi-ji) | Character |         |
 | ---------|-----------|-----------|-------------|-----------|---------|
 | uk⁵      | ug8       | 夗        | khùn        | 睏        | to sleep |
 | tʰõĩ⁵²   | toin2     | 睇        | khòaⁿ       | 看        | to see   |
