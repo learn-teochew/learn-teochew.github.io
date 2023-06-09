@@ -19,7 +19,7 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 4    | we (incl.)     | naŋ⁵³                | nang2                | 俺          |
 | 4    | we (excl.)     | uaŋ⁵³                | uang2                | 阮          |
 | 5    | you (pl.)      | niŋ⁵³                | ning2                | 恁          |
-| 6    | they (vern.)   | i³³ naŋ¹¹            | i7nang7              | 伊儂        |
+| 6    | they (vern.)   | i³³ naŋ¹¹            | i1nang7              | 伊儂        |
 | 6    | they           | tʰa³³ muŋ⁵⁵          | ta1mung5             | 他們        |
 | 7    | this (vern.)   | tsi²⁵ kai⁵⁵          | zi2gai5              | 只個        |
 | 7    | this           | tse⁵³                | zê2                  | 這          |
@@ -29,27 +29,27 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 9    | here           | tse²⁵ lai²⁵          | zê2lai6              | 這裏        |
 | 10   | there (vern.)  | hɯ²⁵ ko¹¹            | he2go7               | 許塊        |
 | 10   | there          | na²⁵ lai²⁵           | na2lai6              | 那裏        |
-| 11   | who (vern.)    | ti¹¹ tiaŋ⁵⁵          | di7diang5            | 哋～        |
-| 11   | who (vern.)    | ti¹¹ naŋ⁵⁵           | di7nang5             | 哋儂        |
+| 11   | who (vern.)    | ti¹¹ tiaŋ⁵⁵          | di7diang5            | 哋～、底𫢗  |
+| 11   | who (vern.)    | ti¹¹ naŋ⁵⁵           | di7nang5             | 哋儂、底儂  |
 | 11   | who            | sui⁵⁵                | sui5                 | 誰          |
 | 12   | what (vern.)   | miʔ⁵ kai⁵⁵           | mih4gai5             | 乜個        |
-| 12   | what (vern.)   | si¹¹ miʔ²            | si7mih4              | 什乜 / 是乜 |
+| 12   | what (vern.)   | si¹¹ miʔ²            | si7mih4              | 什乜、是乜  |
 | 12   | what           | sim³³ moʔ⁵           | sim1moh8             | 什麼        |
-| 13   | where (vern.)  | ti¹¹ ko¹¹            | di7go7               | 哋塊        |
+| 13   | where (vern.)  | ti¹¹ ko¹¹            | di7go7               | 哋塊、底塊  |
 | 13   | where          | na²⁵ lai²⁵           | na2lai6              | 哪裏        |
-| 14   | when           | tiaŋ³³ si⁵⁵          | diang1si5            | 唺時        |
+| 14   | when           | tiaŋ³³ si⁵⁵          | diang1si5            | 唺時、𫢗時  |
 | 14   | when           | kui³³ si⁵⁵           | gui1si5              | 幾時        |
 | 15   | how (vern.)    | tso³³ ni⁵⁵           | zo1ni5               | 做呢        |
 | 16   | not (vern.)    | m²⁵                  | m6                   | 唔          |
 | 16   | not            | buk²                 | bug4                 | 不          |
-| 17   | all            | tsʰuaŋ¹¹ pou6        | chuang5bou6          | 全部        |
-| 18   | many           | tsoi¹¹               | zoi7                 | 濟          |
+| 17   | all            | tsʰuaŋ¹¹ pou6        | cuang5bou6           | 全部        |
+| 18   | many           | tsoi¹¹               | zoi7                 | 濟、㩼      |
 | 19   | some           | tsek² se³³           | zêg8sê1              | 一些        |
 | 19   | some           |                      |                      |             |
 | 20   | few            | tiʔ⁵ kĩã⁵³           | dih4gian2            | 滴囝        |
 | 21   | other          | pak² kai⁵⁵           | bag8gai5             | 別個        |
 | 22   | one            | tsek⁵ / ik²          | zêg8 / ig4           | 一          |
-| 23   | two            | no²⁵ / zi²⁵          | no6 / ri6            | 兩 / 二     |
+| 23   | two            | no²⁵ / zi²⁵          | no6 / ri6            | 兩、二      |
 | 24   | three          | sã³³                 | san1                 | 三          |
 | 25   | four           | si²¹³                | si3                  | 四          |
 | 26   | five           | ŋou²⁵                | ngou6                | 五          |
@@ -62,16 +62,16 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 33   | short          | to⁵³                 | do2                  | 短          |
 | 34   | narrow         | oiʔ⁵                 | oih8 (vern.)         | 狹          |
 | 35   | thin           | poʔ⁵                 | boh8                 | 薄          |
-| 36   | woman          | tsɯ³³ nie⁵⁵          | ze1niê5              | 諸娘        |
-| 37   | man            | ta³³ pou³³           | da1bou1              | 查埔        |
-| 38   | person         | naŋ⁵⁵                | nang5                | 儂/人       |
+| 36   | woman          | tsɯ³³ nie⁵⁵          | ze1niê5              | 諸娘、姿娘  |
+| 37   | man            | ta³³ pou³³           | da1bou1              | 查埔、丈夫  |
+| 38   | person         | naŋ⁵⁵                | nang5                | 儂、人      |
 | 39   | child          | nou³³ kĩã⁵³          | nou1gian2            | 孥囝        |
 | 40   | wife           | bou⁵³                | bhou2                | 𡚸          |
 | 41   | husband        | aŋ³³                 | ang1                 | 翁          |
 | 41   | husband        | ta³³ pou³³ naŋ⁵⁵     | da1bou1nang5         | 丈夫人      |
 | 42   | mother         | a³³ ma³³             | a1ma1                | 阿媽        |
-| 42   | mother         | ai³³                 | ai1                  |             |
-| 43   | father         | pe²⁵                 | bê6                  |             |
+| 42   | mother         | ai³³                 | ai1                  | 𡟓          |
+| 43   | father         | pe²⁵                 | bê6                  | 父          |
 | 44   | animal         |                      |                      |             |
 | 45   | fish           | hɯ⁵⁵                 | he5                  | 魚          |
 | 46   | bird           | tsiao⁵³              | ziao2                | 鳥          |
@@ -183,8 +183,8 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 142  | play           | sɯŋ⁵³                | seng2                | 耍          |
 | 143  | float          | pʰu⁵⁵                | pu5                  | 浮          |
 | 144  | flow           | lau⁵⁵                | lao5                 | 流          |
-| 145  | freeze         | kek⁵ sɯŋ³³           | gêg4seng1            |             |
-| 145  | freeze         | kek⁵ toŋ³³           | gêg4dong1            |             |
+| 145  | freeze         | kek⁵ sɯŋ³³           | gêg4seng1            | 結霜        |
+| 145  | freeze         | kek⁵ toŋ³³           | gêg4dong1            | 結凍        |
 | 146  | swell          | tseŋ⁵³               | zêng2                |             |
 | 147  | sun            | tʰai⁵² iaŋ⁵⁵         | tai3iang5            | 太陽        |
 | 147  | sun            | zik² tʰau⁵⁵          | rig8tao5             | 日頭        |
@@ -192,11 +192,11 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 149  | star           | tsʰeŋ³³              | cêng1                | 星          |
 | 150  | water          | tsui⁵²               | zui2                 | 水          |
 | 151  | rain           | hou²⁵                | hou6                 | 雨          |
-| 152  | river          | kʰoi³³               | koi1                 |             |
+| 152  | river          | kʰoi³³               | koi1                 | 溪          |
 | 153  | lake           |                      | ?                    |             |
 | 154  | sea            | hai⁵³                | hai2                 | 海          |
 | 155  | salt           | iam⁵⁵                | iam5                 | 鹽          |
-| 156  | stone          | tsioʔ⁵               | zioh8                |             |
+| 156  | stone          | tsioʔ⁵               | zioh8                | 石          |
 | 157  | sand           | sua³³                | sua1                 | 沙          |
 | 158  | dust           | tʰou¹¹ huŋ⁵³         | tou5hung2            | 土粉        |
 | 159  | earth (planet) | ti¹¹ kiu⁵⁵           | di7giu5              | 地球        |
@@ -205,7 +205,7 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 162  | sky            | tʰĩ³³                | tin1                 | 天          |
 | 163  | wind           | huaŋ³³               | huang1               | 風          |
 | 164  | snow           | soʔ²                 | soh4                 | 雪          |
-| 165  | ice            | pĩã³³ sɯŋ³³          | bian1seng1           |             |
+| 165  | ice            | pĩã³³ sɯŋ³³          | bian1seng1           | 冰霜        |
 | 166  | smoke          | ing³³                | ing1                 | 煙          |
 | 167  | fire           | hue⁵³                | huê2                 | 火          |
 | 168  | ashes          |                      |                      |             |
@@ -221,14 +221,14 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 177  | night          | mẽ⁵⁵ kua¹¹           | mên5gua7             |             |
 | 178  | day            | zik² tau¹¹           | rig8dao7             |             |
 | 179  | year           | ni⁵⁵                 | ni5                  | 年          |
-| 180  | warm           | sie³³                | siê1                 |             |
+| 180  | warm           | sie³³                | siê1                 | 燒          |
 | 180  | warm           | uŋ³³ uŋ³³            | ung1ung1             |             |
 | 181  | cold           | ŋaŋ⁵⁵                | ngang5               | 寒          |
 | 182  | full           | tĩ6                  | din6                 | 滇          |
-| 183  | new            | siŋ³³                | sing1                | 新          |
+| 183  | new            | siŋ³³                | sing1                | 新          |
 | 184  | old            | lau²⁵                | lao6                 | 老          |
 | 185  | old            | ku¹¹                 | gu7                  | 舊          |
-| 186  | bad            | mo⁵³                 | mo2                  |             |
+| 186  | bad            | mo⁵³                 | mo2                  | 孬          |
 | 186  | bad            | au²¹³                | ao3                  |             |
 | 187  | rotten         | mi⁵⁵                 | mi5                  |             |
 | 188  | dirty          | tsʰi³³ gi⁵⁵          | ci1ghi5              |             |
@@ -245,10 +245,10 @@ Source: <https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists> wit
 | 199  | right          | tsĩã⁵² tsʰiu²⁵ põĩ³³ | zian3ciu2boin1       | 正手爿      |
 | 200  | left           | to⁵² tsʰiu²⁵ põĩ³³   | do3ciu2boin1         | 倒手爿      |
 | 201  | at             | to²⁵                 | do6                  | 在          |
-| 202  | in             | to²⁵ … lai²⁵         | do6 … lai6           | 在⋯⋯內      |
-| 202  | in             | to²⁵ … tõĩ⁵³         | do6 … doin2          |             |
-| 203  | with           | kaʔ⁵                 | gah8                 | 佮          |
-| 204  | and            | kaʔ⁵                 | gah8                 | 佮          |
+| 202  | in             | to²⁵ … lai²⁵         | do6 … lai6           | 在……內      |
+| 202  | in             | to²⁵ … tõĩ⁵³         | do6 … doin2          | 在……底      |
+| 203  | with           | kaʔ⁵                 | gah8                 | 佮、甲、合  |
+| 204  | and            | kaʔ⁵                 | gah8                 | 佮、甲、合  |
 | 205  | if (vern.)     | na³³ si¹¹            | na1si7               | 哪是        |
 | 205  | if (lit.)      | zu2 kũẽ⁵³            | ru2guên2             | 如果        |
 | 206  | because        | iŋ³³ ui¹¹            | ing1ui7              | 因為        |
