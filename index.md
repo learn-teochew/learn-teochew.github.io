@@ -89,6 +89,8 @@ More online resources for learning Teochew:
 
 [Hong Kong Teochew Cultural Association](https://www.tc-culture.hk) - With many resources on Teochew culture and language (in Chinese)
 
+[Introduction to Teochew](https://soundcloud.com/smith-surasmith/sets/sample-introduction-to-teochew) - Soundcloud playlist by smith surasmith
+
 Also look in our [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md
 %}) and [Readings]({{ site.baseurl }}{% link pages/texts/texts.md %}) pages for
 links to more resources.
