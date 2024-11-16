@@ -223,7 +223,7 @@ that is otherwise abrupt or plain.
 >
 > Q: Le2 gag8(4)dêg8(4) Diê5(7)-Suan5-uê7 kah4 u6(7)-êng6?
 >
-> 問：汝 覺得 潮汕話 kha’4 有用？
+> 問：汝 覺得 潮汕話 kah4 有用？
 >
 > You feel Teo-Swa-language Q have-use?
 >
@@ -327,6 +327,4 @@ References and further reading
 
  * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 5 part 22, Chapter 3 part 5
 
-[^1]: **Tam1bhu1-diao7cai7zê1** - Pronunciation here may show influence from
-  Mandarin. The standard Teochew pronunciation would be **tam1u1
-  tiao5(7)cê5(7)gêg8**
+[^1]: **Tam1bhu1-diao7cai7zê1** - Pronunciation here may show influence from Mandarin. The standard Teochew pronunciation would be **tam1u1 tiao5(7)cê5(7)gêg8**
