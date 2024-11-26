@@ -39,7 +39,7 @@ plugins:
 
 # just-the-docs specific
 heading_anchors: true
-footer_content: "Original content copyright (c) 2019-2021 Brandon Seah, except where otherwise indicated"
+footer_content: "Original content copyright (c) 2019-2024 Brandon Seah, except where otherwise indicated"
 logo: "/assets/images/learn-teochew-logo-site-top.png"
 
 # Exclude from processing.
