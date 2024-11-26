@@ -394,7 +394,7 @@ Ang1 gio3(5) ci7… a1 Iong5(7)zêng3 a1-nê7 gai7, Cing5(7)-si2(6)uang5 i1-gai7
 
 安叫 ⋯⋯ a 嬴政 按呢 個，秦始皇 伊個 「贏」 字，儂 乞 伊 讀作⋯⋯
 
-Another example is… Iong-tseng, the first Qin Emperor, they read the “iong” as “iar”,
+Another example is… Iong-tseng, the first Qin Emperor, they read the “iong” as “iaⁿ”,
 
 <hr />
 
@@ -404,7 +404,7 @@ m6(7)bag4 ziu6(7) koih4-i1 tag8(4)zoh4(8) “ian5”, i1-gai7 ri7 zu7 si6(7) “
 
 唔捌 就 乞 伊 讀作 ian，伊個 字 就是 iong 字，ma。秦贏政，ma，ho。
 
-If they don’t recognize it, they read it as “iar”, but it should be “iong” here: Tshing Iong-tseng, right?
+If they don’t recognize it, they read it as “iaⁿ”, but it should be “iong” here: Tshing Iong-tseng, right?
 
 <hr />
 
