@@ -36,6 +36,8 @@ Contents
 
 [Readings in Teochew]({{ site.baseurl }}{% link pages/texts/texts.md %}){: .btn .btn-blue }
 
+[Learn Teochew Opera](https://learn-teochew.github.io/tc-opera/){: .btn .btn-green }
+
 [Wiktionary Teochew index]({{ site.baseurl }}{% link pages/teochew_wiktionary_index/teochew_wiktionary_index.md %}){: .btn .btn-blue }
 
 [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md %}){: .btn .btn-blue }
