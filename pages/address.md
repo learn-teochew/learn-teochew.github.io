@@ -2,7 +2,7 @@
 layout: default
 title: Terms of address
 parent: Guide
-nav_order: 7
+nav_order: 8
 ---
 
 Terms of address

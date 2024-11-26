@@ -2,7 +2,7 @@
 layout: default
 title: Polite language
 parent: Guide
-nav_order: 11
+nav_order: 10
 ---
 
 Polite language

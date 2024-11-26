@@ -2,7 +2,7 @@
 layout: default
 title: Location
 parent: Guide
-nav_order: 6
+nav_order: 7
 ---
 
 Location and direction

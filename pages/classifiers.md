@@ -2,7 +2,7 @@
 layout: default
 title: Classifiers
 parent: Guide
-nav_order: 8
+nav_order: 9
 ---
 
 Classifiers and *gai5* 個
