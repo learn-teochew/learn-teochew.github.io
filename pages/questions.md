@@ -744,5 +744,4 @@ References and further reading
 
 [^1]: What every teenager dreads to hear on coming home past midnight.
 
-[^2]: A question allegedly heard most often at family gatherings over the
-  Chinese New Year.
+[^2]: A question allegedly heard most often at family gatherings over the Chinese New Year.
