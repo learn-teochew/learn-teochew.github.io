@@ -80,10 +80,4 @@ full-texts (if available) are listed in the [Bibliography]({{ site.baseurl }}{% 
 
 <hr />
 
-[^1]: Some pages in this section of the site contain copyrighted material that
-  may not have been specifically authorized for use by the copyright owner. We
-  post only textual transcriptions of excerpts source materials, to illustrate
-  and comment on language usage for educational, non-profit purposes. We
-  believe that this constitutes fair use or fair dealing of the copyrighted
-  material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you
-  have any concerns.
+[^1]: Some pages in this section of the site contain copyrighted material that may not have been specifically authorized for use by the copyright owner. We post only textual transcriptions of excerpts source materials, to illustrate and comment on language usage for educational, non-profit purposes. We believe that this constitutes fair use or fair dealing of the copyrighted material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you have any concerns.
