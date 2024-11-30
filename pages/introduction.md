@@ -38,7 +38,7 @@ Hog(4)8giêng3) province to the East and the South China Sea to the South.
 Further up North along the coastline is the port city of Xiàmén (廈門, T:
 Ê6(7)mung5, also known as Amoy) in Fujian, and further down South along the
 coastline are the port cities of Hong Kong, Macau, and Guangzhou (廣州,
-T:Keung6tsiu1, also known as Canton) on the Pearl River Delta.
+T:Geng2(6)ziu1, also known as Canton) on the Pearl River Delta.
 
 The terrain of the Chaozhou region comprises coastal plains fed by numerous
 rivers and tributaries, bordered by mountainous areas further inland. The
