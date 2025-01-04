@@ -241,7 +241,7 @@ that is otherwise abrupt or plain.
 >
 > Of course. What rubbish!
 >
-> (*“Is there a use for Teo-Swa language?”*)
+> (*“Is there a use for Teo-Swa language?”*) ([YouTube](https://www.youtube.com/watch?v=PAUq_9xfzbQ))
 
 <!--
 lo
