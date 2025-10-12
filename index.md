@@ -38,6 +38,10 @@ Contents
 
 [Learn Teochew Opera](https://learn-teochew.github.io/tc-opera/){: .btn .btn-green }
 
+[Teochew Romanization Converter](https://learnteochew.com/pengim-js/){: .btn .btn-blue }
+
+[Teochew Pronunciation Annotator](https://learnteochew.com/charpeng-js/){: .btn .btn-blue }
+
 [Wiktionary Teochew index]({{ site.baseurl }}{% link pages/teochew_wiktionary_index/teochew_wiktionary_index.md %}){: .btn .btn-blue }
 
 [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md %}){: .btn .btn-blue }
@@ -54,7 +58,9 @@ Get in touch!
 
 [Support the Project](https://ko-fi.com/kbseah){: .btn .btn-green }
 
-[Follow on Twitter](https://twitter.com/LearnTeochew){: .btn .btn-green }
+[Follow on GitHub](https://github.com/learn-teochew){: .btn .btn-green }
+
+[Follow on Twitter (archive only)](https://twitter.com/LearnTeochew){: .btn .btn-green }
 
 [Follow on Mastodon](https://mastodon.online/@LearnTeochew){: .btn .btn-green }<a rel="me" href="https://mastodon.online/@LearnTeochew">.</a>
 
@@ -72,6 +78,9 @@ often!
 
 Other resources
 ---------------
+
+To connect with an online Teochew diaspora community, you can join the Gaginang
+Discord server ([invite link](https://discord.gg/uuA6eAUaNc)).
 
 More online resources for learning Teochew:
 
@@ -96,9 +105,6 @@ More online resources for learning Teochew:
 Also look in our [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md
 %}) and [Readings]({{ site.baseurl }}{% link pages/texts/texts.md %}) pages for
 links to more resources.
-
-To connect with an online Teochew diaspora community, you can join the Gaginang
-Discord server ([invite link](https://discord.gg/uuA6eAUaNc)).
 
 <hr />
 

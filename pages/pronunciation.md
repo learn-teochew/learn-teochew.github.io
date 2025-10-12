@@ -37,6 +37,10 @@ both IPA and Peng’im, as well as other systems developed by missionaries in th
 19th century and which may be encountered in older texts. These are explained
 more fully under “Orthography” below.
 
+Try our online tools to [convert between Teochew romanization
+systems](https://learnteochew.com/pengim-js/) and to [annotate Chinese
+characters with Teochew pronunciation](https://learnteochew.com/charpeng-js/).
+
 To hear examples of Teochew pronunciation, check out our video series on Teochew
 pronunciation and Pêng’im on YouTube:
 
