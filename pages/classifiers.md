@@ -227,61 +227,61 @@ is used for round objects like fruit and eggs.
 |--------------|---------|-----------|--------------------------|
 | bou⁵³        | bhou2   |           | Fields |
 | bue⁵³        | bhuê2   | 尾        | Fish (lit. “a tail”) |
-|              |         |           | heu5 魚 fish |
+|              |         |           | he5 魚 fish |
 | hieʔ²        | hiêh4   | 頁        | Pages of a book |
 | hue³³        | huê1    | ～        | Thin slice of something |
-|              |         |           | bha’4 肉 meat |
+|              |         |           | bhah4 肉 meat |
 | ki³³         | gi1     | 枝        | Long, slender, and rigid things |
-|              |         |           | to1 刀 knife |
-|              |         |           | tsam1 針 needle |
-|              |         |           | tek8ko1 竹竿 bamboo pole |
-|              |         |           | pik4 筆 pen |
+|              |         |           | do1 刀 knife |
+|              |         |           | zam1 針 needle |
+|              |         |           | dêg4go1 竹竿 bamboo pole |
+|              |         |           | big4 筆 pen |
 | kĩã³³        | gian1   | 件        | Business, matter, affair |
-|              |         |           | seu7 事 matter, affair |
+|              |         |           | se7 事 matter, affair |
 | kõĩ³³        | goin1   | 間        | Houses, rooms |
-|              |         |           | phang3keng1 房間 room |
-|              |         |           | tshu3 厝 house |
+|              |         |           | pang5gêng1 房間 room |
+|              |         |           | cu3 厝 house |
 | ko²¹³        | go3     | 塊        | Pieces or slices of things, including pieces of land |
-|              |         |           | kue2 糕 cake, pastry |
+|              |         |           | guê2 糕 cake, pastry |
 | kʰa³³        | ka1     | 腳        | Boxes, coffins, rings |
 | liap⁵        | liab8   | 粒        | Fruit, eggs, round things |
-|              |         |           | pheng7guain2 蘋果 apple |
-|              |         |           | neung6 卵 egg |
-|              |         |           | kiu1 球 ball |
+|              |         |           | pêng5guain2 蘋果 apple |
+|              |         |           | neng6 卵 egg |
+|              |         |           | giu1 球 ball |
 | lui⁵³        | lui2    |           | Flowers |
 | nĩã⁵³        | nian2   | 領        | Clothing, sheets, nets |
-|              |         |           | sar1 衫 shirt |
+|              |         |           | san1 衫 shirt |
 |              |         |           | mang6 網 net |
-|              |         |           | khou7 褲 trousers |
+|              |         |           | kou3 褲 trousers |
 | pak          | bag4    | 幅        | Maps, hanging scrolls |
 | puŋ⁵³        | bung2   | 本        | Books |
-|              |         |           | tseu1 書 book |
+|              |         |           | ze1 書 book |
 | seŋ³³        | sêng1   | 身        | Bodies, things shaped like bodies (e.g. dolls), and things worn on the body |
 | teŋ⁵³        | dêng2   | 頂        | Hats and caps |
 | tĩẽ³³        | diên1   | 張        | Sheets, paper, machines, vehicles |
-|              |         |           | tsua2 紙 paper |
-|              |         |           | kha1tshia1 腳車 bicycle |
+|              |         |           | zua2 紙 paper |
+|              |         |           | ka1cia1 腳車 bicycle |
 | tieu⁵⁵       | diêu5   | 條        | Long, slender, and flexible things |
-|              |         |           | suar3 線 string |
+|              |         |           | suan3 線 string |
 |              |         |           | lou7 路 road |
-|              |         |           | pou3 布 towel |
+|              |         |           | bou3 布 towel |
 | tsiaʔ²       | ziah4   | 隻        | Animals, birds, furniture, vehicles, ships |
-|              |         |           | koi1 雞 chicken |
-|              |         |           | kau2 狗 dog |
-|              |         |           | teu1 豬 pig |
-|              |         |           | tsheung5 桌 table |
-|              |         |           | tsung5 船 ship |
+|              |         |           | goi1 雞 chicken |
+|              |         |           | gao2 狗 dog |
+|              |         |           | de1 豬 pig |
+|              |         |           | ceng5 桌 table |
+|              |         |           | zung5 船 ship |
 | tso²¹³       | zo3     | 座        | Buildings, large houses |
-|              |         |           | tua7tshu3 大厝 mansion |
+|              |         |           | dua7lao5 大樓 mansion |
 | tsu²¹³       | zu3     | 主        | Person |
 | tsʰaŋ⁵⁵      | cang5   | 欉        | Trees, plants |
-|              |         |           | tshiu3 樹 tree |
+|              |         |           | ciu3 樹 tree |
 | tsʰak²       | cag4    | 節        | A piece of something between two joints, e.g. fingers, bamboo, tree branches, roads |
 |              |         |           | lou7 路 road |
 | tsʰuʔ²       | cuh4    | 齣        | Act of a stage play, show |
-|              |         |           | hih7 戲 show |
+|              |         |           | hi7 戲 show |
 | ui¹¹         | ui7     | 位        | Person (polite) |
-|              |         |           | ui1seng1 醫生 doctor |
+|              |         |           | ui1sêng1 醫生 doctor |
 
 ### Overlap between Teochew and Mandarin classifiers
 
@@ -420,7 +420,7 @@ are sometimes grouped together under the name “descriptive linker”.
 
 ### Nominalizing suffix
 
-An adjective or adjective phrase can behave like a noun, by adding *kai5* as a
+An adjective or adjective phrase can behave like a noun, by adding *gai5* as a
 suffix.
 
 > lɯ⁵³ u¹¹ ho³⁵tsiaʔ² **kai¹¹** bo⁵⁵
