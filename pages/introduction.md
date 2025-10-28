@@ -101,7 +101,7 @@ Shàntóu/Swatow City 汕頭市. The former was historically the administrative
 center, whereas the latter is the modern day economic center. Today, the former
 Teochew prefecture is organized into three city-level administrative regions of
 Chaozhou, Shantou, and Jieyang, as well as two counties to the North, Fengshun
-and Dapu, which are not as density settled.
+and Dapu, which are not as densely settled.
 
 
 Teochew culture
