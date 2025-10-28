@@ -22,9 +22,9 @@ Do6(7) Têng5(7)hai2 u6(7) zêg8(4)gai5(7) siu3(2)cai5, u6(7) huam3(2)diêh8(4) 
 
 There was a graduate in Thenghai, who had broken the law.
 
-> *Siu2tshai5* 秀才 – Graduate of the entry-level civil service examinations in the imperial system, “licentiate”. However, as the passing rate of the examinations were so low, a licentiate might actually be quite old.
+> *Siu2cai5* 秀才 – Graduate of the entry-level civil service examinations in the imperial system, “licentiate”. However, as the passing rate of the examinations were so low, a licentiate might actually be quite old.
 {: .fs-2}
-> *Theng7hai2* 澄海 – County in Teochew prefecture.
+> *Têng5hai2* 澄海 – County in Teochew prefecture.
 {: .fs-2}
 
 <hr />
@@ -47,9 +47,9 @@ Lao6(7)dia1 di3(2)dêng2 ziu6(7) cug4(8)lai5(7) zo6(7)deng5.
 
 The magistrate put on his hat and in to hold court.
 
-> *Lau7tia1* 老爹 – Colloquial term for magistrate or official, probably reflecting the concept of officials being like parents to the common folk 父母官.
+> *Lao6dia1* 老爹 – Colloquial term for magistrate or official, probably reflecting the concept of officials being like parents to the common folk 父母官.
 {: .fs-2}
-> *teng2ti2* 頂戴 – round hat with a precious stone on top marking rank, worn by Qing dynasty officials. The inverted word ti2teng2 refers to the action of putting on the hat.
+> *dêng2di3* 頂戴 – round hat with a precious stone on top marking rank, worn by Qing dynasty officials. The inverted word di3dêng2 refers to the action of putting on the hat.
 {: .fs-2}
 
 <hr />
@@ -68,13 +68,15 @@ lau¹¹ tia³³ sim²⁵ kau⁵² hoʔ⁵ ku⁵² lou¹¹ / naŋ⁵⁵ zuaʔ² t
 
 Lao6(7)dia1 sim2(6) gau3(2) hoh4(8)gu2 lou7, nang5 ruah8(4)zai6, liab8(4)dêng2 ziu6(7) tug4(8)diou7 bang3(2) do6(7) ceng5(7)dêng2.
 
-老爹 審到 ho’2久𡀔，儂 熱在，粒頂 就 脫掉 放在 床頂。
+老爹 審到 好久𡀔，儂 熱在，粒頂 就 脫掉 放在 床頂。
 
 The magistrate examined him for a long time, and feeling warm, took off his hat and placed it on the table.
 
-> *Tsai6* 在 – Literary pronunciation
+> *hoh4* 好 – The usual vernacular pronunciation is ho2, but pronounced hoh4 when used as an adjective/adverb meaning “very”.
 {: .fs-2}
-> *Liap4* 粒 – Functions here as a classifier.
+> *zai6* 在 – Literary pronunciation
+{: .fs-2}
+> *liab8* 粒 – Functions here as a classifier.
 {: .fs-2}
 
 <hr />
@@ -87,7 +89,7 @@ Siu3(2)cai5 do6(7) guin6(7) sui5(7)si5 ziu6(7) ki2(6)lai5(7).
 
 The graduate, who until now had been kneeling, immediately stood up.
 
-> *Sui7si5* 隨時 – immediately
+> *Sui5si5* 隨時 – immediately
 {: .fs-2}
 
 <hr />
