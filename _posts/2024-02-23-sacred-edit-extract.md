@@ -240,8 +240,15 @@ Tsangtsz’ speaks thus respecting it:<br/>
 
 【文】居處不莊非孝<br/>
 【潮】大家做⿰口匏不正即不是行孝。<br/>
-dai-gê zo-X m-zian ziêg m-si hêng-hao<br/>
+dai-gê zo-bhu m-zian ziêg m-si hêng-hao<br/>
 “It is unfilial to move and act without dignity;<br/>
+
+> 做⿰口匏 zo3-bhu5 - “together”; also written 做垺
+> ([Wiktionary](https://en.wiktionary.org/wiki/%E5%81%9A%E5%9E%BA#Chinese)).
+> The character for bhu5 used in this publication is not yet in Unicode,
+> although a [proposal](https://hc.jsecs.org/irg/ws2024/app/?id=00552) has been
+> submitted. [Thanks to @Fishbowl and Justin Leung for the information. Updated
+> 10 Mar 2026.]
 
 【文】事君不忠非孝<br/>
 【潮】服事王家不盡忠即不是行孝。<br/>
