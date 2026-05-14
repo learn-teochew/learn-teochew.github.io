@@ -209,12 +209,12 @@ Telling time
 
 | Definition    | IPA          | Peng’im      | Character |
 |---------------|--------------|--------------|-----------|
-| day time      | zik²kua³³    | rig8(4)gua3  | 日～      |
-| night time    | mẽ¹¹kua²¹³   | mên5(7)gua3  | 暝～      |
+| day time      | zik²kua²¹³   | rig8(4)gua3  | 日旰      |
+| night time    | mẽ¹¹kua²¹³   | mên5(7)gua3  | 旰旰      |
 | morning, dawn | meŋ¹¹kʰi⁵³   | mêng5(7)ki2  | 眠起      |
-| forenoon      | tsĩẽ¹¹kua²¹³ | ziên5(7)gua3 | 前～      |
+| forenoon      | tsĩẽ¹¹kua²¹³ | ziên5(7)gua3 | 上旰      |
 | noon          | zik²tau²¹³   | rig8(4)dao3  | 日晝      |
-| afternoon     | e¹¹kua²¹³    | ê6(7)gua3    | 下～      |
+| afternoon     | e¹¹kua²¹³    | ê6(7)gua3    | 下旰      |
 | dusk          | mẽ¹¹hŋ³³     | mên5(7)hng1  | 暝昏      |
 | night         | zik²am²¹³    | rig8(4)am3   | 日暗      |
 | midnight      | pũã⁵³mẽ⁵⁵    | buan3(2)mên5 | 半暝      |
@@ -225,6 +225,10 @@ marked in Chinese cities by the night watch. The night was subdivided into five
 equal “watches” *gên1* 更, which were announced by a drum or gong.[^2] This is
 the origin of the phrase *san1gên1-buan3(2)mên5* 三更半夜 “in the dead of
 night”.
+
+The character [旰](https://en.wiktionary.org/wiki/%E6%97%B0#Etymology_3)
+sometimes used to write *gua3* is otherwise pronounced *gang3* when used in the
+literary sense of “sunset”.
 
 ### Reading the clock
 
